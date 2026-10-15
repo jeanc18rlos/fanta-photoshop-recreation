@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T723N6PMGQBAGFAC0F2H",
+      "index": 10.0,
+      "name": "Status / Color=Yellow, State=Default, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7235MNJXKJA278ZZS63",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7232AW0BE8EAWBJFVPK"
+}

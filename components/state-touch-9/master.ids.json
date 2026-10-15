@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74GB6A56D7R6N1ZFPRW",
+      "index": 3.0,
+      "name": "State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74GA43KJQ9QWCGR3XGD",
+      "index": 1.0,
+      "name": "Checkmark100",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74GJFJXFJZ629YTB3MJ"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76CZ9M6AWFRV214927Y",
+      "index": 26.0,
+      "name": "State=Focus, Rounding=Regular, Selection=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76C553R38PAKG90KJN1",
+      "index": 1.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76BKZ4ZHTW4ZC3MYQG8"
+}

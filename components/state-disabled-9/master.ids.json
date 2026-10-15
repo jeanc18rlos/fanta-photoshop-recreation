@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74NZ299T0MTZKCMK8NM",
+      "index": 5.0,
+      "name": "State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74NN3EBHRQGX6WQS9YP",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T74NJ2WNGVTCD8WV27B8",
+      "index": 2.0,
+      "name": "Section Header Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74NA7VSPBWE4T8V40V9",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T74N4AQAQ12V0844V7K6"
+}

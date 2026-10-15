@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70QD7N0QA7305MRHZ34",
+      "index": 101.0,
+      "name": "Color=Static Black, State=Focus, Outlined ?=False, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70Q1A7SP47C6C3DS401",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T70QMRFG8WNTQAEQZQGA",
+      "index": 2.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T70NXNKTESA0NBX8GMSY"
+}

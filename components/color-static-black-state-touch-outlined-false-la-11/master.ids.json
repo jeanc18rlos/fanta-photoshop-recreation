@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70K0GWY5H732J245ZRH",
+      "index": 41.0,
+      "name": "Color=Static Black, State=Touch, Outlined ?=False, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70KHAEJBER8HJNN0R4W",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70KYYXFHGX99HMBV40G",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T70JXN52JM9EJN4TSVT2"
+}

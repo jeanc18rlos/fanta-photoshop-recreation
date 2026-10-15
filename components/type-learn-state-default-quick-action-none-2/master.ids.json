@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7366CHJ5QHC86Z80H7D",
+      "index": 15.0,
+      "name": "Type=Learn, State=Default, Quick Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736X0CTFX669B1CTG1C",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7369VQG6QBW11GYNVQS",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736NYAWX2JCQAQC6FA4",
+      "index": 3.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736SZGCAQ8PE17NPHG9",
+      "index": 1.0,
+      "name": "VectorDraw",
+      "parent_index": 3,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T735A3MGFR46YRWXYTFV"
+}

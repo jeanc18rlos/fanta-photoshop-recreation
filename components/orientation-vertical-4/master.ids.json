@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77EDK3TD7PGNW2534HX",
+      "index": 2.0,
+      "name": "Orientation=Vertical",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77EC7ER6HJAG5DKFQ23",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ERF3A5NHBYQJFZ2GD",
+      "index": 2.0,
+      "name": "Tab 1",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77E23HGWHE1P7FMPYK5",
+      "index": 3.0,
+      "name": "Tab 2",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77EHPGFJMW99RVW34HM",
+      "index": 4.0,
+      "name": "Tab 3",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T77E09PHMKV586FDV39G"
+}

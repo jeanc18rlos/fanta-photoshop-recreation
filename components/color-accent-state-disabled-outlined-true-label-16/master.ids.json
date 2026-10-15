@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70YZMRZS2G3AY7XAN1V",
+      "index": 55.0,
+      "name": "Color=Accent, State=Disabled, Outlined ?=True, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70Y11WXW4QRQ1QC16MM",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70YX9ZGP9D27FF5HFHG",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T70XJN31XGAVH3C4ENBE"
+}

@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72VNXDWVTBMDHDN88K3",
+      "index": 2.0,
+      "name": "Style=Indeterminate, Track Size=Small, Color=Default",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72VDRRN10EXSRMGSSYP",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72V9TSNFFZ2NF5V9QDE",
+      "index": 2.0,
+      "name": "Fill",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T72VW3DPQR26YRT422JJ"
+}

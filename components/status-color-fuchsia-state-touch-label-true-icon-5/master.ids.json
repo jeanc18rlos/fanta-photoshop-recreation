@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71ZFTK1G4Q0EY20NSX7",
+      "index": 78.0,
+      "name": "Status / Color=Fuchsia, State=Touch, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71ZF7ARB1M0T5SDXPV5",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71Z1SSTKEK1B9RNSAMH",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T71Y5RYWHVWD7YN44H6B"
+}

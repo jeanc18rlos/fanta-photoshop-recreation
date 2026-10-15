@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T733KMKRZXWSXA9YFYMG",
+      "index": 15.0,
+      "name": "Type=Social, State=Hover, Hover Action=Unselected Checkbox & Move",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731XKQ71FX3C9K447CP",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T731GQWX91VKQXSBJV8Z",
+      "index": 2.0,
+      "name": "Divider Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731Z9GG8S321VCKK4ES",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T731WYPAASTBXW4V09EP",
+      "index": 3.0,
+      "name": "Footer",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T731PESFPVE0XX3G2S56",
+      "index": 4.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731CD5QSJGFWF0GX4SA",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Light",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7318C0TM6WDGXKDJ78X",
+      "index": 2.0,
+      "name": "_Card - Quick Actions - Desktop - Light",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7333SCZZNZ5E000TPKM"
+}

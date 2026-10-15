@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GV2A2YV2EQA9EERYZK",
+  "name": "Scroll-Zoom Bar - Desktop - Wireframe",
+  "props": [
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVKW8RDE7PE964N6DC",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Handles ?"
+    },
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GV0AFQ694HKWZH3NEG",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Track ?"
+    }
+  ],
+  "root": "01M4V5T77KCM71SA98Y4M24AH7"
+}

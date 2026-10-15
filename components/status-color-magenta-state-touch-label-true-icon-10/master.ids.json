@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7298S9B1Q65GHC57S4H",
+      "index": 79.0,
+      "name": "Status / Color=Magenta, State=Touch, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72915N59PB72T0VGWXW",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T729NH14FGGZTHKV0SX2",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T728MGC1Z9GTNMETE1EA"
+}

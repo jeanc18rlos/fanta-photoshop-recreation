@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76VA2ZWA66PNK01YS4B",
+      "index": 6.0,
+      "name": "Label Position=Top, Fill=Negative Offset Fill, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76VN8PTR0DJ01RM5A5G",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76V69MQC2TTNZFT4EKQ",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T76VBXX1D2AB3N5QN64P",
+      "index": 2.0,
+      "name": "Value",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T76V08MSJF4P9B462BYJ",
+      "index": 2.0,
+      "name": "Slider",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76VG33735438E4HEBQQ",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76VMRYGY255H9YZY799",
+      "index": 2.0,
+      "name": "Track Spacer",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76VP79XC72CKR8AJG7M",
+      "index": 3.0,
+      "name": "Handle Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76VTKRNFYBC9DBHCSCQ",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 7,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76VKN7MB7JTHA2ZHJXY"
+}

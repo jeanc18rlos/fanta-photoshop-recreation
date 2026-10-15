@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Stop() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70GTTDA2QZSHJ1RMF04" meta={{"figma_id": "41:35557", "figma_type": "SYMBOL"}} name="Stop" opacity={1.0} scrollable={false} x={132.0} y={2908.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T705DJ83DWAEJ2ZAC8Z8" local_size={[12.0, 14.0]} meta={{"figma_id": "2:5050", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [11.5, 0.0]}, {"op": "line", "to": [0.5, 0.0]}, {"ctrl1": [0.22385761141777039, 0.0], "ctrl2": [0.0, 0.22385761141777039], "op": "cubic", "to": [0.0, 0.5]}, {"op": "line", "to": [0.0, 13.5]}, {"ctrl1": [0.0, 13.776142120361328], "ctrl2": [0.22385761141777039, 14.0], "op": "cubic", "to": [0.5, 14.0]}, {"op": "line", "to": [11.5, 14.0]}, {"ctrl1": [11.776142120361328, 14.0], "ctrl2": [12.0, 13.776142120361328], "op": "cubic", "to": [12.0, 13.5]}, {"op": "line", "to": [12.0, 0.5]}, {"ctrl1": [12.0, 0.22385761141777039], "ctrl2": [11.776142120361328, 0.0], "op": "cubic", "to": [11.5, 0.0]}, {"op": "close"}]}} x={3.0} y={2.0} />
+    </Frame>
+  );
+}

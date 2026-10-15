@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T715QRPWYX26QRVKDYKQ",
+      "index": 6.0,
+      "name": "Handle=At Edge, Orientation=Horizontal, State=Default",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T715MFV05832NT8ZVC4Q",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T715XMBNGN4DCC4GBPE2",
+      "index": 1.0,
+      "name": "Handle Fill",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T715G4280V4JZD4JF467",
+      "index": 2.0,
+      "name": "Handle Border",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T715WYHVC0PE6RKJ8GKE"
+}

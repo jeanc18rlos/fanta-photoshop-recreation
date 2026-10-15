@@ -1,0 +1,116 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77P7XF5XTJ1392X46FG",
+      "index": 2.0,
+      "name": "Indicator Position=Left Top",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77PYKBZVRV2RA9R8K78",
+      "index": 1.0,
+      "name": "Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77PG12X3DRPS5X11KHT",
+      "index": 1.0,
+      "name": "Outer Circle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77PSV7N8ZJMR71CZFY5",
+      "index": 2.0,
+      "name": "Primary Circle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77PNTCRGW2HFAHS3Z7H",
+      "index": 3.0,
+      "name": "Inner Circle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77PM1YWV4TFPE960DAK",
+      "index": 2.0,
+      "name": "Message",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77PV0Y043QJQXE8D8B1",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 5,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77P2QWBM1P0JE3EZN08",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77PZXVFJGTXNVRPSYSJ",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 7,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77PAZN30E0Y9E2WAB0P",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 8,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77PY5K5ZD22XK320PRA",
+      "index": 2.0,
+      "name": "Step Count Container",
+      "parent_index": 8,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77P4C2KKMZE42V1PF9H",
+      "index": 1.0,
+      "name": "Step Count",
+      "parent_index": 10,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77PZYY8B5Z6K8NG9K42",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 7,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77PPEDMYBP3057BZME2",
+      "index": 3.0,
+      "name": "Buttons",
+      "parent_index": 7,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77PPS2Y8AA0XXQAZ7MP",
+      "index": 1.0,
+      "name": "Secondary Button",
+      "parent_index": 13,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77PXMMAESQ8GHSX2KHD",
+      "index": 2.0,
+      "name": "Primary Button",
+      "parent_index": 13,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T77PMKS8GCNXKGTSH5XW"
+}

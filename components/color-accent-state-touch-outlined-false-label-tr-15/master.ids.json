@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71JJ9C7W9956GSY1E6E",
+      "index": 85.0,
+      "name": "Color=Accent, State=Touch, Outlined ?=False, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71J6EVZN37ERAQ8QJV5",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T71HP6ZABA0FQDNR9P1A"
+}

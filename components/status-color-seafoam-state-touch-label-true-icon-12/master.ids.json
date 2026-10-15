@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T725A31A28WJMQ1SPVCT",
+      "index": 25.0,
+      "name": "Status / Color=Seafoam, State=Touch, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7259MKKT29CBEC1EMN1",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T725ECCV005PKYH497FS"
+}

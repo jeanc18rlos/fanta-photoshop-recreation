@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76A7TMKSKX27M7SJGNV",
+      "index": 8.0,
+      "name": "State=Hover, Rounding=None, Selection=Mixed",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76ASKYH3FCGGDTQ0NZR",
+      "index": 1.0,
+      "name": "Hyphen",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76AZV5DJHZASH6D27YV"
+}

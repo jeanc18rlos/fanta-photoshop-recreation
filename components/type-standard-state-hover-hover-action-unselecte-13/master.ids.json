@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7331F53YB330Y7W3747",
+      "index": 1.0,
+      "name": "Type=Standard, State=Hover, Hover Action=Unselected Checkbox",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T733HBV42QPJX07XWZQN",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T733TT999QERKY0D2FSY",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Darkest",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T733V4H3532JA1H9WGQP",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T733FKZZ4SBMQDJYTTNQ"
+}

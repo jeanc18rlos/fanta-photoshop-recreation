@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Ellipse() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70FW6HFA6QZBXFTFXCK" meta={{"figma_id": "41:35406", "figma_type": "SYMBOL"}} name="Ellipse" opacity={1.0} scrollable={false} x={132.0} y={1180.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T7033AH5KYBC4Q56TZJC" local_size={[17.900001525878906, 13.850000381469727]} meta={{"figma_id": "2:3591", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [8.949999809265137, 0.8905000686645508]}, {"ctrl1": [13.391500473022461, 0.8905000686645508], "ctrl2": [17.005001068115234, 3.5975000858306885], "op": "cubic", "to": [17.005001068115234, 6.925000190734863]}, {"ctrl1": [17.005001068115234, 10.252500534057617], "ctrl2": [13.391500473022461, 12.959500312805176], "op": "cubic", "to": [8.949999809265137, 12.959500312805176]}, {"ctrl1": [4.508499622344971, 12.959500312805176], "ctrl2": [0.8949999809265137, 10.252500534057617], "op": "cubic", "to": [0.8949999809265137, 6.925000190734863]}, {"ctrl1": [0.8949999809265137, 3.5975000858306885], "ctrl2": [4.508499622344971, 0.8905000686645508], "op": "cubic", "to": [8.949999809265137, 0.8905000686645508]}, {"op": "close"}, {"op": "move", "to": [8.949999809265137, 0.0]}, {"ctrl1": [4.006999969482422, 0.0], "ctrl2": [0.0, 3.1005001068115234], "op": "cubic", "to": [0.0, 6.925000190734863]}, {"ctrl1": [0.0, 10.749500274658203], "ctrl2": [4.006999969482422, 13.850000381469727], "op": "cubic", "to": [8.949999809265137, 13.850000381469727]}, {"ctrl1": [13.892999649047852, 13.850000381469727], "ctrl2": [17.900001525878906, 10.749500274658203], "op": "cubic", "to": [17.900001525878906, 6.925000190734863]}, {"ctrl1": [17.900001525878906, 3.1005001068115234], "ctrl2": [13.892999649047852, 0.0], "op": "cubic", "to": [8.949999809265137, 0.0]}, {"op": "close"}]}} x={0.05000000074505806} y={2.075000047683716} />
+    </Frame>
+  );
+}

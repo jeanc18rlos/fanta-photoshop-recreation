@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7387SV4RHXQJAX4FTN9",
+      "index": 47.0,
+      "name": "Type=Horizontal, State=Hover, Hover Action=Unselected Checkbox & 4 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73844ZD36NZDRC58WC2",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T738FEFG093F1JSED2JC",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T738YQ52PQXCKC1QCA0G",
+      "index": 3.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7386Z2SXKP95SGYVJAV",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Dark",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T738MDH14C9915BKDHTD",
+      "index": 2.0,
+      "name": "_Card - Quick Actions - Desktop - Dark",
+      "parent_index": 3,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T737RB61P1EADXH40BSP"
+}

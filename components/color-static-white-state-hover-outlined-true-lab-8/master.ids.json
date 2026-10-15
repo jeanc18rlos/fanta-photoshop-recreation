@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70YDBQ1MPN8QCSH13FX",
+      "index": 82.0,
+      "name": "Color=Static White, State=Hover, Outlined ?=True, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70YVVGNW5CCBVSDV0Z6",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T70XJN31XGAVH3C4ENBE"
+}

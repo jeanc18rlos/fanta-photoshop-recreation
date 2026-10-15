@@ -1,0 +1,130 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77XHDRKYWZR3T1NRDRD",
+      "index": 7.0,
+      "name": "Indicator Position=Right Middle",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XQG9ZXDMPHMS8DR8D",
+      "index": 1.0,
+      "name": "Message",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X9FCDK1ACVPBHTZM7",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XTJXH9FYDBMNSCC3Z",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77X1MTG7YCNE2YN5B04",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XX2BS6RP791A6CA3J",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XPTHQKMXXBPA5CG7A",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XR979ZMB624QK1XH3",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77XYGTBKWH4AMF7466V",
+      "index": 2.0,
+      "name": "Step Count Container",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X58KZ9VMPJP7S7NH4",
+      "index": 1.0,
+      "name": "Step Count",
+      "parent_index": 8,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77XXGVQW9YEY4Q97PDJ",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 5,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77XQS96JPMWSEE7Y3SA",
+      "index": 3.0,
+      "name": "Buttons",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XH4R71EJACCVTYFM3",
+      "index": 1.0,
+      "name": "Secondary Button",
+      "parent_index": 11,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77XF2AT10A5PC453YK9",
+      "index": 2.0,
+      "name": "Primary Button",
+      "parent_index": 11,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77XXZ8Y834V0BF5WSPV",
+      "index": 2.0,
+      "name": "Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X1B5ZWRA2TMFNPE94",
+      "index": 1.0,
+      "name": "Outer Circle",
+      "parent_index": 14,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XQ4QP24N1V2DVGV3G",
+      "index": 2.0,
+      "name": "Primary Circle",
+      "parent_index": 14,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XFCS40QKJ5K0VK5QX",
+      "index": 3.0,
+      "name": "Inner Circle",
+      "parent_index": 14,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77WPKCVRVBKF21JGYS8"
+}

@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70N1SHHM3XH850RD4ZP",
+      "index": 10.0,
+      "name": "Color=Static White, State=Default, Outlined ?=True, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70NQA4VVB8G43C40QCD",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70NMSQTAADR7KBT9YEJ",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T70NXNKTESA0NBX8GMSY"
+}

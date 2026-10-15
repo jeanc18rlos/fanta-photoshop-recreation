@@ -1,0 +1,88 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73JCKQTDEPN2R6C67ZE",
+      "index": 16.0,
+      "name": "Style=Standard, Label Position=Side, State=Error",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73JHYFZZZ1FBD6GQX0P",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73J7V5N838FS789QGXX",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73JB85JSM4YA50JFV20",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73JQ266AXSBZ9F4098D",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73JE6H9K2NVXCYXD62B",
+      "index": 2.0,
+      "name": "Field & Count Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73JHBYRKRKGBFFNCXH0",
+      "index": 1.0,
+      "name": "Field",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73JGF4F11HV9RAJ1NS8",
+      "index": 1.0,
+      "name": "Value",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73J2W4Y996CYFME2YBE",
+      "index": 2.0,
+      "name": "Validation Checkmark",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73JMXVS45PJ8MG3BB3M",
+      "index": 1.0,
+      "name": "Alert",
+      "parent_index": 8,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73J1X094FN1EGJD7H1Q",
+      "index": 2.0,
+      "name": "Character Counter",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73J42WWGFKHJ9X196C5",
+      "index": 1.0,
+      "name": "Count",
+      "parent_index": 10,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73H3JPHGG9RZQDFMR10"
+}

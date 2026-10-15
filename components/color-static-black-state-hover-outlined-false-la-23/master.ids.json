@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71G9YP91M0C1A7GCZ9Y",
+      "index": 149.0,
+      "name": "Color=Static Black, State=Hover, Outlined ?=False, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71GZ89AE1JSWZCSF4PK",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71EDP9VPZBJB0KJJ2X3"
+}

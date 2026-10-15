@@ -1,0 +1,16 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Card_Type_Product() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [16.0, 24.0, 24.0, 24.0], "primary_align": "end", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#FFFFFF"), "kind": "solid"}} blend_mode="normal" clip_size={[330.0, 80.0]} id="01M4V5T73GA4R1QRQ60RVE5S9C" meta={{"figma_id": "176:30221", "figma_type": "SYMBOL"}} name="Card Type=Product" opacity={1.0} scrollable={false} x={24.0} y={327.5}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 22.0, 10.0, 22.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} blend_mode="normal" clip_size={[95.0, 40.0]} corner_radius={50.0} id="01M4V5T73G8BPBQJ95D7NV799J" meta={{"figma_id": "176:30222", "figma_type": "FRAME"}} name="Text Button" opacity={1.0} scroll_direction="none" scrollable={true} x={108.0} y={16.0}>
+        <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Button" id="01M4V5T73GAAH3AVB7ZZQANCJ1" local_size={[51.0, 21.0]} meta={{"figma_id": "176:30223", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#496EC2"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 600}} vertical_align="center" x={22.0} y={8.5} />
+      </Frame>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 22.0, 10.0, 22.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#5275C0"), "kind": "solid"}} blend_mode="normal" clip_size={[95.0, 40.0]} corner_radius={50.0} id="01M4V5T73GHFC5R2S5T0ZWBZNF" meta={{"figma_id": "176:30224", "figma_type": "FRAME"}} name="Accent Button" opacity={1.0} scroll_direction="none" scrollable={true} x={211.0} y={16.0}>
+        <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Button" id="01M4V5T73GB94M83JH9WGEHDAY" local_size={[51.0, 21.0]} meta={{"figma_id": "176:30225", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 600}} vertical_align="center" x={22.0} y={8.5} />
+      </Frame>
+    </Frame>
+  );
+}

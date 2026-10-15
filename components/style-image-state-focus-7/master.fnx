@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Image__State_Focus() {
+  return (
+    <Frame background={{"asset": "1YQVHNKPN3W13BW6FMHBN2ZVD2", "kind": "image", "mode": "fill"}} blend_mode="normal" clip_size={[40.0, 40.0]} corner_radius={50.0} id="01M4V5T772XKR0RPK3NV55XZ9P" meta={{"clip_content": false, "figma_id": "295:37380", "figma_type": "SYMBOL"}} name="Style=Image, State=Focus" opacity={1.0} scrollable={false} x={136.0} y={48.0}>
+      <Ellipse blend_mode="normal" height={48.0} id="01M4V5T772A3BPC737QYPEXGJ4" local_size={[48.0, 48.0]} meta={{"figma_id": "295:37381", "figma_type": "ELLIPSE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#348FF4"), "kind": "solid"}, "width": 2.0}]} width={48.0} x={-4.0} y={-4.0} />
+    </Frame>
+  );
+}

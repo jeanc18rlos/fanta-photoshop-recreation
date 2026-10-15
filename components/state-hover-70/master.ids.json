@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78EZVBC4DQC7E77A48D",
+      "index": 2.0,
+      "name": "State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78EFBXFC3FHXSSDBP6V",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T78EG7A1BWW78MGM7XVM"
+}

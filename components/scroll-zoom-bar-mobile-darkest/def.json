@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GV9XNTSR4ZW4T0SY79",
+  "name": "Scroll-Zoom Bar - Mobile - Darkest",
+  "props": [
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVBH4K3AZBC2FXHXEW",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Handles ?"
+    },
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVV28H50TV7CDEHP2E",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Track ?"
+    }
+  ],
+  "root": "01M4V5T77K58MBE3XAGFTW4BBB"
+}

@@ -1,0 +1,109 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T75HZ90MT11TXVESR23D",
+      "index": 42.0,
+      "name": "Style=Standard, Label Position=Top, State=Open, Placeholder ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75HN9DQY2QJRQSMMMNC",
+      "index": 1.0,
+      "name": "Combo Box",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75HD8HH3F82NM26C8H9",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75HMX8254AP1JWAQ5FD",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T75HKR7FWH1Q80S7B80T",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75H5HAQRVFS9KV07FD0",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75HEQQZ9BGKBD4GH85V",
+      "index": 2.0,
+      "name": "Field",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75H24FA9MX8JXS21ZTG",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75H6H298PAGSV1JFRQS",
+      "index": 1.0,
+      "name": "Placeholder",
+      "parent_index": 7,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T75HXHESEJSACAED4A9H",
+      "index": 2.0,
+      "name": "Button Container",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75HYV5DNP7FM2DPBQXN",
+      "index": 1.0,
+      "name": "ChevronDown",
+      "parent_index": 9,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75HVQ1Y5GN1CRK7V91F",
+      "index": 2.0,
+      "name": "Menu",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75H0KPDZEQHMT8PA1Z4",
+      "index": 1.0,
+      "name": "Menu Item 1",
+      "parent_index": 11,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75H5Y0WHV7TFQCW79FN",
+      "index": 2.0,
+      "name": "Menu Item 2",
+      "parent_index": 11,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75H8ZGFP7EJW95DM7GV",
+      "index": 3.0,
+      "name": "Menu Item 3",
+      "parent_index": 11,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T75FJWXV4HZC2CZK9CD7"
+}

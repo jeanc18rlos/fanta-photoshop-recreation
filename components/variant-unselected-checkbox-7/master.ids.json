@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73B9YYY8K52JCRETF35",
+      "index": 1.0,
+      "name": "Variant=Unselected Checkbox",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73BBWT8S270ADZHPTTM",
+      "index": 1.0,
+      "name": "Background",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73BQVBMZ1S14BNPFRYB",
+      "index": 2.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73BWWG7W6R1XDHNPGH3",
+      "index": 1.0,
+      "name": "Unselected Checkbox",
+      "parent_index": 2,
+      "tag": "Frame"
+    }
+  ],
+  "root_parent": "01M4V5T73B15E1REBN5FK12WWR"
+}

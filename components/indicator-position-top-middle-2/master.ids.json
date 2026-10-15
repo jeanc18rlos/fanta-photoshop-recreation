@@ -1,0 +1,130 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77WZMMTZ297HBC78YD8",
+      "index": 5.0,
+      "name": "Indicator Position=Top Middle",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X80HGP6CS65DA1H1S",
+      "index": 1.0,
+      "name": "Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X2SXE1AR7K4P7ARW8",
+      "index": 1.0,
+      "name": "Outer Circle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XSYZFX2MQYKJQZRDM",
+      "index": 2.0,
+      "name": "Primary Circle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XCX6JVN8V140P615X",
+      "index": 3.0,
+      "name": "Inner Circle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XTSHD8J6MS3127E5G",
+      "index": 2.0,
+      "name": "Message",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X7K4JX4K2VS45VDB1",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XAJ7C1HQ6BS1D8R94",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 6,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77X4S500XTEB7BXTKDP",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 6,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77XPQY4YDW9A15J2VA7",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77X54PHSWFEX609R28W",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 9,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XRW9DV3TASBFT6EFY",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 10,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77XY6AJ3B1JA23MF986",
+      "index": 2.0,
+      "name": "Step Count Container",
+      "parent_index": 10,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XM0X54ZBHRFGT6BBR",
+      "index": 1.0,
+      "name": "Step Count",
+      "parent_index": 12,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77X6WY1K1HADEGHHDS6",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 9,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77X4KJ4SKCZZDBT6B71",
+      "index": 3.0,
+      "name": "Buttons",
+      "parent_index": 9,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77XWVSGBWKZENV94XZ8",
+      "index": 1.0,
+      "name": "Secondary Button",
+      "parent_index": 15,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77X200S5W3X0F7WHTTD",
+      "index": 2.0,
+      "name": "Primary Button",
+      "parent_index": 15,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T77WPKCVRVBKF21JGYS8"
+}

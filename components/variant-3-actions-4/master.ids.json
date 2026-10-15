@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73ETNNQQ11850ZEFHJK",
+      "index": 5.0,
+      "name": "Variant=3 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73EGBR5QP9C1PRM4TDD",
+      "index": 1.0,
+      "name": "Background",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73EAEBTT0VBGSGZEGVH",
+      "index": 2.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73E7V6DRY0Y4FXGSW6R",
+      "index": 1.0,
+      "name": "Edit",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73EKRF4N03RY7F4TH59",
+      "index": 3.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73E5EJADG2MS8X7ENSQ",
+      "index": 1.0,
+      "name": "Copy",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73EYBFMMHB540WNMWKC",
+      "index": 4.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73EX5BHY603K3QGE18H",
+      "index": 1.0,
+      "name": "Delete",
+      "parent_index": 6,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73E9JNKK73QR3JQSNY7"
+}

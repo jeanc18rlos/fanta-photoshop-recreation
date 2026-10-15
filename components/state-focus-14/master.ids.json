@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74GZPA50BP8WNFZ61N8",
+      "index": 4.0,
+      "name": "State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74GS7NDDBKCEEZFTC4Y",
+      "index": 1.0,
+      "name": "Checkmark100",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74GJFJXFJZ629YTB3MJ"
+}

@@ -1,0 +1,88 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73Z67J0NYEZVAXX7KGE",
+      "index": 22.0,
+      "name": "Style=Standard, Label Position=Side, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ZTX8DC80FSVEQD9BH",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ZSF296JHFDFW4PEB9",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73ZH5BEXGKRVYHT60HG",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ZGTJXSHGV8T9AA8M7",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73ZQ0XKG9Y58C9D0NVM",
+      "index": 2.0,
+      "name": "Field & Count Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ZHPZT1518S8FYPHB4",
+      "index": 1.0,
+      "name": "Field",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73Z0433YMG350DZVS3E",
+      "index": 1.0,
+      "name": "Value",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73ZYA21J7JBW9J8RGRY",
+      "index": 2.0,
+      "name": "Validation Checkmark",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ZB0ZCB2CKBM7TRHPH",
+      "index": 1.0,
+      "name": "Checkmark200",
+      "parent_index": 8,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73Z3VQ2HGQ7NNY5C0HV",
+      "index": 2.0,
+      "name": "Character Counter",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ZRQVYET6FY2FV78N5",
+      "index": 1.0,
+      "name": "Count",
+      "parent_index": 10,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73YJ9RVVGHAPTJCBY3W"
+}

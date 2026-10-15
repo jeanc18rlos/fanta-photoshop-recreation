@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T724SZGM3B1ZMVV3NBD7",
+      "index": 68.0,
+      "name": "Status / Color=Fuchsia, State=Hover, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T724KRXSCZD73V78QQDZ",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T724XD243BGT5MHQR7MD",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7232AW0BE8EAWBJFVPK"
+}

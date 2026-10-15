@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77CTMTBZE0D18FJ85AX",
+      "index": 12.0,
+      "name": "Orientation=Horizontal, State=Touch, Selected ?=False, Emphasized ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77CK8RT1JW6SBJHCT8G",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77C7F6D8NMBMYVGD15C",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77CHAH7C1QRBFYF1KES",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77CJJWGYQ7VN7YAGYFN",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 3,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T77BFTFQMZKWEX7QEE1K"
+}

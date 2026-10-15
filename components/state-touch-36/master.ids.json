@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77G0MQVZVA9H8AKF3PZ",
+      "index": 3.0,
+      "name": "State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77GA6D7JR6XQ4PFPDWT",
+      "index": 1.0,
+      "name": "Avatar",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77GXN5QRVZQ0ZXQN92M",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77G0FMQTCGY0MWY6JFF",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77GD3CEPTJPYS0PZSBR",
+      "index": 3.0,
+      "name": "Close Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77G2E3V99STZVW0RCA5",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77GS7FS45DE0MWQF42T",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 5,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77G0GJRTMV6CB76AJ4Q"
+}

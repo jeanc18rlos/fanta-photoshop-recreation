@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78CXEM09A1ZXGN9Q2EP",
+      "index": 3.0,
+      "name": "Style=Destructive",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CV6CSM4EDT24FS0W9",
+      "index": 1.0,
+      "name": "Title & Description",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CDM8Y23D0GN97YEQ1",
+      "index": 1.0,
+      "name": "Title & Divider",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CDZ4NGSCRC6XMXFPM",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T78CH689RFJ9G655SWZ7",
+      "index": 2.0,
+      "name": "Divider",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78CGYG31C5FMRSY9PH3",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T78C04NCBV0G1B9CRQNF",
+      "index": 2.0,
+      "name": "Buttons",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CRA076HBETM2X51G0",
+      "index": 1.0,
+      "name": "Secondary Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T78CPTFG0M52RS7KNDEB",
+      "index": 2.0,
+      "name": "Primary Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T78CCE4SYAX9AZ8D7BNA"
+}

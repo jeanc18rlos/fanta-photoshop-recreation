@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70ZDF88Q1SGC7FS9D3G",
+      "index": 158.0,
+      "name": "Color=Negative, State=Touch, Outlined ?=False, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70ZVVGWV595BY3Z1AZK",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T70XJN31XGAVH3C4ENBE"
+}

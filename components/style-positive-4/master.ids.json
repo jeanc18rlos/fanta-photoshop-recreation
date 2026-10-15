@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T781D4WMZTYYXZJ7CVPT",
+      "index": 3.0,
+      "name": "Style=Positive",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T781YTRT7JMF2X6N7J84",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T781B8EC1JNE8K09832K",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T781E72RS4W0DWX3FJYJ",
+      "index": 2.0,
+      "name": "Icon Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T781FM1QFCPB953WZR4G",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T781NMVKT6NNF11DSEM4",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T781VDE452Q55FQS4B0R"
+}

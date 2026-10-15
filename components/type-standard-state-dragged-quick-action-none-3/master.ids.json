@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73DEYCPDH91MYS1N2FY",
+      "index": 3.0,
+      "name": "Type=Standard, State=Dragged, Quick Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73D1AJE0JRR04XC0W25",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73DKZ73XTMZX1DHFZTR",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Darkest",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73DVG07AFN2W1DN1440",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73DN7VWMDXJ6YAD3KPF"
+}

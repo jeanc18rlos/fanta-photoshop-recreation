@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Option_Breadcrumb_Item__State_Default() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 10.0, 2.0, 10.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[159.0, 40.0]} id="01M4V5T774H1FXS95ES7B50WAF" meta={{"clip_content": false, "figma_id": "300:37890", "figma_type": "SYMBOL"}} name="Option=Breadcrumb Item, State=Default" opacity={1.0} scrollable={false} x={48.0} y={136.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Breadcrumb Item" id="01M4V5T77473T3NRFGD038NPKH" local_size={[139.0, 24.0]} meta={{"figma_id": "300:37891", "figma_type": "TEXT"}} name="Breadcrumb Item" opacity={1.0} style={{"color": fnxColor("#4E70BB"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 19.0, "weight": 400}} vertical_align="center" x={10.0} y={7.0} />
+    </Frame>
+  );
+}

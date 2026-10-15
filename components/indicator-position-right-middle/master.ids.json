@@ -1,0 +1,116 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77RMJ03S9CW593MVXRG",
+      "index": 7.0,
+      "name": "Indicator Position=Right Middle",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77RN13PDWHQKEY6FQY0",
+      "index": 1.0,
+      "name": "Message",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77RDMNQAW05B2G8CR8E",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77R73Z5AFGBRV0TYCAF",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77R46A6QR7YY6M5AYJB",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77R3BWNF2K26K2V5Z6Y",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 4,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77RJ9A0SFJJN311ZE4Z",
+      "index": 2.0,
+      "name": "Step Count Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77RQTHXRNV8P2S4D6SF",
+      "index": 1.0,
+      "name": "Step Count",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77RBSCX1WTR71F7Q4XR",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 3,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77R30ZHX0NV8KYCRCKC",
+      "index": 3.0,
+      "name": "Buttons",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77R6TQ0BATEG81QYXFX",
+      "index": 1.0,
+      "name": "Secondary Button",
+      "parent_index": 9,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77R2WG6H69NPKYGGZ06",
+      "index": 2.0,
+      "name": "Primary Button",
+      "parent_index": 9,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77RZ9NSH8AHTTS2B8QW",
+      "index": 2.0,
+      "name": "Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77R0NHGA8CWFHH42HFD",
+      "index": 1.0,
+      "name": "Outer Circle",
+      "parent_index": 12,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77R9W1A8XFEPB0Q9EPT",
+      "index": 2.0,
+      "name": "Primary Circle",
+      "parent_index": 12,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77RF4WC770TK3T3APQM",
+      "index": 3.0,
+      "name": "Inner Circle",
+      "parent_index": 12,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77RBBECPKJCQSQJMWJD"
+}

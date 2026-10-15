@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T740PQD99M4CA7R6MECG",
+      "index": 15.0,
+      "name": "Style=Not Emphasized, State=Focus, Toggled ?=On",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T740WH30B7NFC73MWE87",
+      "index": 1.0,
+      "name": "Switch",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T740V0Y0DB1ZG6N8FZ26",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7402A7WJ7SZ842K6G96",
+      "index": 2.0,
+      "name": "Focus Ring",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T740CNVTZ1H4NPSXMNDV",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73ZX0MPV0H8DD1J8SGH"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T722J76PZQJGT3YQ6273",
+      "index": 4.0,
+      "name": "State=Disabled, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T722QY2X0KR0V6J6ERGW",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T722EX78Q8ZVCRGKEVKX"
+}

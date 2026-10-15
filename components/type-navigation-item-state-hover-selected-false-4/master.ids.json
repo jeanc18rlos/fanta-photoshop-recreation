@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T776GCC5BQ4YGAS46YVF",
+      "index": 4.0,
+      "name": "Type=Navigation Item, State=Hover, Selected ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T776AEEGSPCRVTJ50KJV",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T776FSCKA4E195BFAWC5",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T776KK81B1TSTYTPD60R",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T776BC7XVJZ90TVR7KJ6"
+}

@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Focus() {
+  return (
+    <Frame background={{"color": fnxColor("#FFFFFF"), "kind": "solid"}} blend_mode="normal" clip_size={[12.0, 12.0]} corner_radius={20.0} id="01M4V5T77JP56TKGX1QRMFPVBF" meta={{"clip_content": false, "figma_id": "311:39954", "figma_type": "SYMBOL"}} name="State=Focus" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#222222"), "kind": "solid"}, "width": 2.0}]} x={280.0} y={24.0}>
+      <Rect blend_mode="normal" corner_radius={10.0} height={20.0} id="01M4V5T77J0CCZAHM7MR9883T1" local_size={[20.0, 20.0]} meta={{"figma_id": "311:39950", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#147AF3"), "kind": "solid"}, "width": 2.0}]} width={20.0} x={-4.0} y={-4.0} />
+    </Frame>
+  );
+}

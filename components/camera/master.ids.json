@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70GJ6KQFNMQ25HJKBXT",
+      "index": 108.0,
+      "name": "Camera",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72A7N2R2CV1BVM29EJZ",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

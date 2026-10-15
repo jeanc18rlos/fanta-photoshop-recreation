@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78AXKV3MDG866BW7DHE",
+      "index": 7.0,
+      "name": "Style=Positive, Tip Position=Left",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78A8T18SP6ED0Q2BC0K",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78AXQ6EEFG8C013N2K5",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T78AZE25DGN6W0N23Y5A",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T78AK14QN0CGGJCQMQDY",
+      "index": 3.0,
+      "name": "Tip",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T789PVWSX0SEV3ANCY3V"
+}

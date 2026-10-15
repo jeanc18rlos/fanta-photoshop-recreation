@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Emphasized__State_Disabled__Selected___On() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [7.0, 0.0, 7.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[57.0, 32.0]} id="01M4V5T743AMK7M2F0QNHWBN17" meta={{"clip_content": false, "figma_id": "218:29560", "figma_type": "SYMBOL"}} name="Style=Emphasized, State=Disabled, Selected ?=On" opacity={1.0} scrollable={false} x={428.0} y={96.0}>
+      <Ellipse blend_mode="normal" fills={[{"color": fnxColor("#FDFDFD"), "kind": "solid"}]} height={14.0} id="01M4V5T743P7TA7S1RGNS5S6B7" local_size={[14.0, 14.0]} meta={{"figma_id": "218:29561", "figma_type": "ELLIPSE"}} name="Radio" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#B1B1B1"), "kind": "solid"}, "width": 5.0}]} width={14.0} x={0.0} y={9.0} />
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T74371E6GZ9YA35P5JQ9" local_size={[33.0, 18.0]} meta={{"figma_id": "218:29562", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#B1B1B1"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 14.0, "weight": 400}} vertical_align="center" x={24.0} y={7.0} />
+    </Frame>
+  );
+}

@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T737N7PX37JVTK955C1T",
+      "index": 5.0,
+      "name": "Type=Standard, State=Hover, Hover Action=Unselected Checkbox & 4 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T737Z7PYKRBSJXNSP88N",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T737ZS0H4J51MAK7M81R",
+      "index": 1.0,
+      "name": "Quick Actions",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T737PZZG971J5QAB8WSZ",
+      "index": 2.0,
+      "name": "Quick Actions",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T737AFTA842MJ8A376H0",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T737RB61P1EADXH40BSP"
+}

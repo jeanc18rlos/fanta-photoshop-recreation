@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74D6XR0Y0KBZFZHEC7D",
+      "index": 10.0,
+      "name": "Selection=Not Selected, Style=Error, State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74DYGDHH3J0KRFRKAW4",
+      "index": 1.0,
+      "name": "Box",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T74D4CDXADDBMVH4B2KQ",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T74CJB6GK426XTTJYM8N"
+}

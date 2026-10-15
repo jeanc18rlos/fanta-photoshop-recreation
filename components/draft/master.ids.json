@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70FGJ891GJM2E5BZKGV",
+      "index": 239.0,
+      "name": "Draft",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72AJN8PV7S6R67Y3ZKM",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

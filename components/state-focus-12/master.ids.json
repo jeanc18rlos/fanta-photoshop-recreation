@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74F0PJPA6FZ50HFZ65V",
+      "index": 4.0,
+      "name": "State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74F732QQFNRG7PJ16XA",
+      "index": 1.0,
+      "name": "Leading Item",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T74F5PJCDYS9GNBR57P3",
+      "index": 2.0,
+      "name": "Text Content Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74F9G0C7BD03VV486KN",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74F6R0V7993H6CQ4EE0",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74FVDM8XWMYCBG7DCWN",
+      "index": 3.0,
+      "name": "Trailing Content Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74F9WEEKP3EEW2Z8GXV",
+      "index": 1.0,
+      "name": "Value",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74F5W2HXCT99SQ1WG9D",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74FB6Z7E6A7EXGT29G4",
+      "index": 2.0,
+      "name": "Trailing Item",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T74FZCTMARJBZ7YGG839",
+      "index": 4.0,
+      "name": "Focus Bar",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T74FRF71X0D3F244DVVJ"
+}

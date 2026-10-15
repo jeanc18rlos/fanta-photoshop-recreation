@@ -1,0 +1,88 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73KBE82PAVQZEGBS4H6",
+      "index": 8.0,
+      "name": "Style=Quiet, Label Position=Top, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73KTEJDK8X52W3SE669",
+      "index": 1.0,
+      "name": "Label & Count Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73KGW8KNE51N9E9AJSJ",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73KEK87278XC24Y7FRQ",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73KG30PJX21J3C8C0QB",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73KB1EZ62QWR4FABK4V",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73KMGYVAW584N59S3FW",
+      "index": 2.0,
+      "name": "Character Counter",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73K4YHZQT4GS8V0AC19",
+      "index": 1.0,
+      "name": "Count",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73KCXHD4E6CMQXNBZ4Y",
+      "index": 2.0,
+      "name": "Field",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73K0YHE7KQGKE5D5DFA",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 8,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73K1NWERAM5AKEB025P",
+      "index": 3.0,
+      "name": "Help Text Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73KQ3JH24F2FWSB6DX3",
+      "index": 1.0,
+      "name": "Help Text",
+      "parent_index": 10,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73K38R90S87XP6NNK5Q"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T727KSZV0XDPWQXPT754",
+      "index": 2.0,
+      "name": "State=Hover, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T727A6PNMPQ4YGTDBHRH",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7271MRP8KMHNJ7XW02B"
+}

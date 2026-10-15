@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T777EA66P0JZGV4SMGQP",
+      "index": 2.0,
+      "name": "Type=Navigation Header, State=Default, Selected ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T777DBJAC6YXW8B7CY28",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T777ACDGMXHQFV9GMPZH",
+      "index": 2.0,
+      "name": "Header Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T777FQ249R0329G4404B",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 2,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T777AVZ8ZY9FF6NP741T"
+}

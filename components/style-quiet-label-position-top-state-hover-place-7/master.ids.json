@@ -1,0 +1,81 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T75VJW2VP5K2MXHEZK1B",
+      "index": 18.0,
+      "name": "Style=Quiet, Label Position=Top, State=Hover, Placeholder ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75VZRZV1PE61PNVB1W0",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75V78F2C9VV522YWP79",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T75V0P02XQP4S1XS6CWW",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75V82VE3VMM8TMSX4M3",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75V6BKANFAGK7XH089V",
+      "index": 2.0,
+      "name": "Field Button",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75VVSD2F3K81SPDS0TQ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 5,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T75V93HWR3B1SXSKTE7V",
+      "index": 2.0,
+      "name": "Chevron",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75VN79YYKRNXDYV5PFE",
+      "index": 1.0,
+      "name": "ChevronDown",
+      "parent_index": 7,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75VFTCGAX37Y6PZ1S4B",
+      "index": 3.0,
+      "name": "Help Text Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T75VF99J5ZDZECBVK47E",
+      "index": 1.0,
+      "name": "Help Text",
+      "parent_index": 9,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T75T2NM1B33BB5SPQXXS"
+}

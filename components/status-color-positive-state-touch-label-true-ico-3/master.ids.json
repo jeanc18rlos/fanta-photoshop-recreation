@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7253T6HT0V2142GDHS7",
+      "index": 21.0,
+      "name": "Status / Color=Positive, State=Touch, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72562VCWSDNFZB7TD8R",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T725ECCV005PKYH497FS"
+}

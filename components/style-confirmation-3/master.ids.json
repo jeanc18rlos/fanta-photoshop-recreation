@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78C77Q2CWSY6HRNBH6K",
+      "index": 1.0,
+      "name": "Style=Confirmation",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78C26856A00GHYV9F03",
+      "index": 1.0,
+      "name": "Title & Description",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CS66M2FYGHVNTP19X",
+      "index": 1.0,
+      "name": "Title & Divider",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CNWVDBYH5YX6V7SXK",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T78CPGB9HJVQ2JPEJS3X",
+      "index": 2.0,
+      "name": "Divider",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78CWH649KYX5NNW5ZCN",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T78C1WAQ4DRPBB8EKXST",
+      "index": 2.0,
+      "name": "Buttons",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78CMS2XARVAKRA21M88",
+      "index": 1.0,
+      "name": "Secondary Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T78CXPMMCA93CK0T80M0",
+      "index": 2.0,
+      "name": "Primary Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T78CCE4SYAX9AZ8D7BNA"
+}

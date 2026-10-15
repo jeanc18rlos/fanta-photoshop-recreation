@@ -1,0 +1,9 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Image__State_Default() {
+  return (
+    <Frame background={{"color": fnxColor("#D2DCF3"), "kind": "solid"}} blend_mode="normal" clip_size={[32.0, 32.0]} corner_radius={50.0} id="01M4V5T772A4BCKQ6BQQ9TYTG2" meta={{"figma_id": "295:37419", "figma_type": "SYMBOL"}} name="Style=Image, State=Default" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#B7C8EB"), "kind": "solid"}, "width": 1.0}]} x={48.0} y={48.0} />
+  );
+}

@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T719MH706N3TK4BR42TJ",
+      "index": 34.0,
+      "name": "Color=Static White, State=Focus, Outlined=True, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY4NHSKH1S6Z34C842",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYQK0YMM8Z6ZZWXXJP",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7195DF8YNRVR2B4MM2M",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T71967698R9EGM20WFE4",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71827DCHJEZY0KPFFYG"
+}

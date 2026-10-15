@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T729511RPCJBVDSEVQPF",
+      "index": 98.0,
+      "name": "Status / Color=Fuchsia, State=Focus, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T729V22QCF1BJFNPXPE4",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T729ZQ7Q9JDW6H5S60DJ",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T729WZX17V8GBDFASMY9",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T728MGC1Z9GTNMETE1EA"
+}

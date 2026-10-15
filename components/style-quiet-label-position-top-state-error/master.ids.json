@@ -1,0 +1,102 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73T2JNQ1ZJ8K179HRRY",
+      "index": 20.0,
+      "name": "Style=Quiet, Label Position=Top, State=Error",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73TR86QQHP5YYA4Q8YT",
+      "index": 1.0,
+      "name": "Label & Count Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73TWVJH8R86H9E6EWEF",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73TS9DA8VPAX4TN0MEG",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73TJH022P313PB71XQ0",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73TWZCXMVAH3NVVM2J9",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73TVMJ13EAAWB2KRYYT",
+      "index": 2.0,
+      "name": "Character Counter",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73T0SSZRX7XVXHXY01A",
+      "index": 1.0,
+      "name": "Count",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73T3GPZ3STZ76H7SH1R",
+      "index": 2.0,
+      "name": "Field",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73TRRZ11V744TKY3VFN",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 8,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73TS563ZFN1XVHM1H8K",
+      "index": 2.0,
+      "name": "Validation Checkmark",
+      "parent_index": 8,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73TM6NR9S0NHKJ17AJ4",
+      "index": 1.0,
+      "name": "Alert",
+      "parent_index": 10,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73T9KGEF4A41NBPGZFN",
+      "index": 3.0,
+      "name": "Help Text Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73T6AB7EN46256FD171",
+      "index": 1.0,
+      "name": "Help Text",
+      "parent_index": 12,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73SPQHD2BZN2P708QMG"
+}

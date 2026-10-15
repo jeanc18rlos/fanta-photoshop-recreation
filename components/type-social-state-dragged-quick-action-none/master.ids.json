@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7367CZ1FFYEKS9HR8NJ",
+      "index": 11.0,
+      "name": "Type=Social, State=Dragged, Quick Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736S055FNJZAXHFH1HB",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73622DTYXVX7ZDR23X0",
+      "index": 2.0,
+      "name": "Divider Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736YW1S97DCF6MW09FS",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T736QB6K44M69V6EE6W2",
+      "index": 3.0,
+      "name": "Footer",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7361BT866AA90VD7Q8N",
+      "index": 4.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7362XS305M9Q1Q0GBBV",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Light",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T735A3MGFR46YRWXYTFV"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71XGWVDN4D2NNYJ1FGF",
+      "index": 105.0,
+      "name": "Status / Color=Seafoam, State=Default, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71X1HR9751HXFMMF8X9",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71WA1ADH19ZG8XZFA2W"
+}

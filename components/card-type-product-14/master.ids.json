@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73F9KY1XAGXW24MFNK4",
+      "index": 4.0,
+      "name": "Card Type=Product",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FSRBBGHT5D6HH9A6N",
+      "index": 1.0,
+      "name": "Product Banner",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FEK15FPJWQTMRQVGC",
+      "index": 2.0,
+      "name": "Product Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F6BJAH321GM7YBMS1",
+      "index": 3.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FJ685P1THTZD3KHJS",
+      "index": 1.0,
+      "name": "App Name",
+      "parent_index": 3,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73FC2ZDD0RQ3WFB8RDP",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 3,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73FSBBTKQJD7NYEZBTY"
+}

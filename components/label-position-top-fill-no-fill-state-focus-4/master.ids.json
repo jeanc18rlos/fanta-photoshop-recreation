@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76KY5TAEG159A54Z0WQ",
+      "index": 18.0,
+      "name": "Label Position=Top, Fill=No Fill, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76KESR9FEEDJXC9P5Y3",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76KX0TPMVMRVDP1A3PV",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T76KXZ6HDDB7RSA52BE0",
+      "index": 2.0,
+      "name": "Value",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T76KC9ZPGM96K7YBB5D2",
+      "index": 2.0,
+      "name": "Slider",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76K8Q6ZDEVP62731C5W",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76K2TSG3MDDHW0MR1DN",
+      "index": 2.0,
+      "name": "Fill",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76KJF39VSR71G92M9C4",
+      "index": 3.0,
+      "name": "Handle Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76KM84QRHQSKZ61ET9F",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 7,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76KRH2E47WM1BPAX5B2",
+      "index": 2.0,
+      "name": "Focus Ring",
+      "parent_index": 7,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76JFXX4M9CR78H805Y1"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70GEGYXS641E7WEC86R",
+      "index": 504.0,
+      "name": "LoupeView",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T704FBWQ0DMVEXF0Q502",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7745G6NY4GXHWZD76A4",
+      "index": 2.0,
+      "name": "Style=Default",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T774Q4ABS1E7GAWCD0CD",
+      "index": 1.0,
+      "name": "Truncation Menu",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T774V7M4JWTTTETZXCTH",
+      "index": 2.0,
+      "name": "Chevron75",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77404H0GAA1WRYBXE75",
+      "index": 3.0,
+      "name": "Breadcrumb Item 1",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T774ENDS48Z74FMJFPBZ",
+      "index": 4.0,
+      "name": "Chevron75",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T774S81BKRJ21PNSTHN5",
+      "index": 5.0,
+      "name": "Breadcrumb Item 2",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77497C57RS6S6GWAGP1",
+      "index": 6.0,
+      "name": "Chevron75",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T774J7T59RGQ3PB61EYB",
+      "index": 7.0,
+      "name": "Breadcrumb Title",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7744QZT8GRDHRDPW2GW"
+}

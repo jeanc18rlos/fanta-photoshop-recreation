@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74E67SH91BDQEA7Z2N1",
+      "index": 4.0,
+      "name": "Toggled=On, State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74EQZK4DQT6NYFH7TJ4",
+      "index": 1.0,
+      "name": "Switch",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74EHC14TE51MWRDGHCE",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T74E0KQDX72Z76H5R5AH"
+}

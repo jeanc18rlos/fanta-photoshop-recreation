@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73GJNA1EE7SQVPZ55R3",
+      "index": 32.0,
+      "name": "Type=Asset, State=Dragged, Quick Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73GNH6FVKFG7CK0783C",
+      "index": 1.0,
+      "name": "Image Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73GQPPP14CRPT9HG2A7",
+      "index": 1.0,
+      "name": "Quick Actions",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73G98JMT5REHM2T06YS",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73G0RB4M0YS5R4J6J49",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73GMFA3Q3J6P8G0YXJQ",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73G27BEWGTQWCWRV4W9",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73GC204FQ9PMX5EDC80",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73FDYG95R1144RDDEMK"
+}

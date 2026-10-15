@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T743X7TAB3PAKG279661",
+      "index": 12.0,
+      "name": "Style=Emphasized, State=Focus, Selected ?=On",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T743Q16ADMYSPMMV4CE9",
+      "index": 1.0,
+      "name": "Radio",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T743MH6KVQK4T7GPCTHM",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T743PWPAR2NVJWGVQ8K5",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7430K1WV93HY3ZPRTRV"
+}

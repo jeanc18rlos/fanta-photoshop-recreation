@@ -1,0 +1,116 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T758YB84X85260MG6MSF",
+      "index": 43.0,
+      "name": "Style=Standard, Label Position=Side, State=Open, Placeholder ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758NDC7TGB9QWE226RE",
+      "index": 1.0,
+      "name": "Combo Box",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758ARG440QRYAFG5DJ3",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758NRCQM50ZHZHPY384",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T758ENS309440B1D2JWT",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7582HS7EF92E22FK2AW",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T758WQYNN8FN2P7AN23B",
+      "index": 2.0,
+      "name": "Field",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758X778XX5FZTYEPNY8",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758BE33T1CZBC11QFJD",
+      "index": 1.0,
+      "name": "Placeholder",
+      "parent_index": 7,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T758EBG71RRA7WAXWNMB",
+      "index": 2.0,
+      "name": "Button Container",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7580XRCM39APA5BVADZ",
+      "index": 1.0,
+      "name": "ChevronDown",
+      "parent_index": 9,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T75868GFP6HK6AY5YQMM",
+      "index": 2.0,
+      "name": "Menu and Spacer Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758AE44BA3DJVBHASVK",
+      "index": 1.0,
+      "name": "Menu",
+      "parent_index": 11,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T758CQVE9GW0E3AM64Y8",
+      "index": 1.0,
+      "name": "Menu Item 1",
+      "parent_index": 12,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T758KY4PDN1A16F8601Z",
+      "index": 2.0,
+      "name": "Menu Item 2",
+      "parent_index": 12,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T758M71JZ24249YVFEDK",
+      "index": 3.0,
+      "name": "Menu Item 3",
+      "parent_index": 12,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T756FA8XXQCQR4VYJT01"
+}

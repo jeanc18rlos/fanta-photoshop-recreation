@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70GFNJNVB0NAS39Z4NM",
+      "index": 81.0,
+      "name": "Border",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72AP3N6VF1XDXFE9MXT",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

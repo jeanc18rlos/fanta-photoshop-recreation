@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T784DK2BYRT4JP5DAD6B",
+      "index": 2.0,
+      "name": "Style=Neutral, Overflow ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T784FAEDF3VBQDV1B829",
+      "index": 1.0,
+      "name": "Text & Button Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T784Z7B8CWD54T798DAY",
+      "index": 1.0,
+      "name": "Leading Components",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T784BHW7ZNACZ4GGKJKZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T784N82M5AFHQF9QMQBN",
+      "index": 2.0,
+      "name": "Button",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7842J24FCKBGQDVGDD2",
+      "index": 2.0,
+      "name": "Trailing Components",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7843B8B6G3AWZ62EP2Q",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 5,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7843TGJ3T39KF3VQRWT",
+      "index": 2.0,
+      "name": "Close Button",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7841G6KPBVV1BZQTCYD",
+      "index": 1.0,
+      "name": "Cross500",
+      "parent_index": 7,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T78443F6WDHE6A1R92QD"
+}

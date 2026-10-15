@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T794W7ZFJTXWVVWVCGYM",
+      "index": 120.0,
+      "name": "Color=Static Black, State=Focus, Quiet ?=False, Emphasis ?=False, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7944N0CS5W7WSFFSKZQ",
+      "index": 1.0,
+      "name": "Edit",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79480NCDT2A0S3ZV5EB",
+      "index": 2.0,
+      "name": "Hold Icon",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T794KWR710X9GXYQ431P",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T791H0JGZSGCWSEFKSYF"
+}

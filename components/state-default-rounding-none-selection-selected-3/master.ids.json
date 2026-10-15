@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76CY30MSRAXQJDDXMH6",
+      "index": 3.0,
+      "name": "State=Default, Rounding=None, Selection=Selected",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76C9QXAPR39K6KT6T4E",
+      "index": 1.0,
+      "name": "Outer Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76CGE4TQ59N4XWZ7ZCW",
+      "index": 2.0,
+      "name": "Inner Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76BKZ4ZHTW4ZC3MYQG8"
+}

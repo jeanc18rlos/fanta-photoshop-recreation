@@ -1,0 +1,15 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Not_Emphasized__State_Focus__Toggled___On() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [10.0, 0.0, 10.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 13.0, "wrap": false}} blend_mode="normal" clip_size={[88.0, 40.0]} id="01M4V5T740QQSC6N129AE7M8ZV" meta={{"clip_content": false, "figma_id": "204:29416", "figma_type": "SYMBOL"}} name="Style=Not Emphasized, State=Focus, Toggled ?=On" opacity={1.0} scrollable={false} x={424.0} y={168.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "end", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#222222"), "kind": "solid"}} blend_mode="normal" clip_size={[36.0, 18.0]} corner_radius={20.0} id="01M4V5T740EXS7WP0ZV2NXHM6R" meta={{"clip_content": false, "figma_id": "204:29417", "figma_type": "FRAME"}} name="Switch" opacity={1.0} scroll_direction="none" scrollable={true} x={0.0} y={11.0}>
+        <Ellipse blend_mode="normal" fills={[{"color": fnxColor("#FDFDFD"), "kind": "solid"}]} height={18.0} id="01M4V5T740WRW7XY3GPR7GQMEH" local_size={[18.0, 18.0]} meta={{"figma_id": "204:29418", "figma_type": "ELLIPSE"}} name="Handle" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#222222"), "kind": "solid"}, "width": 2.0}]} width={18.0} x={18.0} y={0.0} />
+        <Rect blend_mode="normal" corner_radius={20.0} height={26.0} id="01M4V5T740B68XZCRGTT3F30E9" layout_child={{"absolute": true}} local_size={[44.0, 26.0]} meta={{"figma_id": "204:29419", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#147AF3"), "kind": "solid"}, "width": 2.0}]} width={44.0} x={-4.0} y={-4.0} />
+      </Frame>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T740T9CMGF3HW7DTB8ZM" local_size={[39.0, 21.0]} meta={{"figma_id": "204:29420", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#000000"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={49.0} y={9.5} />
+    </Frame>
+  );
+}

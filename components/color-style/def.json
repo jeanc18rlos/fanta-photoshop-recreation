@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GWE0506QR00EW1V23C",
+  "name": "_Color Style",
+  "props": [
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GWSXAQF1Z0W0MM5AHQ",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Color Name"
+    },
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GWHWGHF9V28PA1JEJZ",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "HEX Value"
+    }
+  ],
+  "root": "01M4V5T7APR28FBXVBSH4M6ZH2"
+}

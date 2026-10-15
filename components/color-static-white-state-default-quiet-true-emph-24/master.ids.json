@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T79289EFPTYRNN00FD66",
+      "index": 8.0,
+      "name": "Color=Static White, State=Default, Quiet ?=True, Emphasis ?=False, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7923BA3GS2QTF6T3C2B",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T792K2KAJC86J7A6ZB9E",
+      "index": 2.0,
+      "name": "Hold Icon",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T791H0JGZSGCWSEFKSYF"
+}

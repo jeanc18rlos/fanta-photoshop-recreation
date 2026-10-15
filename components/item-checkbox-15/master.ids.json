@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74FRR0EBG779A5KSZ9C",
+      "index": 3.0,
+      "name": "Item=Checkbox",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74F9Q0P2GQY8AWR1FGF",
+      "index": 1.0,
+      "name": "Checkbox",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74FXW2A4CCZ3RQ727P2"
+}

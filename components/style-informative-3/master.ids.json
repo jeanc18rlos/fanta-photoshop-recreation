@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T781KEEVJQAB79W8QF7R",
+      "index": 2.0,
+      "name": "Style=Informative",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T781RJ72ZTPPAPRJ3T82",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T781JWXY5Z6Z2WM2T3A6",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T781S8HK2R0YV8RR107W",
+      "index": 2.0,
+      "name": "Icon Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T781JJ9J2B4C30R2AWSE",
+      "index": 1.0,
+      "name": "Info",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T781EHRJR0V85M4KMHQX",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T781SHP7S7P3GWSCABVB"
+}

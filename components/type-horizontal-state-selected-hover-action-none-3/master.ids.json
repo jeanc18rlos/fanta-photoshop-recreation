@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73AXM3FY4Q329SMTAAB",
+      "index": 44.0,
+      "name": "Type=Horizontal, State=Selected, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73BS83KT6MSK52GH4D5",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73BBBYDQ9HA6FZNNXPV",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73BHNYCWS59TTG7WPH3",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73AZCQTPEF1G5WA7BG2",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73A5RJ4PEZ743MVQTRG",
+      "index": 3.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73A1DV3SP6RB9RN3QHV",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Wireframe",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T739MT8GAVQCW3EKTMHY"
+}

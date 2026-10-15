@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77KCM71SA98Y4M24AH7",
+      "index": 1.0,
+      "name": "Scroll-Zoom Bar - Desktop - Wireframe",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77KEKSTNPGDW5NJARAC",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77KTQW9Q822ETFSRF3C",
+      "index": 2.0,
+      "name": "Scroll Bar",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77KN5WRSSA2DXSD9DD9",
+      "index": 1.0,
+      "name": "Left Handle",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77KAF284CH47SEK1KE4",
+      "index": 2.0,
+      "name": "Right Handle",
+      "parent_index": 2,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T77KDZRN6KPD4DVN5Q9V"
+}

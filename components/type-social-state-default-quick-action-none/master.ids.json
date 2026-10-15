@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73C8HXTDK850NWWPND0",
+      "index": 8.0,
+      "name": "Type=Social, State=Default, Quick Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CNTHWV4AKZ371F3PM",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73CB206HVM4YSE763DJ",
+      "index": 2.0,
+      "name": "Divider Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CW44TZDZJ3S61Y8JC",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73CPEWF6Y32P0EDWQKE",
+      "index": 3.0,
+      "name": "Footer",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73BD96DH2DST3NH98E6"
+}

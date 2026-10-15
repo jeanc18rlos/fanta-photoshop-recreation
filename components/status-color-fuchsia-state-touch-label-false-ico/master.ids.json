@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T725JBGJBGJZ2F1PCK76",
+      "index": 128.0,
+      "name": "Status / Color=Fuchsia, State=Touch, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T725EQ8Z94DV38702NC6",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7232AW0BE8EAWBJFVPK"
+}

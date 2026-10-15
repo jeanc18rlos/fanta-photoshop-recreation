@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73FA4E5S02N1EQ2BD2S",
+      "index": 19.0,
+      "name": "Type=Learn, State=Default, Quick Action=Unselected Checkbox & 3 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FTMXV06YD0G0R33B7",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73F73TMMJR1700SJDEW",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73HQ613YRBFYK05QTYE",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73HMR03QR4NTFBV04MH",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73F2A9E3XZXG54APM4B",
+      "index": 3.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F03CZBE3E8MSVQ468",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73FE6H5NEA2M1STV4K8",
+      "index": 2.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73FWSBJBTNDD4F9R49D",
+      "index": 4.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FKFN8120CMA36W4CN",
+      "index": 1.0,
+      "name": "VectorDraw",
+      "parent_index": 8,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73FDYG95R1144RDDEMK"
+}

@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T720HHY9ANXP43THG2Z6",
+      "index": 145.0,
+      "name": "Status / Color=Seafoam, State=Focus, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7204SDBZHCRVEP0044E",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T720GG2H4WHG38XR6NM1",
+      "index": 2.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71Y5RYWHVWD7YN44H6B"
+}

@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74328NJ6CZ9238RQP4T",
+      "index": 3.0,
+      "name": "Style=Not Emphasized, State=Default, Selected ?=On",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7433S0HEQCKJX4C08SG",
+      "index": 1.0,
+      "name": "Radio",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T743KXYXM2SSR7Z3F9K9",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T743WJZEGBZ3T2DFBR5J"
+}

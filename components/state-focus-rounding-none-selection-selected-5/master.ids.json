@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76BR378GRY8KWQQ3N7S",
+      "index": 24.0,
+      "name": "State=Focus, Rounding=None, Selection=Selected",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76B7GK9450JCJ0ZQQBX",
+      "index": 1.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76B4K25VZA2SF1EV6Z6",
+      "index": 2.0,
+      "name": "Outer Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76BBANKT6ASTWXK8BC6",
+      "index": 3.0,
+      "name": "Inner Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76BXVYK0FPF2EMSSH2H"
+}

@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77A7N4CHQZBVPM12EZB",
+      "index": 8.0,
+      "name": "Orientation=Vertical, State=Default, Selected ?=True, Emphasized ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77AE6GZ5PC5R2S36V1Y",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77A2W621RK19QF5Z6MT",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77ADRYNXWHFGW5CZ76X",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77AN5R94C5R41VFVCB5",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 3,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77AQYS7HQE3D692P7Z3",
+      "index": 3.0,
+      "name": "Selection Indicator",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77AMAZ2FW8ZYXD53HR7"
+}

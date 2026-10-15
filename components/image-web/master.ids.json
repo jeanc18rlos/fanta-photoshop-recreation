@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70HXZTSPX6ZZ9T3HS5E",
+      "index": 4.0,
+      "name": "Image=Web",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70HZ9WSYJ2SXDMDWRF2",
+      "index": 1.0,
+      "name": "GlobeGrid",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T70HJ17NCC3RAW5BASD7"
+}

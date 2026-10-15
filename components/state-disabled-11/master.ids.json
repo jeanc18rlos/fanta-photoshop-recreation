@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74H8RVVJ28BGE6E6W0F",
+      "index": 5.0,
+      "name": "State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74HABKFN9NTZ6DHF3CH",
+      "index": 1.0,
+      "name": "Leading Item",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T74HXFT0NBA4N5GJDN3Y",
+      "index": 2.0,
+      "name": "Text Content Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74H4HQ2FJH795QC3FN4",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74HW16MJEWCNB90562H",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74H51Y9H41C7B6EMQTM",
+      "index": 3.0,
+      "name": "Trailing Content Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74H7ZZYPDH308QJRZKD",
+      "index": 1.0,
+      "name": "Value",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74HT1P6BPE9GEW9GP6Y",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74H49SRWXP35RJNV5PS",
+      "index": 2.0,
+      "name": "Trailing Item",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74HRK15ERDSFEQSMEW5"
+}

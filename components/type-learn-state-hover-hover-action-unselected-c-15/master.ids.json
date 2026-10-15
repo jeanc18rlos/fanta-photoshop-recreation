@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73A3B4AFBWG0B26ECJ3",
+      "index": 23.0,
+      "name": "Type=Learn, State=Hover, Hover Action=Unselected Checkbox & 4 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73AS8E91SZVWSXGY149",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73AFA4R7G99V3S0CKZ1",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73A1YENYFKKVG3TQ657",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73AXAD8FNB8FDDDHAS2",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73A8B5S2CK94MDZR9PM",
+      "index": 3.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73A7AXDGPDK5GTABZFM",
+      "index": 1.0,
+      "name": "VectorDraw",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73A2MKD0KK9ZB8K7YM4",
+      "index": 4.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73AY0M1YNSG0WH767NM",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Wireframe",
+      "parent_index": 7,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73A2QE5HFKPHQZ7MBZE",
+      "index": 2.0,
+      "name": "_Card - Quick Actions - Desktop - Wireframe",
+      "parent_index": 7,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T739MT8GAVQCW3EKTMHY"
+}

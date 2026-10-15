@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74NGQSACF9FCNFMGKRB",
+      "index": 6.0,
+      "name": "Toggled=On, State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74NNG7HNN7EJZPTSF4C",
+      "index": 1.0,
+      "name": "Switch",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74NADHW14G0Z5BMS9AJ",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T74NBQNKKD8P8RCAW9JM"
+}

@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72D3CEDFWEPKAG97KMP",
+      "index": 2.0,
+      "name": "Status=Notice, Track Size=Small",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72DEJMWAVJ2F6X5ZTV2",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72DQS5ENNRR93PXYJ8C",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T72D6GX5RZSF7T3YN71Z",
+      "index": 2.0,
+      "name": "Value",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T72D5X2X1M0PB6PQW2V9",
+      "index": 2.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72DXBYMZYE4RWFF0KYR",
+      "index": 1.0,
+      "name": "Fill",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72D8VTWRNKMQHJXMKW9",
+      "index": 1.0,
+      "name": "Start",
+      "parent_index": 5,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72DAJYAC0MVN2QE6CN8",
+      "index": 2.0,
+      "name": "End",
+      "parent_index": 5,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T72DC1FNSGY0F8Z0V6R7"
+}

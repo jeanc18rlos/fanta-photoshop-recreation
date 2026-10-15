@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T741DXG57VRDCA2WW1CV",
+      "index": 13.0,
+      "name": "Style=Not Emphasized, State=Touch, Toggled ?=On",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7413B58EVX43VQSC6R9",
+      "index": 1.0,
+      "name": "Switch",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T741DNF49HXBX8TVM8GW",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T741H70DCK3D74EH18J5",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T741B7DV9NA03QSZB1DY"
+}

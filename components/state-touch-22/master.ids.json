@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74KHQDN7ZRYZZ6SMG15",
+      "index": 3.0,
+      "name": "State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74KVSS5FQ9TKP197M0Q",
+      "index": 1.0,
+      "name": "Leading Item",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T74KM1Q90BGB3T85Q943",
+      "index": 2.0,
+      "name": "Text Content Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74KEZVVDWGSVYW1RPHV",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74K11ECQP0FRQDWQSM8",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74KQYDS5E9XVE2ESRCC",
+      "index": 3.0,
+      "name": "Trailing Content Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74KY59DAYA78JH4JTDN",
+      "index": 1.0,
+      "name": "Value",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74K3JA90M1XA6DPDQJR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74KYJ9KG7P1XAGND4NJ",
+      "index": 2.0,
+      "name": "Trailing Item",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74K6XQ417Q7Q1GGGA4H"
+}

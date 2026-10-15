@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72X2H0KRRSF05WZMWJJ",
+      "index": 2.0,
+      "name": "Status / Color=Informative",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72XM8AMP306V9W6PK3F",
+      "index": 1.0,
+      "name": "Dot",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72XEF791HM1VJPNYYFY",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T72XBFVEEQ905M60GTZ4"
+}

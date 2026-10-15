@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70FM120A21G2SCDAAZE",
+      "index": 303.0,
+      "name": "FileGlobe",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72B1SCYS5MCTJH1BT7N",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

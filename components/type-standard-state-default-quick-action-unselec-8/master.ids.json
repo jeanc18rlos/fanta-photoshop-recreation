@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73FX1AFYS2SCSR3JD6C",
+      "index": 6.0,
+      "name": "Type=Standard, State=Default, Quick Action=Unselected Checkbox & Move",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FRB9NSZC8YN401ZCX",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73H9DVY29AAFY0YPBFY",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73HN8D61163CJ3YWV8G",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73F3D8VX9C86QA8B3N5",
+      "index": 3.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73FER4S03R68HQ34YDG",
+      "index": 4.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73FAE92RS2BHXFTEP8X",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73FDYG95R1144RDDEMK"
+}

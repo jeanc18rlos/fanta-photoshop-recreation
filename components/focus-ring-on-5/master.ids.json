@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T770SF12KG8QS21TSX08",
+      "index": 2.0,
+      "name": "Focus Ring=On",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T770P11G9D4E2JA91F8Z",
+      "index": 1.0,
+      "name": "Star 1",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T770BVDMCX4NMZGD494V",
+      "index": 2.0,
+      "name": "Star 2",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T770ZDD0AX5K37ASCJ9T",
+      "index": 3.0,
+      "name": "Star 3",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T770X8SMJH8PRRMFEMT3",
+      "index": 4.0,
+      "name": "Star 4",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T770T4BTDKHM9NQ6XT82",
+      "index": 5.0,
+      "name": "Star 5",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T770S2ED95N8XBXNSQ2A"
+}

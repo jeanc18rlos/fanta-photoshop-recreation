@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73F5VFBD9NQDVTD435F",
+      "index": 24.0,
+      "name": "Type=Product, State=Default, Quick Action=Unselected Checkbox & 3 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FWRCXNE6VTCWBPD44",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73F66NDYS5ATV6G7S5E",
+      "index": 2.0,
+      "name": "Divider Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F4MM6YMZZMKSM25ZD",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 2,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73F13FFNV3S2QCMH0EM",
+      "index": 3.0,
+      "name": "Footer",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73F5WFD2EK59FB4K79F",
+      "index": 4.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FVH267M11MZTWB9XB",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73F3X3YJJZZBAB39M30",
+      "index": 2.0,
+      "name": "_Card - Quick Actions - Mobile - Wireframe",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73FDYG95R1144RDDEMK"
+}

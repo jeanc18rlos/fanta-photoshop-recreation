@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T772Y6YCEGPJCJVB1JV2",
+      "index": 4.0,
+      "name": "Style=Generic, State=Default",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T772FD6QC8EHXKWQ0FCX",
+      "index": 1.0,
+      "name": "Shape",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T772F6CNYQH0RB63M1Z1"
+}

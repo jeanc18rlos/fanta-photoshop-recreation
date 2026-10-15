@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71N10KEZ77Y6ZGPW335",
+      "index": 2.0,
+      "name": "Style=Standard, Selection Column=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71N4XNZ54CX26VEA1VX",
+      "index": 1.0,
+      "name": "Table - Selection Column - Desktop - Light",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71NMYT5PFP9W5EV6YS8",
+      "index": 2.0,
+      "name": "Table - Column - Desktop - Light",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71N16DXRFQ9QF4H6FZS",
+      "index": 3.0,
+      "name": "Table - Column - Desktop - Light",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71NG5PTMVT29F4HVZAZ",
+      "index": 4.0,
+      "name": "Table - Column - Desktop - Light",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71N3DAMV7WCAE552DV0",
+      "index": 5.0,
+      "name": "Table - Column - Desktop - Light",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71N0MWZ3PWN0F4091XV"
+}

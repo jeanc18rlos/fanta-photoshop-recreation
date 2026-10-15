@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71X0A7771JNSV1AW0C1",
+      "index": 85.0,
+      "name": "Status / Color=Seafoam, State=Disabled, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71X21DDTF0K8T868HWD",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71XEC5BZTN83TQ3S6A1",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T71WA1ADH19ZG8XZFA2W"
+}

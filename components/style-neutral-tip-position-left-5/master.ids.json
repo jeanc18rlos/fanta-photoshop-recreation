@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78AM8MEMV2XPF0RSW7S",
+      "index": 6.0,
+      "name": "Style=Neutral, Tip Position=Left",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78A2GM348T5SVEJNMJM",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T78A338NTCA368Y5HH4C",
+      "index": 2.0,
+      "name": "Tip",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T789PVWSX0SEV3ANCY3V"
+}

@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77MT8QFJNR2KWXYNG56",
+      "index": 1.0,
+      "name": "Platform=iOS",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77MZWMB7KV1TY9HRBW7",
+      "index": 1.0,
+      "name": "Tabs",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77MPVE3F64BXFKZG1CV",
+      "index": 1.0,
+      "name": "Tab 1",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77M10ASXY8357YC7SQE",
+      "index": 2.0,
+      "name": "Tab 2",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77M1JYS0CV32636BQYB",
+      "index": 3.0,
+      "name": "Tab 3",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MHM48KC90RWYA7PYV",
+      "index": 4.0,
+      "name": "Tab 4",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77M98SM83DKZF36FN6H",
+      "index": 5.0,
+      "name": "Tab 5",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77M178Z5PJTYN52KZ91",
+      "index": 2.0,
+      "name": "Home Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77M2GDRJY1Y8NWMMEBG",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 7,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77M9TSKM52DW6XCMD5K"
+}

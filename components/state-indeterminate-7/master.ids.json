@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71R5JH21Y3W396F806W",
+      "index": 3.0,
+      "name": "State=Indeterminate",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71RFKHMX3E667MSWECC",
+      "index": 1.0,
+      "name": "Intermediate Checkbox",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71RP33H0P36X4XYNR4A",
+      "index": 1.0,
+      "name": "Shape",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71RQPC8XBKHVXQQC919"
+}

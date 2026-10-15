@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74MQ7DBRX41WXTBK1CN",
+      "index": 5.0,
+      "name": "Selected=False, State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74MJZ5C6M1KVVM43DMA",
+      "index": 1.0,
+      "name": "Box",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T74MBB4BGFHXXHF3WMER"
+}

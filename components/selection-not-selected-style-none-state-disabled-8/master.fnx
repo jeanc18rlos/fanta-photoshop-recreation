@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Selection_Not_Selected__Style_None__State_Disabled() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [7.0, 0.0, 7.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[57.0, 32.0]} id="01M4V5T744PTY38KYQSJ1R881N" meta={{"clip_content": false, "figma_id": "218:32482", "figma_type": "SYMBOL"}} name="Selection=Not Selected, Style=None, State=Disabled" opacity={1.0} scrollable={false} x={428.0} y={40.0}>
+      <Rect blend_mode="normal" corner_radius={2.0} fills={[{"color": fnxColor("#FDFDFD"), "kind": "solid"}]} height={14.0} id="01M4V5T744T3D2SBRXSQ0V5X0F" local_size={[14.0, 14.0]} meta={{"figma_id": "218:32483", "figma_type": "ROUNDED_RECTANGLE"}} name="Box" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#B1B1B1"), "kind": "solid"}, "width": 2.0}]} width={14.0} x={0.0} y={9.0} />
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T744SAJA2Z4QJ96B98VN" local_size={[33.0, 18.0]} meta={{"figma_id": "218:32484", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#B1B1B1"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 14.0, "weight": 400}} vertical_align="center" x={24.0} y={7.0} />
+    </Frame>
+  );
+}

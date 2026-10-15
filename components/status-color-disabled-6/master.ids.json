@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72XK48NRNP0WFVAB6NV",
+      "index": 6.0,
+      "name": "Status / Color=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72XX7MTNGRGRAHZR89H",
+      "index": 1.0,
+      "name": "Dot",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72X7XXNP9Q4642FBERP",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T72X6TZAPYA4RSQEF1D0"
+}

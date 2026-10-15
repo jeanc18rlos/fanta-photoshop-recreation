@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T79HS4XTECTR8N6PFC03",
+      "index": 1.0,
+      "name": "Emphasis ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79HQJYWDBD1FH802CC7",
+      "index": 1.0,
+      "name": "Close Button & Item Counter",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79HATA19AAGAX0G2P0M",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79HVHA7K4DVHGDG37CD",
+      "index": 1.0,
+      "name": "Cross400",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79HVK4Z7WZE2KC7Q6B6",
+      "index": 2.0,
+      "name": "Item Counter",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79HFYQSCDAK3RB103CM",
+      "index": 1.0,
+      "name": "Item Count",
+      "parent_index": 4,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T79HYCAARJCFC534DYFM",
+      "index": 2.0,
+      "name": "Action Group",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79HB739ZZE2EKA6ESF9",
+      "index": 1.0,
+      "name": "Left Action Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79HXTAHTMDXK1TA57FW",
+      "index": 2.0,
+      "name": "Center Action Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79H6ZAR5BM1NRSN3ZWJ",
+      "index": 3.0,
+      "name": "Right Action Button",
+      "parent_index": 6,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T79HN4HCHSHHJEQ6HFY4"
+}

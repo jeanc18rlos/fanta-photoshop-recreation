@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7360E8AN31G41A8NXX3",
+      "index": 38.0,
+      "name": "Type=Horizontal, State=Selected, Quick Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736J919B0T3AVFSDG5C",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T736YS3KMBS43MRE32C5",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T736T4QQPQP14A1QSYQF",
+      "index": 3.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T736M2AD0MTGKGVGK6J5",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Light",
+      "parent_index": 3,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T735A3MGFR46YRWXYTFV"
+}

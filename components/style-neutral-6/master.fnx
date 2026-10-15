@@ -1,0 +1,14 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Neutral() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "start", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [24.0, 24.0, 24.0, 24.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 20.0, "wrap": false}} background={{"color": fnxColor("#FFFFFF"), "kind": "solid"}} blend_mode="normal" clip_size={[360.0, 131.0]} corner_radius={5.0} id="01M4V5T781SH99J60VJA8H26SF" meta={{"figma_id": "352:40851", "figma_type": "SYMBOL"}} name="Style=Neutral" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#7190D2"), "kind": "solid"}, "width": 2.0}]} x={24.0} y={24.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[312.0, 21.0]} id="01M4V5T781AWCBP2T03GATFG8M" layout_child={{"align_self": "stretch"}} meta={{"clip_content": false, "figma_id": "352:40852", "figma_type": "FRAME"}} name="Header" opacity={1.0} scroll_direction="none" scrollable={true} x={24.0} y={24.0}>
+        <Text align="left" auto_resize="height" blend_mode="normal" content="Alert title" id="01M4V5T781953F4FTEJEJT49J9" layout_child={{"grow": 1.0}} local_size={[312.0, 21.0]} meta={{"figma_id": "352:40853", "figma_type": "TEXT"}} name="Title" opacity={1.0} style={{"color": fnxColor("#486EC2"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 600}} vertical_align="center" x={0.0} y={0.0} />
+      </Frame>
+      <Text align="left" auto_resize="height" blend_mode="normal" content="This is a sample alert message. Please replace with relevant information." id="01M4V5T781FJXSSNA5YMTM16EE" layout_child={{"align_self": "stretch"}} local_size={[312.0, 42.0]} meta={{"figma_id": "352:40854", "figma_type": "TEXT"}} name="Body" opacity={1.0} style={{"color": fnxColor("#496EC2"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={24.0} y={65.0} />
+    </Frame>
+  );
+}

@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function _Cell() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [6.0, 0.0, 6.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[224.0, 27.0]} id="01M4V5T70JZG5P6HX3XE4YKWC9" meta={{"clip_content": false, "figma_id": "89:14537", "figma_type": "SYMBOL"}} name="_Cell" opacity={1.0} scrollable={false} x={96.0} y={654.0}>
+      <Text align="left" auto_resize="height" blend_mode="normal" content="Cell Title" id="01M4V5T70JDH5RTSNG7EQA6AEJ" layout_child={{"grow": 1.0}} local_size={[224.0, 15.0]} meta={{"figma_id": "89:14535", "figma_type": "TEXT"}} name="Cell Title" opacity={1.0} style={{"color": fnxColor("#464646"), "font_family": "Source Sans Pro", "italic": true, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 12.0, "weight": 400}} vertical_align="center" x={0.0} y={6.0} />
+    </Frame>
+  );
+}

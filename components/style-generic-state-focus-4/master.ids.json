@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T772AXYWGAMKWK3HBB5Q",
+      "index": 6.0,
+      "name": "Style=Generic, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T772CM6AVCKQTTHPFSMJ",
+      "index": 1.0,
+      "name": "Shape",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T772J1DBQRRT6ZHN1GWG",
+      "index": 2.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7728PP7AAAA9DK3FYM7"
+}

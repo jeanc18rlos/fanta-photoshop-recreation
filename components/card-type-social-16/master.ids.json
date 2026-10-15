@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73F2VHWRSB6ZAZEP0BR",
+      "index": 2.0,
+      "name": "Card Type=Social",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F27GCT34W63DYWFSA",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FF6XSJKK9RJEND0N4",
+      "index": 1.0,
+      "name": "Avatar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F9BQ3ZS26JCHEZZJA",
+      "index": 2.0,
+      "name": "Post Details",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F0TZN45PT0TZ8W4ET",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 3,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73FQS484B0ZZHWBK3WZ",
+      "index": 2.0,
+      "name": "Metadata",
+      "parent_index": 3,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73FD53WC8X0Y756QH89",
+      "index": 2.0,
+      "name": "Post Content",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73FSBBTKQJD7NYEZBTY"
+}

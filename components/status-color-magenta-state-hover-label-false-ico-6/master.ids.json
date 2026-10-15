@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T725H16QEXA8Y5V8N4JV",
+      "index": 119.0,
+      "name": "Status / Color=Magenta, State=Hover, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T725GYAECRFA372RET93",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7232AW0BE8EAWBJFVPK"
+}

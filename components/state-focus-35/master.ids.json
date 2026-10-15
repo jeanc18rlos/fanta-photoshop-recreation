@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77G274BCRQ884V56180",
+      "index": 4.0,
+      "name": "State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77G2E3HB7A61KGRRV6X",
+      "index": 1.0,
+      "name": "Avatar",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77GKG4T6NH00ZHXQQ30",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77G41BPN8KFYTSP5RZN",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77GBX19C9FZZC1HYVX8",
+      "index": 3.0,
+      "name": "Close Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77GRSM675WPG4WBC2MZ",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77GDCXZXVKK5KDED0Z5",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 5,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77G5N98YZ41P7V797HG"
+}

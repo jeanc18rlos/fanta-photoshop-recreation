@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72XASNG9T2WR7RS39GF",
+      "index": 7.0,
+      "name": "Status / Color=Indigo",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72XXKV60G4C56KFHEVP",
+      "index": 1.0,
+      "name": "Dot",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72XWQ6C3TRD6ETER6JV",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T72XBFVEEQ905M60GTZ4"
+}

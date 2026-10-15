@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73N13D3VRMHX9T1RJYP",
+      "index": 6.0,
+      "name": "Style=Quiet, Label Position=Side, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73NJX5EJPQKQGXAZT5V",
+      "index": 1.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73NCP8CA9DVYR9HQAXF",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73N0FWR8D822P9WWBZY",
+      "index": 2.0,
+      "name": "Asterisk Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73N6PST35FFG2M0H41X",
+      "index": 1.0,
+      "name": "Asterisk",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73NBPJ7JSM8J31JX8P4",
+      "index": 2.0,
+      "name": "Field & Count Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73NZYFT44QB8CAGDRAV",
+      "index": 1.0,
+      "name": "Field",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73NXHY885XG5GM4NWHR",
+      "index": 1.0,
+      "name": "Value",
+      "parent_index": 6,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73N50Z4YCWNEEP1CJQR",
+      "index": 2.0,
+      "name": "Character Counter",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73NQKJMAHMV746YD7FV",
+      "index": 1.0,
+      "name": "Count",
+      "parent_index": 8,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73NPGVNGMB2X573TX3B"
+}

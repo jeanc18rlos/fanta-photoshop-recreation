@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GQSFDAERBD93P1SGVK",
+  "name": "_Header",
+  "props": [
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GQRZVAGDYWYTAP8699",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Title"
+    },
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GQHDANHX6YWRT7VHD5",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Description"
+    }
+  ],
+  "root": "01M4V5T70HB8QQ2YC64J5HXFB7"
+}

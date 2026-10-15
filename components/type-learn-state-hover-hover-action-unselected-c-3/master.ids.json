@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T733D4P40C8CFSEM7PA1",
+      "index": 19.0,
+      "name": "Type=Learn, State=Hover, Hover Action=Unselected Checkbox",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731RZXDA75H2M0W4G3A",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T731RWVPVC4Y2J09KS71",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731J1KZF7E3E79Y5CJZ",
+      "index": 3.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731Y3480M1FRX8AWGME",
+      "index": 1.0,
+      "name": "VectorDraw",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T731ME4GKPKQMWPPN7BG",
+      "index": 4.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T731YJ8VWVKNXC4M9YH9",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Light",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7333SCZZNZ5E000TPKM"
+}

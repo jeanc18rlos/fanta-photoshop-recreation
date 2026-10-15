@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Focus__Label___True__Icon___False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [6.0, 11.0, 7.0, 11.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#486EC2"), "kind": "solid"}} blend_mode="normal" clip_size={[55.0, 32.0]} corner_radius={4.0} id="01M4V5T722EYPN5WV3F1PXAJNG" meta={{"clip_content": false, "figma_id": "111:22014", "figma_type": "SYMBOL"}} name="State=Focus, Label ?=True, Icon ?=False" opacity={1.0} scrollable={false} x={422.0} y={124.0}>
+      <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T7225D5T0259A97DSC5F" local_size={[33.0, 18.0]} meta={{"figma_id": "111:22015", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 14.0, "weight": 400}} vertical_align="center" x={11.0} y={6.5} />
+      <Rect blend_mode="normal" corner_radius={8.0} height={40.0} id="01M4V5T722PDVN9667YVAPYTXC" layout_child={{"absolute": true}} local_size={[63.0, 40.0]} meta={{"figma_id": "111:22016", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#ADC0E9"), "kind": "solid"}, "width": 2.0}]} width={63.0} x={-4.0} y={-4.0} />
+    </Frame>
+  );
+}

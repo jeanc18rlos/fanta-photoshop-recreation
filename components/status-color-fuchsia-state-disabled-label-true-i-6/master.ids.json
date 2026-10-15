@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T720HK05W4NEM8KKQGEH",
+      "index": 38.0,
+      "name": "Status / Color=Fuchsia, State=Disabled, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7204M938D0WTH5TN6JJ",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7208W1CC8CWCGHF1D0H"
+}

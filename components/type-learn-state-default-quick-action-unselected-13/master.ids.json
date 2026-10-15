@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73C66RP9NZYDRST11MA",
+      "index": 16.0,
+      "name": "Type=Learn, State=Default, Quick Action=Unselected Checkbox",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CKN28F92JY3GDVQN7",
+      "index": 1.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73C9V1Q0WA4677PYN7A",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CZQQXCZSYC2V2KDJV",
+      "index": 3.0,
+      "name": "Quick Actions",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CT3ZJ6E7F133QR81H",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Dark",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73CDFXWCNZNJ7YCE5CT",
+      "index": 4.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73C2FKJ47DRWN6J01RE",
+      "index": 1.0,
+      "name": "VectorDraw",
+      "parent_index": 5,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73BD96DH2DST3NH98E6"
+}

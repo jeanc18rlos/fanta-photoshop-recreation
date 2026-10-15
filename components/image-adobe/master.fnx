@@ -1,0 +1,13 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Image_Adobe() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#F8F8F8"), "kind": "solid"}} blend_mode="normal" clip_size={[170.8000030517578, 70.0]} id="01M4V5T70HMCTYZYJYST9XR6A3" layout_child={{"grow": 1.0}} meta={{"clip_content": false, "figma_id": "47:17186", "figma_type": "SYMBOL"}} name="Image=Adobe" opacity={1.0} scrollable={false} x={202.8000030517578} y={16.0}>
+      <Frame blend_mode="normal" clip_size={[34.0, 34.0]} id="01M4V5T70H63BHK0E51C2JBMGM" meta={{"figma_id": "45:17166", "figma_type": "FRAME"}} name="Adobe" opacity={1.0} scroll_direction="none" scrollable={true} x={68.4000015258789} y={18.0}>
+        <Vector blend_mode="normal" fills={[{"color": fnxColor("#EA3829"), "kind": "solid"}]} id="01M4V5T70HP2ZAQ1R6SKNVARDX" local_size={[28.33333396911621, 25.5]} meta={{"figma_id": "45:17167", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [10.015833854675293, 20.229999542236328]}, {"op": "line", "to": [13.954168319702148, 20.229999542236328]}, {"op": "line", "to": [16.433334350585938, 25.10333251953125]}, {"op": "line", "to": [20.031667709350586, 25.10333251953125]}, {"op": "line", "to": [14.166667938232422, 9.732499122619629]}, {"op": "line", "to": [10.015833854675293, 20.229999542236328]}, {"op": "close"}, {"op": "move", "to": [0.0, 0.0]}, {"op": "line", "to": [0.0, 25.5]}, {"op": "line", "to": [10.511667251586914, 0.0]}, {"op": "line", "to": [0.0, 0.0]}, {"op": "close"}, {"op": "move", "to": [17.68000030517578, 0.0]}, {"op": "line", "to": [28.333335876464844, 25.230831146240234]}, {"op": "line", "to": [28.333335876464844, 0.0]}, {"op": "line", "to": [17.68000030517578, 0.0]}, {"op": "close"}]}} x={2.8333332538604736} y={4.25} />
+      </Frame>
+    </Frame>
+  );
+}

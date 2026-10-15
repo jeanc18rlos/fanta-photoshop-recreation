@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77FNRRK38TBX3PYXX2Z",
+      "index": 2.0,
+      "name": "State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77FWST2E16QPAN97TVX",
+      "index": 1.0,
+      "name": "Avatar",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77FM58VRDMQXQ7XMEH0",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77FXPM4R1F5XB0Y2NPW",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77F0XB8CZMXAMKQMNKP",
+      "index": 3.0,
+      "name": "Close Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77F6XMEYSW97642HYK2",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77F4HGDZ02REB9CRB3Z",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 5,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77F4KEAGE1FRFEK9BVJ"
+}

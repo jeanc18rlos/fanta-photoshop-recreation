@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T728SS0QD97TC4XYZ2JT",
+      "index": 18.0,
+      "name": "Status / Color=Fuchsia, State=Hover, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7287GVD8SS2QBX7Q7FF",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T728MGC1Z9GTNMETE1EA"
+}

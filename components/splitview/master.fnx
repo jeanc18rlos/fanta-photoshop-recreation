@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function SplitView() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70FCN7QPC133T062MVV" meta={{"figma_id": "41:35300", "figma_type": "SYMBOL"}} name="SplitView" opacity={1.0} scrollable={false} x={384.0} y={2836.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T72C3FWTB9FAQ0AECJX0" local_size={[16.0, 16.0]} meta={{"figma_id": "113:23291", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [6.5, 0.0]}, {"op": "line", "to": [0.5, 0.0]}, {"ctrl1": [0.22385761141777039, 0.0], "ctrl2": [0.0, 0.22385761141777039], "op": "cubic", "to": [0.0, 0.5]}, {"op": "line", "to": [0.0, 15.5]}, {"ctrl1": [0.0, 15.776142120361328], "ctrl2": [0.22385761141777039, 16.0], "op": "cubic", "to": [0.5, 16.0]}, {"op": "line", "to": [6.5, 16.0]}, {"ctrl1": [6.776142597198486, 16.0], "ctrl2": [7.0, 15.776142120361328], "op": "cubic", "to": [7.0, 15.5]}, {"op": "line", "to": [7.0, 0.5]}, {"ctrl1": [7.0, 0.22385761141777039], "ctrl2": [6.776142597198486, 0.0], "op": "cubic", "to": [6.5, 0.0]}, {"op": "close"}, {"op": "move", "to": [15.5, 0.0]}, {"op": "line", "to": [9.5, 0.0]}, {"ctrl1": [9.223857879638672, 0.0], "ctrl2": [9.0, 0.22385761141777039], "op": "cubic", "to": [9.0, 0.5]}, {"op": "line", "to": [9.0, 15.5]}, {"ctrl1": [9.0, 15.776142120361328], "ctrl2": [9.223857879638672, 16.0], "op": "cubic", "to": [9.5, 16.0]}, {"op": "line", "to": [15.5, 16.0]}, {"ctrl1": [15.776142120361328, 16.0], "ctrl2": [16.0, 15.776142120361328], "op": "cubic", "to": [16.0, 15.5]}, {"op": "line", "to": [16.0, 0.5]}, {"ctrl1": [16.0, 0.22385761141777039], "ctrl2": [15.776142120361328, 0.0], "op": "cubic", "to": [15.5, 0.0]}, {"op": "close"}]}} x={1.0} y={1.0} />
+    </Frame>
+  );
+}

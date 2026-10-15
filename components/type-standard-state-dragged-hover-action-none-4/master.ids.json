@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T733QWJTH4BRCJSWRBBW",
+      "index": 3.0,
+      "name": "Type=Standard, State=Dragged, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T733MAJJSVFCMQY97EGQ",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73334FKH39A4MZ66S81",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Darkest",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T733X0RD7J1HVE56CJTF",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T733FKZZ4SBMQDJYTTNQ"
+}

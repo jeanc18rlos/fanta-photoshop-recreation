@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76BYZNYTNNFHVH9RZB8",
+      "index": 23.0,
+      "name": "State=Focus, Rounding=None, Selection=Mixed",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76BH9AN7GXGGA6YMR80",
+      "index": 1.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76B8RZHBR9Z1AVG1SV7",
+      "index": 2.0,
+      "name": "Hyphen",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76B5JKPYKYACQGPNSCP"
+}

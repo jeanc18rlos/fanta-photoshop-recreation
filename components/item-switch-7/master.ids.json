@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74FECPT9C0NCQ9MYHCJ",
+      "index": 4.0,
+      "name": "Item=Switch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74FKKX3TABYMY8T18ZM",
+      "index": 1.0,
+      "name": "Switch",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74FA1FREMY8AZDG1C83"
+}

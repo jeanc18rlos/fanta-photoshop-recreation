@@ -1,0 +1,13 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Toggled_Off__State_Disabled() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[36.0, 20.0]} id="01M4V5T74NTYJ4KQN3N9CG40KJ" meta={{"figma_id": "249:33798", "figma_type": "SYMBOL"}} name="Toggled=Off, State=Disabled" opacity={1.0} scrollable={false} x={20.0} y={196.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#D2DCF3"), "kind": "solid"}} blend_mode="normal" clip_size={[36.0, 18.0]} corner_radius={20.0} id="01M4V5T74ND03S2SYF6SC0YRE8" meta={{"figma_id": "249:33799", "figma_type": "FRAME"}} name="Switch" opacity={1.0} scroll_direction="none" scrollable={true} x={0.0} y={1.0}>
+        <Ellipse blend_mode="normal" fills={[{"color": fnxColor("#FDFDFE"), "kind": "solid"}]} height={18.0} id="01M4V5T74N3WPH70T416S8TD28" local_size={[18.0, 18.0]} meta={{"figma_id": "249:33800", "figma_type": "ELLIPSE"}} name="Handle" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#B7C8EB"), "kind": "solid"}, "width": 2.0}]} width={18.0} x={0.0} y={0.0} />
+      </Frame>
+    </Frame>
+  );
+}

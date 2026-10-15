@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76C5VVQT97S07AP1H7E",
+      "index": 16.0,
+      "name": "State=Touch, Rounding=None, Selection=Nothing",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76C3WMAHZ0YXQEDHSZX",
+      "index": 1.0,
+      "name": "Outer Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76C1RQV1Z3F085VHAM8",
+      "index": 2.0,
+      "name": "Stroke",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76CPQ90ZXRAHGBP54WR"
+}

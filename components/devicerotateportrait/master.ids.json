@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70G2SAXVWZBQWF4RQPB",
+      "index": 214.0,
+      "name": "DeviceRotatePortrait",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72APY4DY7GX35VYNGPB",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

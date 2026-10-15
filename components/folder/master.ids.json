@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70FT8DHXD002N2TA00N",
+      "index": 342.0,
+      "name": "Folder",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T703YBK35XM1NDWDGBWS",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

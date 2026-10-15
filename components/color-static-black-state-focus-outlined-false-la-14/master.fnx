@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Color_Static_Black__State_Focus__Outlined___False__Label___True__Icon___False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [6.0, 17.0, 7.0, 17.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#000000"), "kind": "solid"}} blend_mode="normal" clip_size={[73.0, 32.0]} corner_radius={50.0} id="01M4V5T70W70SW44T5YWJSYMM5" meta={{"clip_content": false, "figma_id": "91:21076", "figma_type": "SYMBOL"}} name="Color=Static Black, State=Focus, Outlined ?=False, Label ?=True, Icon ?=False" opacity={1.0} scrollable={false} x={464.0} y={2270.0}>
+      <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Action" id="01M4V5T70WR3E3G748PSHX2D1Q" local_size={[39.0, 18.0]} meta={{"figma_id": "91:21077", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 14.0, "weight": 600}} vertical_align="center" x={17.0} y={6.5} />
+      <Rect blend_mode="normal" corner_radius={50.0} height={40.0} id="01M4V5T70WX7AMREZDJGDB8BFQ" layout_child={{"absolute": true}} local_size={[81.0, 40.0]} meta={{"figma_id": "91:21078", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#000000"), "kind": "solid"}, "width": 2.0}]} width={81.0} x={-3.9999427795410156} y={-4.0} />
+    </Frame>
+  );
+}

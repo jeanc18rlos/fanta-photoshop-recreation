@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70EZ6PA8QXH51H6KMK1",
+      "index": 492.0,
+      "name": "LinkOutLight",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72B1ANH96GKR24G9PK7",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

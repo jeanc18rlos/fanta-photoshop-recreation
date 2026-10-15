@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function CircleFilled() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70G4BNGWWV4R9PXR138" meta={{"figma_id": "41:35529", "figma_type": "SYMBOL"}} name="CircleFilled" opacity={1.0} scrollable={false} x={312.0} y={748.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T703NFSM4DR65JG0GPZ8" local_size={[16.0, 16.0]} meta={{"figma_id": "2:3221", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [8.0, 16.0]}, {"ctrl1": [12.418277740478516, 16.0], "ctrl2": [16.0, 12.418277740478516], "op": "cubic", "to": [16.0, 8.0]}, {"ctrl1": [16.0, 3.581721782684326], "ctrl2": [12.418277740478516, 0.0], "op": "cubic", "to": [8.0, 0.0]}, {"ctrl1": [3.581721782684326, 0.0], "ctrl2": [0.0, 3.581721782684326], "op": "cubic", "to": [0.0, 8.0]}, {"ctrl1": [0.0, 12.418277740478516], "ctrl2": [3.581721782684326, 16.0], "op": "cubic", "to": [8.0, 16.0]}, {"op": "close"}]}} x={1.0} y={1.0} />
+    </Frame>
+  );
+}

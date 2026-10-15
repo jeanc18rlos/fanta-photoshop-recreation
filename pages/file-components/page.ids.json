@@ -1,0 +1,31 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70HJBJ0KN03FS1NJWXD",
+      "index": 22.0,
+      "name": "🗂️  File Components",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70JK2FZE18WG9CZVDX8",
+      "index": 1.0,
+      "name": "_Figma Frame",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70JV2SXXJAP247TB3N8",
+      "index": 2.0,
+      "name": "_Figma Frame Components",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70HJ17NCC3RAW5BASD7",
+      "index": 3.0,
+      "name": "_Link Image",
+      "parent_index": 2,
+      "tag": "Frame"
+    }
+  ]
+}

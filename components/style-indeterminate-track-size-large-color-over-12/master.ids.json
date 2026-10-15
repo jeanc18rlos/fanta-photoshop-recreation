@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72TJ9EDQZME53YVC3KR",
+      "index": 8.0,
+      "name": "Style=Indeterminate, Track Size=Large, Color=Over Background",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72TSEDHJ42ZRX1JDBC9",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72TXBT16EAXRT07YJ7N",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T72TZS0ETX7FP000FWRM",
+      "index": 2.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72TFQ0GZ421TTFF282B",
+      "index": 1.0,
+      "name": "Fill",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72TYPKHRSAJK6GY1JV1",
+      "index": 1.0,
+      "name": "Start",
+      "parent_index": 4,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72TKTZC6946FAYQ87EZ",
+      "index": 2.0,
+      "name": "End",
+      "parent_index": 4,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T72TP63DHGHFMQQB4RM8"
+}

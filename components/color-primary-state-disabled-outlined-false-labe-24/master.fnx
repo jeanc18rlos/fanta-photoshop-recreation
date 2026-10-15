@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Color_Primary__State_Disabled__Outlined___False__Label___True__Icon___False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 22.0, 10.0, 22.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#303030"), "kind": "solid"}} blend_mode="normal" clip_size={[91.0, 40.0]} corner_radius={50.0} id="01M4V5T71GE28WT10BKRBGZEH5" meta={{"figma_id": "99:30354", "figma_type": "SYMBOL"}} name="Color=Primary, State=Disabled, Outlined ?=False, Label ?=True, Icon ?=False" opacity={1.0} scrollable={false} x={674.0} y={1034.0}>
+      <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Action" id="01M4V5T71GBT4V85QKCDCFQDVP" local_size={[47.0, 21.0]} meta={{"figma_id": "99:30355", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#6A6A6A"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 600}} vertical_align="center" x={22.0} y={8.5} />
+    </Frame>
+  );
+}

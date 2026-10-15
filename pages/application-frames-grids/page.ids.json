@@ -1,0 +1,5547 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71P81H8MYFC42FGH70N",
+      "index": 20.0,
+      "name": "📐  Application Frames & Grids",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZZEKDGJF2VEZA20M8",
+      "index": 1.0,
+      "name": "Desktop - Large (Wireframe)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZBT72P3E16W66EM58",
+      "index": 1.0,
+      "name": "desktop-large/wireframe/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZVEGE9EMQH605HCJ8",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZM9ZSRN8SHFK9FAK6",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZJXFFZ4SRMAKPEJHX",
+      "index": 3.0,
+      "name": "Left Panel",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZQ278YQ05ZZKMWPZY",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z75Z5FABYJMEQ5BF9",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZJNAPGRMJQPFYZB4N",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 7,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZHJJX7AGSEYX1XYRY",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 8,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z09ECQTZPZC70YR91",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 8,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z5ZC0RBQKKRCKQHA6",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 8,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZDMK7SW9PSP39YSBW",
+      "index": 2.0,
+      "name": "desktop-large/wireframe/left-sidebar-panel-right-sidebar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZPX2929675P9XX128",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 12,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZYW35S95RK86V9MRE",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 12,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z1TKAX3CH1HHY7WCY",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 12,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZZAE67NTFXBCS4H2W",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 12,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZGCNWBQ20CB5C8B15",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 16,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZMZFS27KAGSW19B0E",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 17,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZNT84RK5A8KKWVN5E",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 17,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJA673WG0AJRXRQ89",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 17,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZDRKHVK9TDYAWFCK1",
+      "index": 3.0,
+      "name": "desktop-large/wireframe/left-sidebar-right-sidebar-panel",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZVW3GA4NH4CCVD659",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 21,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZEBB67SAF34E2XXFC",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 21,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z9HXTGCZFHXAM11HC",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 21,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZP75JXD6H8SWCRKCE",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 21,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZX0Q5YDJK26A22SH8",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 25,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z20D9WMREMBBR73HS",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 26,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZXF1YQ1K1WKFSTF5P",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 26,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZYRD4RJWZ66XCC4JN",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 26,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZH70XKVX4JB2PB2JB",
+      "index": 4.0,
+      "name": "desktop-large/wireframe/left-right-sidebar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZTJDK6NT94ESZFT42",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 30,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZZH8K0WKHZQ0ADYPE",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 30,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZM0A5F1R7ZCGV19BX",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 30,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKT6R8YXDQBN55G2M",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 33,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z54VSXNTPNGZZE8XQ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 34,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZDEV9X1WN0X27EXV0",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 34,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z1WNVNJWV7FJHGPYP",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 34,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZDE309Y3W46ZXYP4D",
+      "index": 5.0,
+      "name": "desktop-large/wireframe/right-sidebar-panel",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZV7G8R50AP9MVSAD4",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 38,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZB5G3Q4P8CQF50E6H",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 38,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZH6JX94JA5451MGFP",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 38,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z56CRHS1JCTNMEPED",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 41,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZX427AX2RT8JFMXEG",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 42,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZZ3X677SR5VN7Y57X",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 42,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZFAMGGWDBNH3EXBTX",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 42,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z8CN1G8FE9ANS8ETF",
+      "index": 6.0,
+      "name": "desktop-large/wireframe/right-sidebar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZVXCNJCKRTSVKRTFC",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 46,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZBQGG4Y97S9Q4RYD5",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 46,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZXMWE8C1JCXMAF9JQ",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 48,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZBCF00BX2R0YX5RQ3",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 49,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z6X0FVME9686PBS67",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 49,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZMWY7SA3N4684MY5Q",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 49,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZRD74MNX3ZP93GJ74",
+      "index": 7.0,
+      "name": "desktop-large/wireframe/left-sidebar-panel",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z4RNWRJQYAFAMVJEC",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 53,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZGP34AGWC8YN2RPZE",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 53,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZFZ3C79DVXXFJSK5A",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 53,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z1AJMVP7960J0ZYTP",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 56,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZEZT4NM4QHTMTTFDN",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 57,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZNPCEBE8004P1VH74",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 57,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZD1HS332FXZAEZP8H",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 57,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJ7HY4GF999MFG4XG",
+      "index": 8.0,
+      "name": "desktop-large/wireframe/left-sidebar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZDF1C9QAVYQE9YYVJ",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 61,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z87TCN7QPSZMZDH00",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 61,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z8VDYB642G62T43WW",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 63,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z42SYW6ZXYTJAA5EJ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 64,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZH3A8RT6SHX5YG3FA",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 64,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZW2YC6SX0J6JG11Z5",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 64,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZRSEZQ57YBF73Y3XJ",
+      "index": 9.0,
+      "name": "desktop-large/wireframe/fixed-grid",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZX9F2XZSV16G2XPFB",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 68,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZZ834F046SWDGXR4C",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 69,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZEGBGE9WZY7NSV586",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 70,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZNT4VR7R148H0H0GW",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 70,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z6BYD130T90TM8J7P",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 70,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZWB1PHB4PE0Q381YH",
+      "index": 10.0,
+      "name": "desktop-large/wireframe/fluid-grid",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z36CYGYKDCHQ6PQ42",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 74,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZV420JH1XZJ4CJKXW",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 75,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z6KHHV7HMWA169BBP",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 76,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZE1EAZY0M8G6J5P68",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 76,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZYEE8ZQXDYTB4VE2B",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 76,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNB69365NBS5FFP520",
+      "index": 2.0,
+      "name": "Desktop - Medium (Wireframe)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN7QSS0TV9R6W15E9A",
+      "index": 1.0,
+      "name": "desktop-medium/wireframe/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNDBG0XYHPBJ4EY1TP",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNPC4TE02CK00N6TRA",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNA22S666C9C2VJJVG",
+      "index": 3.0,
+      "name": "Right Panel",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN5TJQA4HA4J4T7R9G",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN649PQGBY3XBDC94G",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN1WXDAGQQ7XDV280Q",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 86,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNZ9R1RV7GBY98E373",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 87,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNTCBH1BQTRHFXGS99",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 87,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN21GW85AMX7N5SD8J",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 87,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN8ABNQVHVKBDJFWKP",
+      "index": 2.0,
+      "name": "desktop-medium/wireframe/left-sidebar-panel-right-sidebar",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNNG6FW0YM9MJATT7X",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 91,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN28PXVSPX330MFEKV",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 91,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNRG5X9EBC0TSMQ45K",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 91,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN9FWTBSG4SRX1DHZJ",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 91,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQVHQHFE1M6HYERZ8",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 95,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNN3F7MY12QJ3TMZJD",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 96,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNQXSACW29DN548YMD",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 96,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNEX23730KTY1FACDW",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 96,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNFA6CQXNRFJ647RF9",
+      "index": 3.0,
+      "name": "desktop-medium/wireframe/left-sidebar-right-sidebar-panel",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNXPA0C2EJAE84XHR6",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 100,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNWEB8434V8M4ZSJN4",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 100,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNKDTBCVACMEKVEXAS",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 100,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNVF88G8JGJJJEG1SJ",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 100,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNW827CNNH4C1ZT1HC",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 104,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQRQK595NXXEDQV8Z",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 105,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN1DB19JSZDNG936E5",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 105,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNS7TGCDYRRKYWV5C1",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 105,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN7NT53R1Y5KE51DBV",
+      "index": 4.0,
+      "name": "desktop-medium/wireframe/left-right-sidebar",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNZ5JQ837K2QPYK1R5",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 109,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN1Y5JXHGHY65ZMCTW",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 109,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQJNQDV011FW9B9R2",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 109,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN4KKJESK9F05S97X8",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 112,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNKGY30JDZAGZEVYR8",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 113,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNNQARAX4HQ3XVZ5E1",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 113,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNJH16F3TEGCAPXJGW",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 113,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN302RQZ2NJ3VVC08G",
+      "index": 5.0,
+      "name": "desktop-medium/wireframe/right-sidebar-panel",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN8B5EZS1Y2KWT09T5",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNW6YFZHGAP6T0DZJT",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNM799WF2EW5BEFH16",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN5MYV8T2GB1MSN59B",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 120,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN3JYCT278PXANF87M",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 121,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNCQVAX6QK5C37P9ZY",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 121,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN13Q1SX8ZYP0853MJ",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 121,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNQZW3GXNEM207XK52",
+      "index": 6.0,
+      "name": "desktop-medium/wireframe/right-sidebar",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNY4WM7CZGWB9TN5FV",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 125,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN04RSHABBRF38SPW5",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 125,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNSHSSQYF2DGENXFVW",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 127,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQHSAKY6VHF7CR9X1",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 128,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNM4N1BNT3YFT4G3MW",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 128,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNE0G0XTAASSW6HGQF",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 128,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNBRW6Q7DVZ6GYVTZ4",
+      "index": 7.0,
+      "name": "desktop-medium/wireframe/left-sidebar-panel",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN8289GKY6PGXV86AP",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 132,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN10MMQ6PXJWNG4SPY",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 132,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNHB7Z659M1MDW8E4H",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 132,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQNGMT76Y8E7QQ20R",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNFF2YK5MP57T5Y2SZ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 136,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNT3E4ZQ6JWKHZRWTM",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 136,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNYPWXAF1FEHQRNFZQ",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 136,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNXRCT71BRNNSGH7JZ",
+      "index": 8.0,
+      "name": "desktop-medium/wireframe/left-sidebar",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQJBCDZV194A817XX",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 140,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNX1A2V4M013N7NBD4",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 140,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN7BQV7FN93X1NMM06",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 142,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN731VYKE690E606TX",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 143,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNTA265MNAFY1V9MZ3",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 143,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN6DW0ATSJ48FSWGM1",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 143,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN47VTCMY1QG1Q377H",
+      "index": 9.0,
+      "name": "desktop-medium/wireframe/fixed-grid",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNVB0X5WDNFCDPKWNM",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 147,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNSH602PT1Z63NMEBS",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 148,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNFZ1YPKHSH1MREWT8",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 149,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN19CZTQN503DF943P",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 149,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN5AASC1F81DVMP31P",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 149,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNRCR5JT0MTQHXV05N",
+      "index": 10.0,
+      "name": "desktop-medium/wireframe/fluid-grid",
+      "parent_index": 80,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNW50YD7RMMRPXDZVE",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 153,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNQEA0P5Z4E8XY1YQX",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 154,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNVR8FVEWCTAAC01BP",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 155,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNVN4T32NKREN1NZ42",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 155,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNQS5VNET1PPEEYC09",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 155,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7800TKWNN55HVNR7Z7K",
+      "index": 3.0,
+      "name": "Mobile (Wireframe)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780JE8ZVRNC18QHSMBN",
+      "index": 1.0,
+      "name": "mobile/wireframe/ios",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780MS7WSGX1CVZFF8T4",
+      "index": 1.0,
+      "name": "iOS Home Indicator",
+      "parent_index": 160,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7807VDGFSW1TY5DX9Y3",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 161,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78074863HGST3VW5EP7",
+      "index": 2.0,
+      "name": "iOS Status Bar",
+      "parent_index": 160,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7804147QH136FFNDDNQ",
+      "index": 1.0,
+      "name": "Left Side",
+      "parent_index": 163,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780ZGWBGRBFYFEFJJ69",
+      "index": 1.0,
+      "name": "_StatusBar-time",
+      "parent_index": 164,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7808SPH3HQQKX82VPX6",
+      "index": 1.0,
+      "name": "✏️ Time",
+      "parent_index": 165,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780F96H7CMND0W9133Y",
+      "index": 2.0,
+      "name": "Right Side",
+      "parent_index": 163,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780D54F0BRR1J8YRPB5",
+      "index": 1.0,
+      "name": "_StatusBar-battery",
+      "parent_index": 167,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78029647NEDTDBQKFB7",
+      "index": 1.0,
+      "name": "Outline",
+      "parent_index": 168,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780ZSPQTESQA9M5KE22",
+      "index": 2.0,
+      "name": "Battery End",
+      "parent_index": 168,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780DTTM98ZVMDEWPWDA",
+      "index": 3.0,
+      "name": "Fill",
+      "parent_index": 168,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7801QAT9YN4QWG6HQ42",
+      "index": 2.0,
+      "name": "Wifi",
+      "parent_index": 167,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T780ZF8J96WMK8BX4XQW",
+      "index": 1.0,
+      "name": "Wifi-path",
+      "parent_index": 172,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780Y3AX9A9K6P7B7FA0",
+      "index": 2.0,
+      "name": "Wifi-path",
+      "parent_index": 172,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780YZ6WXB6829Q6XX17",
+      "index": 3.0,
+      "name": "Wifi-path",
+      "parent_index": 172,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780H89SEG6MRKCBZ7D5",
+      "index": 3.0,
+      "name": "Icon / Mobile Signal",
+      "parent_index": 167,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780ERS26Z9W51FMJ9QP",
+      "index": 2.0,
+      "name": "mobile/wireframe/android",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780TMK98MK4Y1F1K4GN",
+      "index": 1.0,
+      "name": "Android Home Indicator",
+      "parent_index": 177,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780BSQVP8PEGSBNF9DF",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 178,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780TQ0KAH92JWP8S5J7",
+      "index": 2.0,
+      "name": "Android Status Bar",
+      "parent_index": 177,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780WS0PW53QVX247DHH",
+      "index": 1.0,
+      "name": "Content",
+      "parent_index": 180,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78021BWCC9PW0EEP0SV",
+      "index": 1.0,
+      "name": "Clock",
+      "parent_index": 181,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78084152ERMEED53XWW",
+      "index": 1.0,
+      "name": "Time",
+      "parent_index": 182,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780J6V8TG0FJJ9BJPA9",
+      "index": 2.0,
+      "name": "System Status",
+      "parent_index": 181,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7801G2R399AV18ZGYQC",
+      "index": 1.0,
+      "name": "Wifi",
+      "parent_index": 184,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780SPR9ZDCE8ES11NDE",
+      "index": 1.0,
+      "name": "wifi",
+      "parent_index": 185,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780RS6WK9K1E3HQ8E41",
+      "index": 2.0,
+      "name": "Data",
+      "parent_index": 184,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780TYZ76E04DJ80S1PT",
+      "index": 1.0,
+      "name": "data",
+      "parent_index": 187,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780FQDV5QZJR1JECY01",
+      "index": 3.0,
+      "name": ".Battery",
+      "parent_index": 184,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780W9W9GV4DJGETCQWH",
+      "index": 1.0,
+      "name": "Union",
+      "parent_index": 189,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T780H2V3BAMQGZ475613",
+      "index": 1.0,
+      "name": "stroke",
+      "parent_index": 190,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780X7BHV122KQZMZKQ3",
+      "index": 2.0,
+      "name": "fill",
+      "parent_index": 190,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z89H9M8EREYG9KQTJ",
+      "index": 4.0,
+      "name": "Desktop - Large (Darkest Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z0A7SXMABGZPPKV0S",
+      "index": 1.0,
+      "name": "desktop-large/darkest-theme/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZEAVB71VPB8S0Z2NY",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 194,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZWHE26R84SFM2357G",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 194,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z7SSM18HWR9KAFXVX",
+      "index": 3.0,
+      "name": "Left Panel",
+      "parent_index": 194,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZB21D790ETS1K3AN4",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 194,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKTE9S90S06BWC862",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 194,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z6JZQDVYEQ980BR95",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 199,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z5MDD9278DPRXA18G",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 200,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZPJXNQG7R7P67VFZA",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 200,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZZDG511PPDVARV07A",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 200,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z46A1S5QDMJR6PS3N",
+      "index": 2.0,
+      "name": "desktop-large/darkest-theme/left-sidebar-panel-right-sidebar",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z1968ZG0N6CXK799R",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 204,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZRAMAYC2XSS6XQ1SA",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 204,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZBQSPMA15ZM074SB8",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 204,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZT0PKBGE9AFC71QZQ",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 204,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z1NGPHFBND81VB0AW",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 208,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z8581VCTJCHREFTRW",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 209,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z481CZR189AET93PN",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 209,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJV8WXDTQYJ9J37GW",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 209,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZBR3CS0SWHE2PVMDJ",
+      "index": 3.0,
+      "name": "desktop-large/darkest-theme/left-sidebar-right-sidebar-panel",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZY8R54WQN3JEJCFB3",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 213,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZH8T51TVQTRJS5HGP",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 213,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZSM9QZ7T08BHTAF4Q",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 213,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZK1B0AVAKT0DTXDEP",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 213,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZNWH7WB38KCV22KJ5",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 217,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZS8E596MJCMKDVSCW",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 218,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZPAFWVE3PDKVPXH7W",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 218,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZAFPW9DQWRBTJ21QS",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 218,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZKY90AXAPANZ16RK6",
+      "index": 4.0,
+      "name": "desktop-large/darkest-theme/left-right-sidebar",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZJ606TGCB4TPTA910",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 222,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z648E5500VB9DY3KZ",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 222,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZF0XP9QXW0T6B76D1",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 222,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z72WWKWYJ2DHVPXPE",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 225,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z409H8SZ6YZ5EQH6K",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 226,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZQ6K1CKV8880TD0QH",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 226,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZQ13BMM7E382JWGXE",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 226,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z4RDR352A8NYX3VB8",
+      "index": 5.0,
+      "name": "desktop-large/darkest-theme/right-sidebar-panel",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z8KXCYH45FJE3H05Q",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 230,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZPW14J3N3QSWVN91T",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 230,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZQK9W8K6A6EB5PT6W",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 230,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZCR9360YDSJA85SNF",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 233,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZDYND2P6EGBKVB51W",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 234,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z5A08587A04GD8RKA",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 234,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZNZA51PWFFRB7QPED",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 234,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZZJCHWD345ZK3K0PQ",
+      "index": 6.0,
+      "name": "desktop-large/darkest-theme/right-sidebar",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z5KXWY8D349ZRXPPY",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 238,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZH7X88EG38F02FRSH",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 238,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZX2HTGQ327JHBVX9S",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 240,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZGXRT4KNEX0D332ER",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 241,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZFG1T3ECCHF5A2599",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 241,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZZHYMG0H3NXHGKFR5",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 241,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z9TAQ4YDTA8BQCN4G",
+      "index": 7.0,
+      "name": "desktop-large/darkest-theme/left-sidebar-panel",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z9KX4F2CEXX15FJ3E",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 245,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZWF43FCWXXW8RZTTF",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 245,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZWX5AW87AK499P5XC",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 245,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKSAKWPK0YTBTMREB",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 248,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z9X2V28N4XE6NEK5T",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 249,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJAJEDWQ54ABVP52J",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 249,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZVVWP2AVM4QB3X0NJ",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 249,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z4S5JR6DPDNPB4YSZ",
+      "index": 8.0,
+      "name": "desktop-large/darkest-theme/left-sidebar",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZPBDD3V9E9ZQFNA8Y",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 253,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z31CY0A24PY1BYK9K",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 253,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z2DRN4SENV35VJY57",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 255,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZWPBBC0MYGTF7RHWG",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 256,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZK40BQECQF9R25Y8W",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 256,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZBB9DXNADGJF82PSP",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 256,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZPSMW3KT8HJNJBG64",
+      "index": 9.0,
+      "name": "desktop-large/darkest-theme/fixed-grid",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZK7C67GKGT3CARNAA",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 260,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZMA37BZH8CDN6M8ZA",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 261,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z5EV6G4P8WD6KKXWA",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 262,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJ3F28VBFX9AX7SV3",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 262,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJ75XH1FH0391RGGW",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 262,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZRRVTW6HMX7E1N2YR",
+      "index": 10.0,
+      "name": "desktop-large/darkest-theme/fluid-grid",
+      "parent_index": 193,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z23AXJEA2B7FZTFDR",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 266,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z6T533Q02CWG1RBTX",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 267,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z633PHSZHCZ7G2V1D",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 268,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZASE7RT8YX520AHFB",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 268,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZZ50CM0GKDVQGJ77Q",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 268,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMYK5DWVE78YK7WPCE",
+      "index": 5.0,
+      "name": "Desktop - Medium (Darkest Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMPRDF5FHHQ05VWNEZ",
+      "index": 1.0,
+      "name": "desktop-medium/darkest-theme/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMT2AYY5QGG29TVZEQ",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 273,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMW21NPJ8B7532RBAH",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 273,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BME3CZ2T3ES60DD4DS",
+      "index": 3.0,
+      "name": "Right Panel",
+      "parent_index": 273,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBQ4E5BZD9F0CQRSP",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 273,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN4Z9W25WF2PJT1B60",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 273,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNS8083KV2N523VYAD",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 278,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNJV937MY9FMZCZDFP",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 279,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNV3AY8GQB269AX2BZ",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 279,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNHP4Y49HJV6DDPTFE",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 279,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMXWY9SR046WTFX5ZX",
+      "index": 2.0,
+      "name": "desktop-medium/darkest-theme/left-sidebar-panel-right-sidebar",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMG0RY6Q5CAB2VX4EW",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMFSGE93265NVM2C1Z",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBXGMR9TK4DNY2DFJ",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMRHNW2S2MW57ZAAY4",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMKSXB623DMF8EY3HA",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 287,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM5RAASP7Y282RTMJS",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 288,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM4M7HNA46GMBYDK2Q",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 288,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMK0QMQ5469XNA7W9C",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 288,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN3NVS20Z315JK8AJ0",
+      "index": 3.0,
+      "name": "desktop-medium/darkest-theme/left-sidebar-right-sidebar-panel",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BN6DBW4QTKKSEF6CH2",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 292,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNKE18TQWRV4AK1M25",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 292,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNEVS8DD7WVPPZ9989",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 292,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNH47NSE6114R77PRS",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 292,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNEKB2ZFEGVHPGFWMH",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 296,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNDQP5AH81G5A57ZCK",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 297,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNPN6P7R6K95WXQB7M",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 297,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN0DBMCRX3DDJGKV3X",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 297,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM59QQS5A3JJ6X423M",
+      "index": 4.0,
+      "name": "desktop-medium/darkest-theme/left-right-sidebar",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM1QXPYTPHMG07DNC6",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 301,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMD315XVW3BRJYX819",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 301,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BME8PMPHVDWKRSN6TX",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 301,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMWG2GCQXDEB28W1KR",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 304,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMH6P6WH754JEHZ0EZ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 305,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM0JV19QGW6ZBWH689",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 305,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMF518J5MK3HJK9VYR",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 305,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BNG0G9EC26K4GDVEVZ",
+      "index": 5.0,
+      "name": "desktop-medium/darkest-theme/right-sidebar-panel",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNPHDWEBTPRQS1E83B",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 309,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNPK974GTV252DFFB2",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 309,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNP5BRHKHSG1Y8B245",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 309,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNGJH31HB4SQV3QJWB",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 312,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BNV1AC478QR1PJVYW6",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 313,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN06NBKJN6DFNVF5VY",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 313,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BN1PRDZH7JRG9QD1HF",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 313,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMBYN2MED84AV4S40B",
+      "index": 6.0,
+      "name": "desktop-medium/darkest-theme/right-sidebar",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMCAMAYRGJN4QYN0E4",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMJDJD9QQ9BCK1WSXM",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM4R45M6A01YEDQ4XT",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 319,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMW150S956QY4EMS0A",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 320,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMBSE0BB1WMG5GNDFZ",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 320,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMBRY8Y77E5AQNXC0D",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 320,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMQ07EBBS2RDXBY1C8",
+      "index": 7.0,
+      "name": "desktop-medium/darkest-theme/left-sidebar-panel",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMF8HGZJS70541VZR0",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 324,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMKHQRBW74Q29FJQ40",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 324,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMEJQN53AA6X4JT5GT",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 324,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM8ZBP9RHAYG953CSH",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 327,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMR58EGVMJFB6PJ1RK",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 328,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM2Y1J1WAV4P95VH38",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 328,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMQRXCP0GHVH8BDJ8H",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 328,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM9Q3KPWHHCGSE5PQD",
+      "index": 8.0,
+      "name": "desktop-medium/darkest-theme/left-sidebar",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMXHJ0N3EB8ZQAD3BE",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 332,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMVK2KR5WY64TQTQCT",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 332,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM72TDWXPXC4CTY5FF",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 334,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM0VM3Y7JHG76E9VAZ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 335,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMZ31Y7HZA7PWAC65M",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 335,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMXN659MWSM6V39VTS",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 335,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMWW5JEQ9T870AWEZJ",
+      "index": 9.0,
+      "name": "desktop-medium/darkest-theme/fixed-grid",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMTAWBNN5M4SYHPAT0",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 339,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMM0K9EQGE7M8DG53G",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 340,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMX9CTC1FMPS83AD59",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 341,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMH2VZNDW16NWZ8NDV",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 341,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMYGA3NA65DPVS1ZEX",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 341,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM8QN3SBATH34J3VGZ",
+      "index": 10.0,
+      "name": "desktop-medium/darkest-theme/fluid-grid",
+      "parent_index": 272,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM724R1SXRS61F9JW4",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 345,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMC2HV1QA4JP5MXCD4",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 346,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBP0E89S9VGBH9KMS",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 347,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM6T8T23WYRQS6070E",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 347,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMEEKYST0KY0SZY28Q",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 347,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780WSE0F2CPESYYBGXW",
+      "index": 6.0,
+      "name": "Mobile (Darkest Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780M8G0BRP93S02S5PG",
+      "index": 1.0,
+      "name": "mobile/darkest-theme/ios",
+      "parent_index": 351,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780K8GGW8BQ9Z1NTW6T",
+      "index": 1.0,
+      "name": "iOS Home Indicator",
+      "parent_index": 352,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7806XRC6FAW8NV8CC7Y",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 353,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7804KJ7MEZRWG7HCKRX",
+      "index": 2.0,
+      "name": "iOS Status Bar",
+      "parent_index": 352,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780398WDZBMWN49FJ7S",
+      "index": 1.0,
+      "name": "Left Side",
+      "parent_index": 355,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780ZP9P5CWJKS03C5CT",
+      "index": 1.0,
+      "name": "_StatusBar-time",
+      "parent_index": 356,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7801ZXAW39RXAHVWK87",
+      "index": 1.0,
+      "name": "✏️ Time",
+      "parent_index": 357,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780Q15WYBJSAKF9HZHQ",
+      "index": 2.0,
+      "name": "Right Side",
+      "parent_index": 355,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780T458HBB5K6TTDR3S",
+      "index": 1.0,
+      "name": "_StatusBar-battery",
+      "parent_index": 359,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780NMVQ2HA1AE80MYRV",
+      "index": 1.0,
+      "name": "Outline",
+      "parent_index": 360,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78073DRCV1BV3NRZY57",
+      "index": 2.0,
+      "name": "Battery End",
+      "parent_index": 360,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780QT2QMSYKQXVSYA08",
+      "index": 3.0,
+      "name": "Fill",
+      "parent_index": 360,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780SDCCZQQ72ADTAYA9",
+      "index": 2.0,
+      "name": "Wifi",
+      "parent_index": 359,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T780JTCW8Q6Q1R0TANP7",
+      "index": 1.0,
+      "name": "Wifi-path",
+      "parent_index": 364,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7803Z436MGP4KNYJNTS",
+      "index": 2.0,
+      "name": "Wifi-path",
+      "parent_index": 364,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7801ZV6SFTZ09R5HS4Y",
+      "index": 3.0,
+      "name": "Wifi-path",
+      "parent_index": 364,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7805ARTQ3QDYHKCGK3J",
+      "index": 3.0,
+      "name": "Icon / Mobile Signal",
+      "parent_index": 359,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7806KJNAJJ2Y1WW4705",
+      "index": 2.0,
+      "name": "mobile/darkest-theme/android",
+      "parent_index": 351,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780TGMBGTGRV2AMQDGE",
+      "index": 1.0,
+      "name": "Android Home Indicator",
+      "parent_index": 369,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780BK54CGFZP39XQG76",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 370,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780Z471BQJ0ZEVKSNPH",
+      "index": 2.0,
+      "name": "Android Status Bar",
+      "parent_index": 369,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780CRR98HNRRGTYTQEQ",
+      "index": 1.0,
+      "name": "Content",
+      "parent_index": 372,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780QGFWZ8RJHGJ776K1",
+      "index": 1.0,
+      "name": "Clock",
+      "parent_index": 373,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780C8RN3E080FZCQ9VZ",
+      "index": 1.0,
+      "name": "Time",
+      "parent_index": 374,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780YSDDBCWE8W26DT0J",
+      "index": 2.0,
+      "name": "System Status",
+      "parent_index": 373,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780ECA96MGYPRDSAHC5",
+      "index": 1.0,
+      "name": "Wifi",
+      "parent_index": 376,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7801BANNKDXXAA3KSZV",
+      "index": 1.0,
+      "name": "wifi",
+      "parent_index": 377,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780WJ3C9C9R513ZSDFF",
+      "index": 2.0,
+      "name": "Data",
+      "parent_index": 376,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7800TTWENTQYSK7JJZ6",
+      "index": 1.0,
+      "name": "data",
+      "parent_index": 379,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7804PN4P9FPWCQR0QPG",
+      "index": 3.0,
+      "name": ".Battery",
+      "parent_index": 376,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7803BKKC354XV4ZN6CG",
+      "index": 1.0,
+      "name": "Union",
+      "parent_index": 381,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T7805BPWQZ1FGX2QM356",
+      "index": 1.0,
+      "name": "stroke",
+      "parent_index": 382,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78055MQY85XFK419CW9",
+      "index": 2.0,
+      "name": "fill",
+      "parent_index": 382,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZD42HS00TD3J3YPQ8",
+      "index": 7.0,
+      "name": "Desktop - Large (Dark Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z3X9MMJ7TTF8B3A14",
+      "index": 1.0,
+      "name": "desktop-large/dark-theme/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZRH1F2BFW3Q6D6ESS",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z5SETDJ1758MDV6S6",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZJW7805HZKK2MNPYA",
+      "index": 3.0,
+      "name": "Left Panel",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z7KF5QJT2BZZ1XHGG",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z8DC7V8XPB6J32GDX",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZCDX31GCC2R8NSM1Q",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 391,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZFAQW1NTHAFD8V1GV",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 392,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZHAZ17HHV7WWXZ97F",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 392,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZTTT04260MX3HMG5M",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 392,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZFNZ9FEPS6MP09DFK",
+      "index": 2.0,
+      "name": "desktop-large/dark-theme/left-sidebar-panel-right-sidebar",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKY4RP7YDNM85SFKR",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 396,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZBR6XTE9ZM56EZB5G",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 396,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZB2A68EAXH7YXZGE2",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 396,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKFH4TKCN1G5Z8GTW",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 396,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZZQHEE9EJPQR9KHY9",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 400,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZXXJY74EQ7XZG74WD",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 401,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z0H6T8YAN8BE05NWP",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 401,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZZ9H1AJJE0PBYJ33R",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 401,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZT1ZJC5H452S50ZG3",
+      "index": 3.0,
+      "name": "desktop-large/dark-theme/left-sidebar-right-sidebar-panel",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZJMRK94GEAV9CPAA5",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 405,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKCRZS6GM29H8Y89K",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 405,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZFHZ6VJ6E1V5ZPKH8",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 405,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZV1E3VYDMJDHTQVD0",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 405,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZXH8J3JR5DKC77BQN",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 409,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z08BENDA9D06BNV5S",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 410,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z6BCP37896TQ3471F",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 410,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z9NH3HWRPGRB3N29Y",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 410,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZKV7RR5TQPDT0E6JY",
+      "index": 4.0,
+      "name": "desktop-large/dark-theme/left-right-sidebar",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZQWSWNGZXP836ABTT",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 414,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZDWSRYT8YG2J6S58H",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 414,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z59SY1W7WS5QQ4BHH",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 414,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z1AZNNRR60SSZJES5",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 417,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZR66JRY45Q3ZSD19W",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 418,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z4GJQYCV3SZ67YDG8",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 418,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZW8MKWBHT8NFXVZ17",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 418,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZPFSYY8H494H8W3MQ",
+      "index": 5.0,
+      "name": "desktop-large/dark-theme/right-sidebar-panel",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZBEPF4XZMZ6WPNFSF",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 422,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z52QTXH4SCF3VZ9P3",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 422,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZD2AEQJSJ2EM692AG",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 422,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZHKN3KYY33S09S8P6",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 425,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z4JV1JSM3ZAT4BQ3N",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 426,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z0ZCE7Y1P44BFCGTF",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 426,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z9WXAFW8HZNER62BY",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 426,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z88W3Y77XD7QPT4JV",
+      "index": 6.0,
+      "name": "desktop-large/dark-theme/right-sidebar",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZEP2X92BR8V655PYA",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 430,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZG0WW8DY84S1YRQ7S",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 430,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZDK80SF586DCW5RYF",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 432,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z9WBD5SA8YYGWBWP5",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 433,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZTREJD52345YWNP99",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 433,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z5QXZDKPRS8CRVDKR",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 433,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z61ZB6DD9JZ0QG76Q",
+      "index": 7.0,
+      "name": "desktop-large/dark-theme/left-sidebar-panel",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZTSJTPMK4B3HGHBB5",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 437,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZN1M1P8C8JAWS61R7",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 437,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZJN426M5RB4WKJ922",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 437,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z9K2Y74Y9A6VCGHGN",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 440,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZENSARKXZQDGCMKX9",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 441,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZK5JPHMTC4BDEDBWY",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 441,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZV8YA4887XMYW0Z3D",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 441,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z9CP9C7PXJKMMBRR4",
+      "index": 8.0,
+      "name": "desktop-large/dark-theme/left-sidebar",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z9GHHQNKSFYDJA8H5",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 445,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZH8N8KJMWH06RW5BR",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 445,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZHPPVSMM3KFVSS5YH",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 447,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z817BEKW129HB9A8M",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 448,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZJXD8BHC9T7JEQ0V6",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 448,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z9MQJG48R1J0P9Y9S",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 448,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZH933Q6X72QMRK3VB",
+      "index": 9.0,
+      "name": "desktop-large/dark-theme/fixed-grid",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z664ZZRB4XGBRT0NJ",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 452,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZKMDPJK6ZJ1TSR4HD",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 453,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZX9N7AW3TB4M5KFJ4",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 454,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZWVN6PCXDGR5A09FB",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 454,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZYVXJ4Z37PHKXB6TP",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 454,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z4Q1RRFBFYWWMKF11",
+      "index": 10.0,
+      "name": "desktop-large/dark-theme/fluid-grid",
+      "parent_index": 385,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z6NCFJ6JYYQR916AE",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 458,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZS271PT2KTD02AH6T",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 459,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77ZRKM7VDSB33XGAN6A",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 460,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZNGWHF14WJ6CD7HSM",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 460,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ZRKRQRQYJWBGZHZ76",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 460,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMGE94EXT5CWHHH92Z",
+      "index": 8.0,
+      "name": "Desktop - Medium (Dark Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMFN75Q3V4W9KSK6PR",
+      "index": 1.0,
+      "name": "desktop-medium/dark-theme/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMD46A67N0X68G7VN4",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBGB2PDETQZ4BF1C5",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMXK67ZAKE9YSMR6HW",
+      "index": 3.0,
+      "name": "Right Panel",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM5MDWGTFJA43NWMZK",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBK5ZQEZ9WT3M9WP0",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMJ0KZYKP272P38EF9",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 470,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMP40N289QGYFT8292",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 471,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM04YD0RP6GXHE1DQ4",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 471,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMZPHT2DKCDBKRCYPN",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 471,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM7T7WYD7KR8GXAG53",
+      "index": 2.0,
+      "name": "desktop-medium/dark-theme/left-sidebar-panel-right-sidebar",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMMHZZTE19Q576EA6W",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMFZDSSBRY5QH7831T",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM1DGJ0P990HEH0HAW",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMVPTESW8BAMF2B875",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM5MYWY2HB97GASQ28",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 479,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM6N7F4411027B3VJ1",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 480,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMC4ZRA7KDF7318S6S",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 480,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMDT4G8E56SDD3PQJX",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 480,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMP0A8SMDK3S3R485G",
+      "index": 3.0,
+      "name": "desktop-medium/dark-theme/left-sidebar-right-sidebar-panel",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMA374QY44TME39XZ1",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBVG5YBMNK3HVVEAH",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMRCR81HRM8XE428Q6",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMZ69WHMYX2HE96S0T",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM9BFXN7NTZSR846YD",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 488,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMJSYAKDT1J5ST88WA",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 489,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMC7YQXX9TA65JNDME",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 489,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM4X3VDQWJ5Q4X7BBH",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 489,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMCYYVVEYQHX7M4BEB",
+      "index": 4.0,
+      "name": "desktop-medium/dark-theme/left-right-sidebar",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMYV8TPT1PASK5H94P",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM1GNZNTVE4JW387H0",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMKY7DS4RNJGMSHC7W",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM75JZC6C5BQQBWSBS",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 496,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMQ4X1GCME71BDP9JB",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 497,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMPNFFPN16J9H6WWGZ",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 497,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMCW884ESE80B8WMMQ",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 497,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM9SY2YMCXAWR38G56",
+      "index": 5.0,
+      "name": "desktop-medium/dark-theme/right-sidebar-panel",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMYJX7HHTJSKXKKKKR",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 501,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM2GEF6YK71ATE8WJX",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 501,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMPFJ771W18G4P39V6",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 501,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMRJ9VGHN7XCA2QCY1",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 504,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM12JFDQFKD33WZYFA",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 505,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMKBF8W84ANZEQAG05",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 505,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMWMHM666EH3CPC0T4",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 505,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMDJXN96567JN3H4C6",
+      "index": 6.0,
+      "name": "desktop-medium/dark-theme/right-sidebar",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM95QMZAJ2Y0PWVDGM",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 509,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBYNXZDY4JP57HEBM",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 509,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMFW072GYSEVR5C5E6",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 511,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMTS6MBQY5C9VF8E04",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 512,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMYHAAD13V3BE67F20",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 512,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM8XWN0G99Z9G1JS5K",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 512,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMGQG5H3T1SHG1AFAS",
+      "index": 7.0,
+      "name": "desktop-medium/dark-theme/left-sidebar-panel",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMK4WH5PQPPX0MGW23",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 516,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMSKCVNS2H5TH0JD5Q",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 516,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMJZ1Y9NSZ85W5X3QK",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 516,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMB7119DC53H2C4KEG",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 519,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMX8EH94TMQFWWE9PW",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 520,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMACETM5TE1HBXCNKJ",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 520,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMT9DYGHZZGQFX261C",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 520,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM521QPWR1NKSZ6G0P",
+      "index": 8.0,
+      "name": "desktop-medium/dark-theme/left-sidebar",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBZYJFK3EV12P3HNB",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 524,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMPH5FNAEF137JEWTN",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 524,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMXQC5VV09D9FF7JFE",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 526,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM237XB7NM40XHT292",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 527,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMG24KFYA7291ENBS1",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 527,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM99W1292V7JRXVQR2",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 527,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM3RGH0CEZRZ1GJY85",
+      "index": 9.0,
+      "name": "desktop-medium/dark-theme/fixed-grid",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMSERYZCAZ239CMATB",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 531,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMTVSCY6MEE9Q34ZMH",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 532,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMJ2VGC5Z8PRP1NG9V",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 533,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM5D7KJMDDQ825DBBM",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 533,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM1S52YCVZ63T3K6YH",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 533,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM9A97B1DPJ303FFSR",
+      "index": 10.0,
+      "name": "desktop-medium/dark-theme/fluid-grid",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMNHK4BQ8VM4HG7VTW",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 537,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMD6DVYHSG66W7FCJR",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 538,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMZB1T4YVF4273K2WJ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 539,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM1SFDB6VWHANRA9HS",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 539,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM5EBGAF27CPTYWXG4",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 539,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7801YNWGKGX3JAVDM0R",
+      "index": 9.0,
+      "name": "Mobile (Dark Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780HTA2B57XD52P5H9D",
+      "index": 1.0,
+      "name": "mobile/dark-theme/ios",
+      "parent_index": 543,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780WBMXCDPXW1AT22Q3",
+      "index": 1.0,
+      "name": "iOS Home Indicator",
+      "parent_index": 544,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780H8T9GXWQH7KF188Q",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 545,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7809JT6118J7WHH8P8G",
+      "index": 2.0,
+      "name": "iOS Status Bar",
+      "parent_index": 544,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780VXXV6VR3X2TZ97MF",
+      "index": 1.0,
+      "name": "Left Side",
+      "parent_index": 547,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7804Y394KKNYWGM4YC0",
+      "index": 1.0,
+      "name": "_StatusBar-time",
+      "parent_index": 548,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7806RD13HQPMMZKET2P",
+      "index": 1.0,
+      "name": "✏️ Time",
+      "parent_index": 549,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7801VC8WCV49S1GPYP3",
+      "index": 2.0,
+      "name": "Right Side",
+      "parent_index": 547,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7802H5EA8Y9MZEQ1SXA",
+      "index": 1.0,
+      "name": "_StatusBar-battery",
+      "parent_index": 551,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780AXJMJS92N9YSN4RP",
+      "index": 1.0,
+      "name": "Outline",
+      "parent_index": 552,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780PJ94TZBV8ZS8ECN7",
+      "index": 2.0,
+      "name": "Battery End",
+      "parent_index": 552,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780RCVRPZTA7K8KJ5ZG",
+      "index": 3.0,
+      "name": "Fill",
+      "parent_index": 552,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780MJN3WQTEMYXW9JSE",
+      "index": 2.0,
+      "name": "Wifi",
+      "parent_index": 551,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T780P8DNC0TEX8ZCA8WE",
+      "index": 1.0,
+      "name": "Wifi-path",
+      "parent_index": 556,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780G94DNSNA8RTRQ375",
+      "index": 2.0,
+      "name": "Wifi-path",
+      "parent_index": 556,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780PW3YWESEGXFBDP7P",
+      "index": 3.0,
+      "name": "Wifi-path",
+      "parent_index": 556,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7806SQH9VHTEKBF8NT4",
+      "index": 3.0,
+      "name": "Icon / Mobile Signal",
+      "parent_index": 551,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780KWPSWMJD90TQVRP0",
+      "index": 2.0,
+      "name": "mobile/dark-theme/android",
+      "parent_index": 543,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780J9VWSGSS417N1CWN",
+      "index": 1.0,
+      "name": "Android Home Indicator",
+      "parent_index": 561,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780514ASSAWPVCC1HW6",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 562,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780Q5SKT6G0HNDNVB5D",
+      "index": 2.0,
+      "name": "Android Status Bar",
+      "parent_index": 561,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780J86JEJHJN8MRQJJ3",
+      "index": 1.0,
+      "name": "Content",
+      "parent_index": 564,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7808A197CEK0WCY4NBQ",
+      "index": 1.0,
+      "name": "Clock",
+      "parent_index": 565,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780JZ9G8E1Z1BDA9MFG",
+      "index": 1.0,
+      "name": "Time",
+      "parent_index": 566,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780FJDKHNE9C9Z46CNP",
+      "index": 2.0,
+      "name": "System Status",
+      "parent_index": 565,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78054X6VJQEC9ZAQTKD",
+      "index": 1.0,
+      "name": "Wifi",
+      "parent_index": 568,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780HCB7Y39JJF4K56XW",
+      "index": 1.0,
+      "name": "wifi",
+      "parent_index": 569,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780RS4NE9NBB6AV1VWR",
+      "index": 2.0,
+      "name": "Data",
+      "parent_index": 568,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780EKYKMVA26V5TNCY5",
+      "index": 1.0,
+      "name": "data",
+      "parent_index": 571,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780PVRE6S33T899WFTN",
+      "index": 3.0,
+      "name": ".Battery",
+      "parent_index": 568,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78054695DPM5JQW58JA",
+      "index": 1.0,
+      "name": "Union",
+      "parent_index": 573,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T780XJR50KRVGHYC6P1D",
+      "index": 1.0,
+      "name": "stroke",
+      "parent_index": 574,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7801X9M1J3Q2MXFCXV4",
+      "index": 2.0,
+      "name": "fill",
+      "parent_index": 574,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Z3MHP53JY1EGBTR76",
+      "index": 10.0,
+      "name": "Desktop - Large (Light Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y2WBJKAHRDSQW2TJB",
+      "index": 1.0,
+      "name": "desktop-large/light-theme/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YW8TAM3ZQBPX8M2XZ",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 578,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YNRWJXFFQ7JT9GQT1",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 578,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YMZVDCB3E1NCRCQ5T",
+      "index": 3.0,
+      "name": "Left Panel",
+      "parent_index": 578,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YWKWQFH12Z1CNKC0S",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 578,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y2KF637ZGN1W1NVA1",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 578,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YGMX26ST70ESQ4K8F",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 583,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YK76DBGMY2MS0F0DZ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 584,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YKBDX1Z9SZV667Y56",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 584,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y4WR5NQN5DNSTT0BS",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 584,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YBMGD8EM6B8VN4KWA",
+      "index": 2.0,
+      "name": "desktop-large/light-theme/left-sidebar-panel-right-sidebar",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y7XF352R3PWQKM3RA",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y92Y88AWMWZH2SKSE",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YZ87B6TGW72469PHB",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y9W9QY3H0DWH66W7G",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YR8SSA29PX5C2Z4TP",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 592,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YHEEQS4ZYHXYD49R7",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 593,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YHBV46J8V0D90ZW8B",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 593,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YV68FBEZCP6NRNEFW",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 593,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YGQ96BSG407F0JK38",
+      "index": 3.0,
+      "name": "desktop-large/light-theme/left-sidebar-right-sidebar-panel",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YC3N5X9XH9R6NKCYW",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 597,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YSQ6PVN8117QX7N00",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 597,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YH6BA9KH3CFYCSABZ",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 597,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YVEW1WKQZ7WA6TE1X",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 597,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y1HQN6P65VDTARD3K",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YFG1Q98SHWF8CMBWJ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 602,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YEKFJZVKTN908588B",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 602,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YJZ4D6J7C2EEB306J",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 602,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YNTPPWR0E0PK8KFJK",
+      "index": 4.0,
+      "name": "desktop-large/light-theme/left-right-sidebar",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YTMTVM500TCWSDF39",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 606,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YZHB2GHNTFE58F7XT",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 606,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YSZGPDDXZ8DB28KGP",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 606,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y7GQ59R56C8N6A5C2",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 609,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YYBZVZRQ2781SWQN8",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 610,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YRQP0PF9QE6XT6YEM",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 610,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y2G458GT0VXA2X2JC",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 610,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y6ATH1QZERX5G33X8",
+      "index": 5.0,
+      "name": "desktop-large/light-theme/right-sidebar-panel",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YMQGN8ZMB0MDDE9AS",
+      "index": 1.0,
+      "name": "Right Panel",
+      "parent_index": 614,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YRZA709XVWX0DYZKM",
+      "index": 2.0,
+      "name": "Right Sidebar",
+      "parent_index": 614,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YASGFSTJY50YCHNCJ",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 614,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YEZ0RMKX2DG5PZSYQ",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 617,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y5K6XKCXW22THVV6H",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 618,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YCZQPY34GKVR7K14G",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 618,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y3SFMMVTPW2TQ4KRW",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 618,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YDA5YF3MJKZXTC21A",
+      "index": 6.0,
+      "name": "desktop-large/light-theme/right-sidebar",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YBVR6GQ8MCC8FRFYX",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 622,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YK802EJWJ93Y8VKNA",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 622,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YHFVZYS45Q4F16SG1",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 624,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YS0EMH5X6BRMTAQMX",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 625,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YQMVX1HZV3A2MXJK1",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 625,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YTDMZVR4HPXEBS7BQ",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 625,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y9866QZ3YNCQ96D21",
+      "index": 7.0,
+      "name": "desktop-large/light-theme/left-sidebar-panel",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y4HBZDX4NMEYEG305",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YGG7AP7504D8DFPDY",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YDC57M9PWD1BJC6ZK",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y683QN9B65EM6XVNQ",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 632,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YZ89V46TJQ44P969A",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 633,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y2WTRBBVHYKTQA017",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 633,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YQ7KBXWTXGZWSD78J",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 633,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y4WNH2NVEHZJC38FB",
+      "index": 8.0,
+      "name": "desktop-large/light-theme/left-sidebar",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YH302H3XE6X1TN4H3",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 637,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YC1Z45J5YWY70BRRG",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 637,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YYZ25KNHC26BG474K",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 639,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YXTSG7P52SBWZ9HHD",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 640,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YXVAVWCXNGXB0ZDD4",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 640,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YSGGC20JKFTJ3XCS9",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 640,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YWGFMMVBH7JYTS4ES",
+      "index": 9.0,
+      "name": "desktop-large/light-theme/fixed-grid",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YJSYVXADZME1QE0V5",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 644,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YTCS3DC2WR9JTX31W",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 645,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y5TSAVV1G0X65VC5X",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 646,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YBP0DB989TFW60VZ0",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 646,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y16ZVTBRNG3AFF25S",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 646,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YEM3752DBHYGY4ZDZ",
+      "index": 10.0,
+      "name": "desktop-large/light-theme/fluid-grid",
+      "parent_index": 577,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YF8YHBA5ST08G8DNK",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 650,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77YQE075FJS8V0Q74NZ",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 651,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Y7GESCRMMTCW3CFP5",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 652,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77YFNRPSB8K45M4JPZN",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 652,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77Y81QVK5PV5K181MJR",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 652,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMZPYGN660P76PK6FK",
+      "index": 11.0,
+      "name": "Desktop - Medium (Light Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BME4RZBX4XFXFYC8GH",
+      "index": 1.0,
+      "name": "desktop-medium/light-theme/left-sidebar-panel-right-sidebar-panel",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMM708J8NAGEVRRP60",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 657,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM8755V3DMCFYT1NR0",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 657,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMA08NHY4SZYKV3Y2M",
+      "index": 3.0,
+      "name": "Right Panel",
+      "parent_index": 657,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMQ27CCV5AXQMR084H",
+      "index": 4.0,
+      "name": "Left Sidebar",
+      "parent_index": 657,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM7NA1R1ZEHKKDT11C",
+      "index": 5.0,
+      "name": "Header Bar",
+      "parent_index": 657,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM9EJSXTY79Y1X9PEY",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 662,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMYH1C3Q9PJ4GHZMW5",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 663,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMS23FJ0ZXNQ8S3KPK",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 663,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM36NX494WH2EQT37N",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 663,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMW9VNBVV71VRV06PX",
+      "index": 2.0,
+      "name": "desktop-medium/light-theme/left-sidebar-panel-right-sidebar",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMM29JPM2QASHG9ADT",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 667,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM0M2EHKYJFHYGM6D1",
+      "index": 2.0,
+      "name": "Left Panel",
+      "parent_index": 667,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMDR6Y2GA9G6RTRNDV",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 667,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMDCE22GE2YS3E35GW",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 667,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM6DPHZ0VGFM6ZH7TX",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 671,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMQ4FVY73F2Q1KTCDW",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 672,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMAGHBBNVZNWF1Y5M9",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 672,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMKV73KEH7H5ETGGBZ",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 672,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMN3J8A5169Y0G09BC",
+      "index": 3.0,
+      "name": "desktop-medium/light-theme/left-sidebar-right-sidebar-panel",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMBCCSF9EEYW6BBG12",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 676,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMF1JAT2TC3S1HQAQB",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 676,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM0SD5J4133GBAVTYB",
+      "index": 3.0,
+      "name": "Left Sidebar",
+      "parent_index": 676,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM9QZEE8BB2YVT6594",
+      "index": 4.0,
+      "name": "Header Bar",
+      "parent_index": 676,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMJE3Z8RXDE998SW6Z",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 680,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMAV7XYA7B5TV17JRD",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 681,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMBJVN8BP1QNYVSVKG",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 681,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMKBNJ1ECYAPXNCPBY",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 681,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMYH9QG4ET2H4M3EMK",
+      "index": 4.0,
+      "name": "desktop-medium/light-theme/left-right-sidebar",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMGM1HTSTK7RMTJBN3",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 685,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM2EYYCSJA0NBNQ0ZZ",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 685,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMA5RH5RZVY4QJDQ81",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 685,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM73WS693SM65K6QPQ",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 688,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMSMMCKESXWJR5TFNM",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 689,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMXZ1BXHWTAF9VE602",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 689,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM9RRAZ823K0NEBT0W",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 689,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM2EW9YRWPBA9SQ2XR",
+      "index": 5.0,
+      "name": "desktop-medium/light-theme/right-sidebar-panel",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMFW653NET9FHXJTE1",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 693,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM0V9NVJSW5K69GKA5",
+      "index": 2.0,
+      "name": "Right Panel",
+      "parent_index": 693,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMNTRS8GV3991VG804",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 693,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMR1AVJD2FZ6C0H33W",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 696,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM0DGPRTK37NRJXA2Y",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 697,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMAAYSKJ38DJBTRAZ0",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 697,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM7ZVRVYGEXGDN8AM1",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 697,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMNZZXHY24WYMHFX04",
+      "index": 6.0,
+      "name": "desktop-medium/light-theme/right-sidebar",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM6J74S191HD3B6YRA",
+      "index": 1.0,
+      "name": "Right Sidebar",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMEHMQ0BNXD0HFF78B",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMPGZ885Z1FY9P5180",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 703,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMRYWBBCQ9Q5N5S6CJ",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 704,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMQ5E42FE7KPE8DFD6",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 704,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMHD4703ZFN267NWZG",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 704,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMV661D632CX65VVKR",
+      "index": 7.0,
+      "name": "desktop-medium/light-theme/left-sidebar-panel",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM6PTG8QGVR1WVB9Z0",
+      "index": 1.0,
+      "name": "Left Panel",
+      "parent_index": 708,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM5Q27HBKQF6608MFF",
+      "index": 2.0,
+      "name": "Left Sidebar",
+      "parent_index": 708,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMSKN0TEQW0GEVHK37",
+      "index": 3.0,
+      "name": "Header Bar",
+      "parent_index": 708,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM39FKTWRNNTK11J65",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 711,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMMRPPGVV7PK1NF6PY",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 712,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BME2YNTYNACH9CWCE2",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 712,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMG3FS6TMVZSKB8HP2",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 712,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM3EYED2YKAP3G2JQ1",
+      "index": 8.0,
+      "name": "desktop-medium/light-theme/left-sidebar",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM56TMCNEYDAMAVV4Z",
+      "index": 1.0,
+      "name": "Left Sidebar",
+      "parent_index": 716,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMF35SW0K87GCZQ5P2",
+      "index": 2.0,
+      "name": "Header Bar",
+      "parent_index": 716,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BME678MWJGTPQWD41F",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMSD3A4CFBW88QPJHR",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 719,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMHRPDBMECKEFCEA20",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 719,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMJ2NEH54DQBVDKJEB",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 719,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMG8PZX1A7KHQMY7HH",
+      "index": 9.0,
+      "name": "desktop-medium/light-theme/fixed-grid",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM44VYJXJQVH1KACGA",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 723,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMZRBSXH2JCN45V2PM",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 724,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMZ7MFG1D8PVZNJ703",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 725,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMBRQGX0FE1BVNDSG3",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 725,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMD0W6JJ00EXMND07V",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 725,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMYJCDWY0PQA9MYRBG",
+      "index": 10.0,
+      "name": "desktop-medium/light-theme/fluid-grid",
+      "parent_index": 656,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BMYEQGRV8ZE7SZDREB",
+      "index": 1.0,
+      "name": "Header Bar",
+      "parent_index": 729,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM8VVHCG0K01MZC8S4",
+      "index": 1.0,
+      "name": "Traffic Lights",
+      "parent_index": 730,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7BM4JYXET7Z8TFHDZA0",
+      "index": 1.0,
+      "name": "Close",
+      "parent_index": 731,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BMCKS408SES9NBQCDB",
+      "index": 2.0,
+      "name": "Minimuze",
+      "parent_index": 731,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7BM4HNXK839PA2DCRXX",
+      "index": 3.0,
+      "name": "Full Screen",
+      "parent_index": 731,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7809BESSZF7J51870XA",
+      "index": 12.0,
+      "name": "Mobile (Light Theme)",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77Z8Y0TCJHZMZ4D1W5W",
+      "index": 1.0,
+      "name": "mobile/light-theme/ios",
+      "parent_index": 735,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780W9TXV6Q6NVA2KS4J",
+      "index": 1.0,
+      "name": "iOS Home Indicator",
+      "parent_index": 736,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780M0QMDAK3DCE47PPV",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 737,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780DZ2R8T1EV5VH9RY4",
+      "index": 2.0,
+      "name": "iOS Status Bar",
+      "parent_index": 736,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780S2768JQ7Z63BD74M",
+      "index": 1.0,
+      "name": "Left Side",
+      "parent_index": 739,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780QMV0CWYF98YJZNBJ",
+      "index": 1.0,
+      "name": "_StatusBar-time",
+      "parent_index": 740,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780X8QA8XYCF50YAEAF",
+      "index": 1.0,
+      "name": "✏️ Time",
+      "parent_index": 741,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780H561QS5SJFANWVSX",
+      "index": 2.0,
+      "name": "Right Side",
+      "parent_index": 739,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780XZ7P1WAEW08H1PDZ",
+      "index": 1.0,
+      "name": "_StatusBar-battery",
+      "parent_index": 743,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780ZYCNVS86WATGYH3X",
+      "index": 1.0,
+      "name": "Outline",
+      "parent_index": 744,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780VPYX7HT39242EBK8",
+      "index": 2.0,
+      "name": "Battery End",
+      "parent_index": 744,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780T0S6A5HY7F2AWT76",
+      "index": 3.0,
+      "name": "Fill",
+      "parent_index": 744,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780G0NBB4J9Q3JCJZ1S",
+      "index": 2.0,
+      "name": "Wifi",
+      "parent_index": 743,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T78006JV8EB2PFXSQM7C",
+      "index": 1.0,
+      "name": "Wifi-path",
+      "parent_index": 748,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7807XC87FZH6SK4MPDC",
+      "index": 2.0,
+      "name": "Wifi-path",
+      "parent_index": 748,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780FPXY79PVF4SNF6R5",
+      "index": 3.0,
+      "name": "Wifi-path",
+      "parent_index": 748,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780HN6BZBPYF4YHM4D3",
+      "index": 3.0,
+      "name": "Icon / Mobile Signal",
+      "parent_index": 743,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7802Z3QXFGGTVQ364QS",
+      "index": 2.0,
+      "name": "mobile/light-theme/android",
+      "parent_index": 735,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780021X808YB791PDBY",
+      "index": 1.0,
+      "name": "Android Home Indicator",
+      "parent_index": 753,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780GN2NQK09YZ3Q1JFT",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 754,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780HKVSC6CA66Q4479N",
+      "index": 2.0,
+      "name": "Android Status Bar",
+      "parent_index": 753,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780W1926ESXZCMVC0RN",
+      "index": 1.0,
+      "name": "Content",
+      "parent_index": 756,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780E5SAKBC9YEJTC9QX",
+      "index": 1.0,
+      "name": "Clock",
+      "parent_index": 757,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78073H431TQDCQ74ZT1",
+      "index": 1.0,
+      "name": "Time",
+      "parent_index": 758,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7809K55547HMS70728C",
+      "index": 2.0,
+      "name": "System Status",
+      "parent_index": 757,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7804S7ME6VH41CW4TE6",
+      "index": 1.0,
+      "name": "Wifi",
+      "parent_index": 760,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7809MJ1EMS9X2CPYS9K",
+      "index": 1.0,
+      "name": "wifi",
+      "parent_index": 761,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78061HFWNEET8A0JJ22",
+      "index": 2.0,
+      "name": "Data",
+      "parent_index": 760,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780S659J39NG38GKGJV",
+      "index": 1.0,
+      "name": "data",
+      "parent_index": 763,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780773H33MJFXQPZD4R",
+      "index": 3.0,
+      "name": ".Battery",
+      "parent_index": 760,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780XN4ASVPX3026TFVB",
+      "index": 1.0,
+      "name": "Union",
+      "parent_index": 765,
+      "tag": "Boolean"
+    },
+    {
+      "id": "01M4V5T780YNE0192FWH229WAY",
+      "index": 1.0,
+      "name": "stroke",
+      "parent_index": 766,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7805HVR28Z6HQC041MC",
+      "index": 2.0,
+      "name": "fill",
+      "parent_index": 766,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T780ZPNE9WFYEA1Z103R",
+      "index": 13.0,
+      "name": "Application Frame",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780KCX2ZYS80TBZ4J9V",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780FFT8WYX015KTD8VC",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780SZWEZNC9AR0XNP9T",
+      "index": 3.0,
+      "name": "Links",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780V7EVSGW5KJQFWA6P",
+      "index": 1.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 772,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780MGH8GFE9RBWXEQ7N",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780QV31Y7FF84J7ET49",
+      "index": 5.0,
+      "name": "The header bar contains the highest level of navigation and action items (e.g., modes, file name, global actions, syncing, sharing). For this reason, it is always present at the top and is consistent across all platforms.",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780N5NYSSQEKXZFF53X",
+      "index": 6.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7801Q8H4BFFS3C0APDP",
+      "index": 7.0,
+      "name": "_Section",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780WXD1WRC0QEDEV43V",
+      "index": 8.0,
+      "name": "The sidebar is a place for displaying tools and actions. It can be on either side of the application frame (left or right) or on both sides. Sidebars should be used on desktop and tablet — an alternative layout should be chosen on a phone. A small horizontal divider can be used to divide and organize groups of tools or actions related to each other.",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780RVYSM6MPFYCVNS04",
+      "index": 9.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78075DTB9G9H7C87DAS",
+      "index": 10.0,
+      "name": "_Section",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780HTKZ5SBXW7N60PDT",
+      "index": 11.0,
+      "name": "Panels can be persistent or toggled in and out, depending on the application’s needs. On desktop and tablet, panels are located on either side of the application frame (left or right) or both. Panels come in two different widths: 304 px and 240 px. This panel area can house a single panel or a panel group (multiple panels stacked vertically). On phones, panels are located at the bottom and take up the full width of the screen.",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7803W518H3SPW701R9N",
+      "index": 12.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7809C8GWCXR9GEDTYR4",
+      "index": 13.0,
+      "name": "_Section",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780X0QJV0HY19NY102Z",
+      "index": 14.0,
+      "name": "The tab bar only exists on mobile phone applications. It is a good alternative to sidebars and a natural place for interactions, as it is easy to reach and accommodates well for landscape views.",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780BDQVDTV1TKAEXM74",
+      "index": 15.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780NCJ9VAGHVFDADYJP",
+      "index": 16.0,
+      "name": "_Section",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780N64X1ESNYV8QWZS1",
+      "index": 17.0,
+      "name": "Dividers are used to separate various areas. They are 2 px in thickness on desktop scale and 1 px on mobile scale to better fit platform conventions. These dividers are opaque and are designed to always remain darker than bars and panels.",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780KPB3FSPF4SM2MM3V",
+      "index": 18.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7802PM711W40FGNGGNJ",
+      "index": 19.0,
+      "name": "_Section",
+      "parent_index": 769,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7802MY5B6BCXM2MK75F",
+      "index": 20.0,
+      "name": "The application frame structure tends to be static and stable. Therefore transient states (e.g., menus, options, settings, additional actions) are conveyed using different containers: popovers and trays",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780JMTG4RST9CVY7QDF",
+      "index": 21.0,
+      "name": "Image",
+      "parent_index": 769,
+      "tag": "Frame"
+    }
+  ]
+}

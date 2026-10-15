@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70DJ612Z532KY18YVCG",
+      "index": 781.0,
+      "name": "TextAlignCenter",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72CT2BT4TX06J7Q2KV7",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

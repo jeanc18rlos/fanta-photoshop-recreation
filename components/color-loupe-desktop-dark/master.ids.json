@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71MYJYY6C2NDRSQR3CR",
+      "index": 1.0,
+      "name": "Color Loupe - Desktop - Dark",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71MKKD45KK3PP7P1ZBA",
+      "index": 1.0,
+      "name": "Color Loupe",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71M5M55CNGW4Y8X62E7"
+}

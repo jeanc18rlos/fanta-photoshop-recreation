@@ -1,0 +1,13 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Indeterminate() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 16.0, 0.0, 16.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[48.0, 32.0]} id="01M4V5T71NGRFWBDS1K319KE0A" meta={{"figma_id": "104:16828", "figma_type": "SYMBOL"}} name="State=Indeterminate" opacity={1.0} scrollable={false} x={168.0} y={32.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#54A3F6"), "kind": "solid"}} blend_mode="normal" clip_size={[14.0, 14.0]} corner_radius={2.0} id="01M4V5T71NYWZTV2A5DMERWP1E" meta={{"figma_id": "104:16829", "figma_type": "FRAME"}} name="Intermediate Checkbox" opacity={1.0} scroll_direction="none" scrollable={true} x={17.0} y={9.0}>
+        <Vector blend_mode="normal" fills={[{"color": fnxColor("#262626"), "kind": "solid"}]} id="01M4V5T71NN9K86WYC9KS8VNA6" local_size={[8.0, 2.0]} meta={{"figma_id": "104:16830", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Shape" opacity={1.0} path={{"segments": [{"op": "move", "to": [7.0, 0.0]}, {"op": "line", "to": [1.0, 0.0]}, {"ctrl1": [0.44771528244018555, 0.0], "ctrl2": [0.0, 0.44771528244018555], "op": "cubic", "to": [0.0, 1.0]}, {"ctrl1": [0.0, 1.5522847175598145], "ctrl2": [0.44771528244018555, 2.0], "op": "cubic", "to": [1.0, 2.0]}, {"op": "line", "to": [7.0, 2.0]}, {"ctrl1": [7.552285194396973, 2.0], "ctrl2": [8.0, 1.5522847175598145], "op": "cubic", "to": [8.0, 1.0]}, {"ctrl1": [8.0, 0.44771528244018555], "ctrl2": [7.552284240722656, 0.0], "op": "cubic", "to": [7.0, 0.0]}, {"op": "close"}]}} x={3.0} y={6.0} />
+      </Frame>
+    </Frame>
+  );
+}

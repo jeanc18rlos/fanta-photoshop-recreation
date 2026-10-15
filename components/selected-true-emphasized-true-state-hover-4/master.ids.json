@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76ZRY81TTP3ZG23V825",
+      "index": 10.0,
+      "name": "Selected=True, Emphasized=True, State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76Z713YPJ6X6S7JA6TS",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76ZS2QHXVQBJ5TAH619"
+}

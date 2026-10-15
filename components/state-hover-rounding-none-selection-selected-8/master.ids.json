@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76ARBJPMMFWWE9V48W0",
+      "index": 9.0,
+      "name": "State=Hover, Rounding=None, Selection=Selected",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76AAJ17M7A2TSFNFY9W",
+      "index": 1.0,
+      "name": "Outer Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T76ADV4FKGBHKS14Q2AH",
+      "index": 2.0,
+      "name": "Inner Border",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76AZV5DJHZASH6D27YV"
+}

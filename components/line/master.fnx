@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Line() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70E967PSV9PGAGD11WP" meta={{"figma_id": "41:35199", "figma_type": "SYMBOL"}} name="Line" opacity={1.0} scrollable={false} x={168.0} y={2008.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T7048M2N795XHB4BRSK2" local_size={[19.798999786376953, 1.0]} meta={{"figma_id": "2:4302", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [19.548999786376953, 0.0]}, {"op": "line", "to": [0.25, 0.0]}, {"ctrl1": [0.11192880570888519, 0.0], "ctrl2": [0.0, 0.11192880570888519], "op": "cubic", "to": [0.0, 0.25]}, {"op": "line", "to": [0.0, 0.75]}, {"ctrl1": [0.0, 0.8880711793899536], "ctrl2": [0.11192880570888519, 1.0], "op": "cubic", "to": [0.25, 1.0]}, {"op": "line", "to": [19.548999786376953, 1.0]}, {"ctrl1": [19.687070846557617, 1.0], "ctrl2": [19.798999786376953, 0.8880711793899536], "op": "cubic", "to": [19.798999786376953, 0.75]}, {"op": "line", "to": [19.798999786376953, 0.25]}, {"ctrl1": [19.798999786376953, 0.11192880570888519], "ctrl2": [19.687070846557617, 0.0], "op": "cubic", "to": [19.548999786376953, 0.0]}, {"op": "close"}]}} transform={[0.7071067690849304, -0.7071067690849304, 0.7071067690849304, 0.7071067690849304, 1.6464430093765259, 15.64645004272461]} />
+    </Frame>
+  );
+}

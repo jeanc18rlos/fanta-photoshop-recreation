@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T720D4FJ3KKH3YP8H8ZD",
+      "index": 124.0,
+      "name": "Status / Color=Neutral, State=Touch, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7208BQJTZXXG221W0RE",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71Y5RYWHVWD7YN44H6B"
+}

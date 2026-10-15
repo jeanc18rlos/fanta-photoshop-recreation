@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73CA9YZTEMQVYYDEEG4",
+      "index": 34.0,
+      "name": "Type=Asset, State=Default, Quick Action=Unselected Checkbox & 4 Actions",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CBA6WB1Y7645FSHRZ",
+      "index": 1.0,
+      "name": "Image Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CY925SFXB8VFZ44YE",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73CA7T35F8WNMNYQY62",
+      "index": 2.0,
+      "name": "Quick Actions",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73CGEC0CYE531GRWF3A",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Mobile - Dark",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73C9CKXEFR9V6A9C1QD",
+      "index": 2.0,
+      "name": "_Card - Quick Actions - Mobile - Dark",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73C3YSVXJ2S1KASC4GJ",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T73BD96DH2DST3NH98E6"
+}

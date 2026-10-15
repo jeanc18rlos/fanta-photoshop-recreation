@@ -1,0 +1,9 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Page_21() {
+  return (
+    <Frame background={{"color": fnxColor("#F5F5F5"), "kind": "solid"}} blend_mode="normal" id="01M4V5T7BR2VKPS48Y3MGE3EDD" meta={{"figma_id": "2902:31", "figma_type": "CANVAS"}} name="Page 21" opacity={1.0} scrollable={false} x={0.0} y={0.0} />
+  );
+}

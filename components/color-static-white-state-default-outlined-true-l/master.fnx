@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Color_Static_White__State_Default__Outlined___True__Label___True__Icon___False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 22.0, 10.0, 22.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} blend_mode="normal" clip_size={[91.0, 40.0]} corner_radius={50.0} id="01M4V5T71D4AK9BGW3BR1DW758" meta={{"figma_id": "99:27786", "figma_type": "SYMBOL"}} name="Color=Static White, State=Default, Outlined ?=True, Label ?=True, Icon ?=False" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#FFFFFF40"), "kind": "solid"}, "width": 2.0}]} x={50.0} y={2100.0}>
+      <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Action" id="01M4V5T71DSCN122ZFBJKY8AFX" local_size={[47.0, 21.0]} meta={{"figma_id": "99:27787", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 600}} vertical_align="center" x={22.0} y={8.5} />
+    </Frame>
+  );
+}

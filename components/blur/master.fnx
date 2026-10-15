@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Blur() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70GWGFWN5KVS8H7ES8V" meta={{"figma_id": "41:35648", "figma_type": "SYMBOL"}} name="Blur" opacity={1.0} scrollable={false} x={168.0} y={532.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T702R9QF9K03M231PQEE" local_size={[10.818000793457031, 16.999500274658203]} meta={{"figma_id": "2:3067", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [3.8635001182556152, 0.0]}, {"ctrl1": [4.5395002365112305, 4.636000156402588], "ctrl2": [0.0, 8.261999130249023], "op": "cubic", "to": [0.0, 11.976499557495117]}, {"ctrl1": [0.0, 14.750499725341797], "ctrl2": [2.4214999675750732, 16.999500274658203], "op": "cubic", "to": [5.408999919891357, 16.999500274658203]}, {"ctrl1": [8.396499633789062, 16.999500274658203], "ctrl2": [10.818000793457031, 14.749499320983887], "op": "cubic", "to": [10.818000793457031, 11.976499557495117]}, {"ctrl1": [10.818000793457031, 8.142999649047852], "ctrl2": [5.071000099182129, 4.105000019073486], "op": "cubic", "to": [3.8635001182556152, 0.0]}, {"op": "line", "to": [3.8635001182556152, 0.0]}, {"op": "close"}]}} x={3.5910000801086426} y={0.17350000143051147} />
+    </Frame>
+  );
+}

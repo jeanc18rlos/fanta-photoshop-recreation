@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Neutral__Tip_Position_Right() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [6.0, 9.0, 7.0, 9.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 7.0, "wrap": false}} background={{"color": fnxColor("#7190D2"), "kind": "solid"}} blend_mode="normal" clip_size={[53.0, 32.0]} corner_radius={5.0} id="01M4V5T78ACH63BHYAJVY6Q2JK" meta={{"clip_content": false, "figma_id": "357:42017", "figma_type": "SYMBOL"}} name="Style=Neutral, Tip Position=Right" opacity={1.0} scrollable={false} x={388.0} y={40.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T78AJ0619424E2VXV92C" local_size={[35.0, 19.0]} meta={{"figma_id": "357:42018", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 15.0, "weight": 400}} vertical_align="top" x={9.0} y={6.0} />
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#7190D2"), "kind": "solid"}]} id="01M4V5T78A0ERK85A1HQZ3JRGX" local_size={[10.0, 5.0]} meta={{"figma_id": "357:42019", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Tip" opacity={1.0} path={{"segments": [{"op": "move", "to": [5.0, 5.0]}, {"op": "line", "to": [0.0, 0.0]}, {"op": "line", "to": [10.0, 0.0]}, {"op": "line", "to": [5.0, 5.0]}, {"op": "close"}]}} transform={[6.123234262925839e-17, -1.0, 1.0, 6.123234262925839e-17, 53.0, 21.0]} />
+    </Frame>
+  );
+}

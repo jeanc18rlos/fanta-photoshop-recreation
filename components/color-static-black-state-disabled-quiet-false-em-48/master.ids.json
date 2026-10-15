@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T793QJ4M61YF4PPN5DPA",
+      "index": 96.0,
+      "name": "Color=Static Black, State=Disabled, Quiet ?=False, Emphasis ?=True, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T793C506RSN76Z2AD8QH",
+      "index": 1.0,
+      "name": "Edit",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T793WN8VRNYJEBH4619X",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7937D81R806K74A1E2D",
+      "index": 3.0,
+      "name": "Hold Icon",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T791H0JGZSGCWSEFKSYF"
+}

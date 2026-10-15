@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74KPFAQCHM1TPSP18S7",
+      "index": 3.0,
+      "name": "Selected=False, State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74KXG7J0VETCHSW10B8",
+      "index": 1.0,
+      "name": "Box",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T74KB5C7HZGG5BA5ASGS"
+}

@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T733H445CXBEAW12MN7Q",
+      "index": 2.0,
+      "name": "Type=Standard, State=Selected, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7311RHVS7J6J9ZM47EF",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73127QJ33KEY2G04V8Y",
+      "index": 1.0,
+      "name": "Quick Actions",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T731ZYNENNFCT7FSZ452",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7333SCZZNZ5E000TPKM"
+}

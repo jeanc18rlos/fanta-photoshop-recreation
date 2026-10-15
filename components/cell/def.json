@@ -1,0 +1,18 @@
+{
+  "id": "01M4V5T7GQHQYBEC7K3Y2Z18CP",
+  "name": "_Cell",
+  "props": [
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GQ6VME991GRFTT2FEM",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Cell Title"
+    }
+  ],
+  "root": "01M4V5T70JZG5P6HX3XE4YKWC9"
+}

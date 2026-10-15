@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70DFWZP8W035G5ZYKS8",
+      "index": 794.0,
+      "name": "TextExclude",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72CENYH32W15HXBPEE8",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

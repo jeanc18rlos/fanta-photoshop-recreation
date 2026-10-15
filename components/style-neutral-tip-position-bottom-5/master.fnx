@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Neutral__Tip_Position_Bottom() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [4.0, 8.0, 5.0, 8.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 6.0, "wrap": false}} background={{"color": fnxColor("#7190D2"), "kind": "solid"}} blend_mode="normal" clip_size={[44.0, 24.0]} corner_radius={4.0} id="01M4V5T789HF8HJAPJBNCYDKBE" meta={{"clip_content": false, "figma_id": "357:41900", "figma_type": "SYMBOL"}} name="Style=Neutral, Tip Position=Bottom" opacity={1.0} scrollable={false} x={136.0} y={36.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T789H1E8D7TN8JERCZE6" local_size={[28.0, 15.0]} meta={{"figma_id": "357:41901", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 12.0, "weight": 400}} vertical_align="top" x={8.0} y={4.0} />
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#7190D2"), "kind": "solid"}]} id="01M4V5T789YRXE3W38M26HW7KF" local_size={[8.0, 4.0]} meta={{"figma_id": "357:41902", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Tip" opacity={1.0} path={{"segments": [{"op": "move", "to": [4.0, 4.0]}, {"op": "line", "to": [0.0, 0.0]}, {"op": "line", "to": [8.0, 0.0]}, {"op": "line", "to": [4.0, 4.0]}, {"op": "close"}]}} x={17.0} y={24.0} />
+    </Frame>
+  );
+}

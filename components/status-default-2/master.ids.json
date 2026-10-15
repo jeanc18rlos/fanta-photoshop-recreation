@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72X7QHBYZ9G25SGWBXJ",
+      "index": 1.0,
+      "name": "Status=Default",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72XX7D5G06BSD206DS1",
+      "index": 1.0,
+      "name": "Dot",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72XDT020B02C4EE88M8",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T72XWFM3ZE20WEMZ2013"
+}

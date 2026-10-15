@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71PMF3KAKA8PXD9KS7D",
+      "index": 2.0,
+      "name": "State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71PSAQ6EA8YCJDX515J",
+      "index": 1.0,
+      "name": "Unselected Checkbox",
+      "parent_index": 0,
+      "tag": "Frame"
+    }
+  ],
+  "root_parent": "01M4V5T71P2SR2BETA4WDY6E6Y"
+}

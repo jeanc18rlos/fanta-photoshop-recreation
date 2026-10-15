@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T710XMMJ83EHKSAEYSPF",
+      "index": 2.0,
+      "name": "State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7103W34VSY5GBWTSY0Z",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T710JE3QBYQ7B3TZBMWE",
+      "index": 2.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T710EJ5A5YS8F0DHE5Z4"
+}

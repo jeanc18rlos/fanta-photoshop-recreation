@@ -1,0 +1,9 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Size_Large() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#222222"), "kind": "solid"}} blend_mode="normal" clip_size={[326.0, 4.0]} corner_radius={10.0} id="01M4V5T79MP61EYX9MYPXDS1KG" layout_child={{"align_self": "stretch"}} meta={{"clip_content": false, "figma_id": "380:47615", "figma_type": "SYMBOL"}} name="Size=Large" opacity={1.0} scrollable={false} x={48.0} y={147.0} />
+  );
+}

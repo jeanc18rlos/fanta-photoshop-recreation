@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77MPRCQFXZRX4AS5G7J",
+      "index": 2.0,
+      "name": "Selected ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77M1BVN4HT340JW443S",
+      "index": 1.0,
+      "name": "CircleFilled",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MZM87XVVH4H4F0E53",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T77MQQ94RDRVS7ZJY6JV"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74E23GT723S843SWCYY",
+      "index": 1.0,
+      "name": "Item=Icon",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74EBGTNT97M1YCEFC0S",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T74E958EM3B07HSZPDMA"
+}

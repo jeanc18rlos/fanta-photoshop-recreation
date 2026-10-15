@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7371J4BNKPXMQ1ZCBS5",
+      "index": 8.0,
+      "name": "Type=Standard, State=Default, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7372BHTG2QD4CQ715HK",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T737SW3BW39G4V4C47S4",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T737RB61P1EADXH40BSP"
+}

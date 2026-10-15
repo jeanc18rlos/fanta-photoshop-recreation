@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74MFT230D63YQ2DEXYN",
+      "index": 4.0,
+      "name": "State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74MFSR0SSG98T4SHAV4",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T74MQ3GSN02ADG89AQ77",
+      "index": 2.0,
+      "name": "Section Header Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74MT2SR4HCWY4P7X1ZG",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T74MTWJRKS08W0Z5TPEG",
+      "index": 3.0,
+      "name": "Focus Bar",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T74MPXJR73FPMS8XCHD3"
+}

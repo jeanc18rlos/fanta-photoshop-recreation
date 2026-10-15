@@ -1,0 +1,13 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Focus__Rounding_None__Selection_Selected() {
+  return (
+    <Frame background={{"color": fnxColor("#D2DCF3"), "kind": "solid"}} blend_mode="normal" clip_size={[40.0, 40.0]} id="01M4V5T76CXBBY3FWB3HZZ9R67" meta={{"clip_content": false, "figma_id": "271:37463", "figma_type": "SYMBOL"}} name="State=Focus, Rounding=None, Selection=Selected" opacity={1.0} scrollable={false} x={324.0} y={324.0}>
+      <Rect blend_mode="normal" corner_radius={2.0} height={48.0} id="01M4V5T76CK7NWK8XBDXPGY2GG" local_size={[48.0, 48.0]} meta={{"figma_id": "271:37464", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#9AB1E3"), "kind": "solid"}, "width": 2.0}]} width={48.0} x={-4.0} y={-4.0} />
+      <Rect blend_mode="normal" height={40.0} id="01M4V5T76CENWA3YCK37B2B4HV" local_size={[40.0, 40.0]} meta={{"figma_id": "271:37465", "figma_type": "ROUNDED_RECTANGLE"}} name="Outer Border" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#496EC2"), "kind": "solid"}, "width": 2.0}]} width={40.0} x={0.0} y={0.0} />
+      <Rect blend_mode="normal" height={36.0} id="01M4V5T76CYJB1SRY9J9MK3MGW" local_size={[36.0, 36.0]} meta={{"figma_id": "271:37466", "figma_type": "ROUNDED_RECTANGLE"}} name="Inner Border" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#FDFDFE"), "kind": "solid"}, "width": 2.0}]} width={36.0} x={2.0} y={2.0} />
+    </Frame>
+  );
+}

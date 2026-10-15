@@ -1,0 +1,81 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T784CPBNSTWACDSCPE7G",
+      "index": 7.0,
+      "name": "Style=Positive, Overflow ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7840A6NN7CGXZZMDEF5",
+      "index": 1.0,
+      "name": "Text & Button Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T784D4K6JMC67FWVHQ99",
+      "index": 1.0,
+      "name": "Leading Components",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7843KP01Z34C5YP6RQW",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7843YG7NKT9FEJGN8YE",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T784HDTAM8X6RQ4CC35F",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T784DYCYJ6PADWWD7EAY",
+      "index": 2.0,
+      "name": "Button",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7846A9GENXCR97FBBKT",
+      "index": 2.0,
+      "name": "Trailing Components",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T784FHCPM82JJRTBT3V9",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 7,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T784KW42JRC1RJA8DVWF",
+      "index": 2.0,
+      "name": "Close Button",
+      "parent_index": 7,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78489ZQR1GXW2G9BZQ3",
+      "index": 1.0,
+      "name": "Cross300",
+      "parent_index": 9,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T784CPKFS4QC53PGGGEX"
+}

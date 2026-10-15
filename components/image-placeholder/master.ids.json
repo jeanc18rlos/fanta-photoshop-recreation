@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70HMY299GFKA9FY6Q9V",
+      "index": 1.0,
+      "name": "Image=Placeholder",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70H9RJC4NJKR4WGCK4P",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T70HJ17NCC3RAW5BASD7"
+}

@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T717XTMEBD6B1621TQC2",
+      "index": 4.0,
+      "name": "Handle=In Track, Orientation=Horizontal, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T717Z2BEGHT21Z35R9G5",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T717G179FFDHXHNXS5TV",
+      "index": 1.0,
+      "name": "Handle Fill",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T717CR453RKH8BHJVD5H",
+      "index": 2.0,
+      "name": "Handle Border",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7171WMB7CTJ8BRFARWC"
+}

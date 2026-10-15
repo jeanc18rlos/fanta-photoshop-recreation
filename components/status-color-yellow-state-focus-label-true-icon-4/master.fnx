@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Status___Color_Yellow__State_Focus__Label___True__Icon___False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 16.0, 10.0, 15.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#F7D804"), "kind": "solid"}} blend_mode="normal" clip_size={[70.0, 40.0]} corner_radius={5.0} id="01M4V5T7283HKFVVJ8C4NNKEG0" meta={{"clip_content": false, "figma_id": "112:25277", "figma_type": "SYMBOL"}} name="Status / Color=Yellow, State=Focus, Label ?=True, Icon ?=False" opacity={1.0} scrollable={false} x={458.0} y={2346.0}>
+      <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T728RRAMASXB8AM0WCY9" local_size={[39.0, 21.0]} meta={{"figma_id": "112:25278", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#000000"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={15.0} y={8.5} />
+      <Rect blend_mode="normal" corner_radius={9.0} height={48.0} id="01M4V5T728Q59XSVYR9WYF63RF" layout_child={{"absolute": true}} local_size={[78.0, 48.0]} meta={{"figma_id": "112:25279", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#1D80F5"), "kind": "solid"}, "width": 2.0}]} width={78.0} x={-4.0} y={-4.0} />
+    </Frame>
+  );
+}

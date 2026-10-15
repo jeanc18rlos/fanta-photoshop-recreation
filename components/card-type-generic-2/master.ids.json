@@ -1,0 +1,53 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T737ENXYB7Z4M12X3306",
+      "index": 3.0,
+      "name": "Card Type=Generic",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T737CMWA7YCEWNKE35WD",
+      "index": 1.0,
+      "name": "Icons",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7375RAGMMXPDVTJ62A0",
+      "index": 1.0,
+      "name": "CircleFilled",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T737XECT02DBS6FVT49N",
+      "index": 2.0,
+      "name": "CircleFilled",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7377D7G3DQZQ2N5XH6W",
+      "index": 3.0,
+      "name": "CircleFilled",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7376W44JPCERNZ2311R",
+      "index": 2.0,
+      "name": "Outlined Button",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T737127PS10Q20KWXD9S",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 5,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T737FDST3EZJKFTWZF8T"
+}

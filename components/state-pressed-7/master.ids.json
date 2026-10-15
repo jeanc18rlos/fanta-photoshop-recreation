@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78EZ0BHDF572KMQZB43",
+      "index": 3.0,
+      "name": "State=Pressed",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78EG2ZD6TFZNRKEJX6R",
+      "index": 1.0,
+      "name": "Edit",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T78E8SVYAH2DSC110ZPQ"
+}

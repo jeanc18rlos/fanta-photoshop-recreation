@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7APR28FBXVBSH4M6ZH2",
+      "index": 5.0,
+      "name": "_Color Style",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP8X7Q7KG5FW5AAZ3Z",
+      "index": 1.0,
+      "name": "Color",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APM8GA6KJ1CMXK987Q",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APXB3BRD5B8JXPN639",
+      "index": 1.0,
+      "name": "Color Name",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AP9744C3XMHPDVA2SG",
+      "index": 2.0,
+      "name": "HEX Value",
+      "parent_index": 2,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T70JV2SXXJAP247TB3N8"
+}

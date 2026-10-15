@@ -1,0 +1,6 @@
+previews/
+exports/
+.fanta-transaction*/
+.DS_Store
+tools/shots/
+__pycache__/

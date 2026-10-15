@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T739JAJK5FHF2WSKDT91",
+      "index": 8.0,
+      "name": "Type=Standard, State=Default, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73901X938244SR0KAWM",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73ACV06T752SMXVKQ1N",
+      "index": 1.0,
+      "name": "Preview Line",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73AG7VDVGN02VS590GR",
+      "index": 2.0,
+      "name": "Preview Line",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T739AA4XZMQC6N4Y3Q35",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T739MT8GAVQCW3EKTMHY"
+}

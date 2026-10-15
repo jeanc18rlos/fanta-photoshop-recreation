@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73FSK59GV44FTVHXPWQ",
+      "index": 1.0,
+      "name": "Card Type=Standard",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73F4G9RJ2WED4N9RR9E",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73FX0HFA8JCRT3VPT0A",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73FK87FACFET185DJ03",
+      "index": 2.0,
+      "name": "More",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73FT6M1SD3Q68YP125D",
+      "index": 2.0,
+      "name": "Metadata",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73FSBBTKQJD7NYEZBTY"
+}

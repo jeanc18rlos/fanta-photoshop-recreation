@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T79J2M4V2T88K9Z86670",
+      "index": 2.0,
+      "name": "Platform=Android",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79J04B4RQQMADSRMG9N",
+      "index": 1.0,
+      "name": "Tray Item 1",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79J834XDPYRP2SDGMPP",
+      "index": 2.0,
+      "name": "Tray Item 2",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79J6J69503QGJ81ER7T",
+      "index": 3.0,
+      "name": "Tray Item 3",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79JEAEW3NT5MQRYQAVJ",
+      "index": 4.0,
+      "name": "Tray Item 4",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79JPK6ZMBTNGXRSRFRM",
+      "index": 5.0,
+      "name": "Tray Item 5",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T79JGH43HEV40GRS0HR4",
+      "index": 6.0,
+      "name": "Home Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T79JSM24K3PTD43WK78R",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 6,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T79JG1N50CXBSXH3SXPZ"
+}

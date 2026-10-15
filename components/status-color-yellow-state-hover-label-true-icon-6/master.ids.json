@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T728QW9SFFCEYPCYG8DD",
+      "index": 20.0,
+      "name": "Status / Color=Yellow, State=Hover, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72831D9K79QVZDPXZBE",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T728MGC1Z9GTNMETE1EA"
+}

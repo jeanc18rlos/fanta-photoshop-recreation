@@ -1,0 +1,13 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Selection_Not_Selected__Style_None__State_Focus() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [7.0, 0.0, 7.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[57.0, 32.0]} id="01M4V5T74CRVGACN2VYXKWM7S2" meta={{"clip_content": false, "figma_id": "224:30757", "figma_type": "SYMBOL"}} name="Selection=Not Selected, Style=None, State=Focus" opacity={1.0} scrollable={false} x={331.0} y={40.0}>
+      <Rect blend_mode="normal" corner_radius={2.0} fills={[{"color": fnxColor("#FDFDFE"), "kind": "solid"}]} height={14.0} id="01M4V5T74CE7GKMR60WGR2K89N" local_size={[14.0, 14.0]} meta={{"figma_id": "224:30758", "figma_type": "ROUNDED_RECTANGLE"}} name="Box" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#4E70BB"), "kind": "solid"}, "width": 2.0}]} width={14.0} x={0.0} y={9.0} />
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T74CHP31ZV8YAYWJY97W" local_size={[33.0, 18.0]} meta={{"figma_id": "224:30759", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#486EC2"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 14.0, "weight": 400}} vertical_align="center" x={24.0} y={7.0} />
+      <Rect blend_mode="normal" corner_radius={6.0} height={22.0} id="01M4V5T74CEDNWPVS9WDH0D2V4" layout_child={{"absolute": true}} local_size={[22.0, 22.0]} meta={{"figma_id": "224:30760", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#ADC0E9"), "kind": "solid"}, "width": 2.0}]} width={22.0} x={-4.0} y={5.0} />
+    </Frame>
+  );
+}

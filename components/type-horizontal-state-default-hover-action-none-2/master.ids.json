@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T733J1P86GWP70ZB4K9C",
+      "index": 41.0,
+      "name": "Type=Horizontal, State=Default, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T732TC6RT152JMWXZRDZ",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73259XCBPB3P97K6DWP",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7333SCZZNZ5E000TPKM"
+}

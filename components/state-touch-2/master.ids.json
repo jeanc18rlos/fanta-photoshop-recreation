@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T710C15QE31CFQSMCGFC",
+      "index": 3.0,
+      "name": "State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T710E6PMPM7RRHW6RTTN",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T710GVS5VHRG05NN24H0",
+      "index": 2.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T710WZHQ23CWZM4G3REM"
+}

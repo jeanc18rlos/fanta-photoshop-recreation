@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70GXN3KQY1VQ0E7T379",
+      "index": 446.0,
+      "name": "ImageMapRectangle",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7040PG2YN0PA9P13CT4",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

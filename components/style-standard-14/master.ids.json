@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71R0EXPDHP2PN0TRDWS",
+      "index": 1.0,
+      "name": "Style=Standard",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71RBQPETZNETWY2SVT4",
+      "index": 1.0,
+      "name": "_Table - Header - Desktop - Wireframe",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71RP02XXRQQRVDW4Y0Q",
+      "index": 2.0,
+      "name": "Rows",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71REQADPZ6EW4F3ASCV",
+      "index": 1.0,
+      "name": "_Table - Row Item - Desktop - Wireframe",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71RB7VSFS59GX3V9RXD",
+      "index": 2.0,
+      "name": "_Table - Row Item - Desktop - Wireframe",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71R4536AMVZH136XSKS",
+      "index": 3.0,
+      "name": "_Table - Row Item - Desktop - Wireframe",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71RSG97CAH76R3B5T15",
+      "index": 4.0,
+      "name": "_Table - Row Item - Desktop - Wireframe",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71RHRYDNQG5B7PH54W6",
+      "index": 5.0,
+      "name": "_Table - Row Item - Desktop - Wireframe",
+      "parent_index": 2,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71R2BASM88C9JSH8PGB"
+}

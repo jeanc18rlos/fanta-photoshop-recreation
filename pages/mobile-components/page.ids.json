@@ -1,0 +1,136 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7AV1K8H0GBGNJTDD9B6",
+      "index": 11.0,
+      "name": "📱  Mobile Components",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0FP5FZQNPJG2N7097",
+      "index": 1.0,
+      "name": "Platform Scale",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0G1XGKW44D51KHQ2J",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7B0GCQV8QVQ52GPXA5N",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7B0JG388YFZJKRPVEXF",
+      "index": 3.0,
+      "name": "Principles",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0291KSJN3P8WFPXQC",
+      "index": 1.0,
+      "name": "_Section",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7B01JW3J3CQRW8M2GPX",
+      "index": 2.0,
+      "name": "Description",
+      "parent_index": 4,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7B0WJ22HQMPWB2BVTAP",
+      "index": 4.0,
+      "name": "Feature Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0Q6QDNP2C5T6D36KC",
+      "index": 1.0,
+      "name": "_Feature",
+      "parent_index": 7,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7B0WH75AG52KFTZ4T63",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 7,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7B0WTDYFP2WVJFMSKJC",
+      "index": 5.0,
+      "name": "Feature Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0Z27TP3V5P925TAH4",
+      "index": 1.0,
+      "name": "_Feature",
+      "parent_index": 10,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7B0HYV514D119PSAK7K",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 10,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7B0Q24TNGQ1Q8G0VGYK",
+      "index": 6.0,
+      "name": "Feature Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0E3RVZSTASS12TZ4H",
+      "index": 1.0,
+      "name": "_Feature",
+      "parent_index": 13,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7B08VZZ338AXQDA90EN",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 13,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7B062TCX5018H4NXVV6",
+      "index": 7.0,
+      "name": "Choosing the Correct Scale",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7B0CWPF2ECQGYCEZNKS",
+      "index": 1.0,
+      "name": "_Section",
+      "parent_index": 16,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7B0J9BC0MCFBWTY8CHG",
+      "index": 2.0,
+      "name": "Each platform and context require the use of an appropriate scale. Desktop platforms, like macOS, use the desktop scale. Mobile platforms, like iOS and Android, use the mobile scale. Other platforms that may blur the line between desktop and mobile experiences, such as a device with a touch-enabled desktop screen, should accommodate both scales. For instance, web browsers should display the correct scale based on the width of the browser window.",
+      "parent_index": 16,
+      "tag": "Text"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70ESS7JW53EM90Y9F5C",
+      "index": 444.0,
+      "name": "ImageMapCircle",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T704MZ6RSXX2X900PGRR",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70FP8MM72ZB7X35RQW4",
+      "index": 434.0,
+      "name": "HotelBed",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T704W0HVX991R0B5CBN8",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

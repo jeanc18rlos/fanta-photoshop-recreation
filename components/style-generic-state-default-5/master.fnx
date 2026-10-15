@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Generic__State_Default() {
+  return (
+    <Frame background={{"color": fnxColor("#D2DCF3"), "kind": "solid"}} blend_mode="normal" clip_size={[40.0, 40.0]} corner_radius={50.0} id="01M4V5T772Y6YCEGPJCJVB1JV2" meta={{"figma_id": "295:37438", "figma_type": "SYMBOL"}} name="Style=Generic, State=Default" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#B7C8EB"), "kind": "solid"}, "width": 1.0}]} x={48.0} y={136.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#B7C8EB"), "kind": "solid"}]} id="01M4V5T772FD6QC8EHXKWQ0FCX" local_size={[28.656387329101562, 30.117000579833984]} meta={{"figma_id": "295:37439", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Shape" opacity={1.0} path={{"segments": [{"op": "move", "to": [23.397998809814453, 24.270999908447266]}, {"op": "line", "to": [25.847000122070312, 30.117000579833984]}, {"ctrl1": [27.56376838684082, 27.22977638244629], "ctrl2": [28.525678634643555, 23.95665740966797], "op": "cubic", "to": [28.643978118896484, 20.59967041015625]}, {"ctrl1": [28.762277603149414, 17.24268341064453], "ctrl2": [28.033151626586914, 13.909974098205566], "op": "cubic", "to": [26.523880004882812, 10.909066200256348]}, {"ctrl1": [25.01460838317871, 7.908158302307129], "ctrl2": [22.77381134033203, 5.3357253074646], "op": "cubic", "to": [20.008258819580078, 3.4291388988494873]}, {"ctrl1": [17.242706298828125, 1.5225523710250854], "ctrl2": [14.041488647460938, 0.34323209524154663], "op": "cubic", "to": [10.700000762939453, 0.0]}, {"op": "line", "to": [0.0, 24.27199935913086]}, {"op": "line", "to": [23.397998809814453, 24.270999908447266]}, {"op": "close"}]}} x={11.399999618530273} y={0.102996826171875} />
+    </Frame>
+  );
+}

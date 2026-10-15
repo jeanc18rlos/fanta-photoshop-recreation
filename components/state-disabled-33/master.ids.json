@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77F8TP1KVDXPVPJCH3Y",
+      "index": 6.0,
+      "name": "State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77FSJTRTZD185TTB814",
+      "index": 1.0,
+      "name": "Avatar",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77FT5QZ3H529V88B6XY",
+      "index": 1.0,
+      "name": "Avatar",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77FDT7M9SPDJ4VXR4NF",
+      "index": 2.0,
+      "name": "Overlay",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77FP8N2PDG0QWRPXB84",
+      "index": 2.0,
+      "name": "Label Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77F48TF3HHDYM0X8V1A",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 4,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T77FW47HMTATF9K76V1P",
+      "index": 3.0,
+      "name": "Close Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77FHRW322JSV1MFE467",
+      "index": 1.0,
+      "name": "Icon",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77FX4JC241AYDM44J48",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 7,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77F4KEAGE1FRFEK9BVJ"
+}

@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7333QWG553HAWPDV1EA",
+      "index": 36.0,
+      "name": "Type=Asset, State=Selected, Hover Action=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T732FFXAEKCCN51QYXDS",
+      "index": 1.0,
+      "name": "Image Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7328WAZZ6KN36YT6N7J",
+      "index": 1.0,
+      "name": "Image",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T732H7VSZ8YG727DHH1F",
+      "index": 2.0,
+      "name": "Quick Actions",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7327EC7A7J0GA3SWPTG",
+      "index": 1.0,
+      "name": "_Card - Quick Actions - Desktop - Light",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T732CASSRDG76ECPTBZ9",
+      "index": 2.0,
+      "name": "Text Content",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T7333SCZZNZ5E000TPKM"
+}

@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71P2ZRT9FHJ76EKPCM5",
+      "index": 2.0,
+      "name": "Sort Icon=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71PCWZ5VB7DR7ECG2AR",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T71RG2PWB1S0ABAXJ2BT",
+      "index": 2.0,
+      "name": "Arrow",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71RWJP7MPFQQX3TGMQ1",
+      "index": 1.0,
+      "name": "Shape",
+      "parent_index": 2,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71PVC6B5QAPDMC7S007"
+}

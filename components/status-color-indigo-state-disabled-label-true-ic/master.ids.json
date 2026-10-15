@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T720D9975RFGG0N231BJ",
+      "index": 36.0,
+      "name": "Status / Color=Indigo, State=Disabled, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T720R7A36GV4NW5FP8X3",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7208W1CC8CWCGHF1D0H"
+}

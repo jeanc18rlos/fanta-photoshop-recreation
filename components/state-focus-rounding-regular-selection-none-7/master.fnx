@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Focus__Rounding_Regular__Selection_None() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#9599FF"), "kind": "solid"}} blend_mode="normal" clip_size={[40.0, 40.0]} corner_radius={5.0} id="01M4V5T76AS85ERTFP6HEBRH7Z" meta={{"clip_content": false, "figma_id": "271:37041", "figma_type": "SYMBOL"}} name="State=Focus, Rounding=Regular, Selection=None" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#0000008C"), "kind": "solid"}, "width": 1.0}]} x={324.0} y={140.0}>
+      <Rect blend_mode="normal" corner_radius={9.0} height={48.0} id="01M4V5T76AMR6TDB29KTWZS9FE" layout_child={{"absolute": true}} local_size={[48.0, 48.0]} meta={{"figma_id": "271:37042", "figma_type": "ROUNDED_RECTANGLE"}} name="Focus Ring" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#147AF3"), "kind": "solid"}, "width": 2.0}]} width={48.0} x={-4.0} y={-4.0} />
+    </Frame>
+  );
+}

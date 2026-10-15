@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Touch__Rounding_None__Selection_Selected() {
+  return (
+    <Frame background={{"color": fnxColor("#9599FF"), "kind": "solid"}} blend_mode="normal" clip_size={[40.0, 40.0]} id="01M4V5T76A8NRS4G0VRVA4KZ4T" meta={{"figma_id": "271:37014", "figma_type": "SYMBOL"}} name="State=Touch, Rounding=None, Selection=Selected" opacity={1.0} scrollable={false} x={232.0} y={324.0}>
+      <Rect blend_mode="normal" height={40.0} id="01M4V5T76AS54NTNRPE67PA285" local_size={[40.0, 40.0]} meta={{"figma_id": "271:37015", "figma_type": "ROUNDED_RECTANGLE"}} name="Outer Border" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#000000"), "kind": "solid"}, "width": 2.0}]} width={40.0} x={0.0} y={0.0} />
+      <Rect blend_mode="normal" height={36.0} id="01M4V5T76ARRHWC2FG8EQ2RAXZ" local_size={[36.0, 36.0]} meta={{"figma_id": "271:37016", "figma_type": "ROUNDED_RECTANGLE"}} name="Inner Border" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#FFFFFF"), "kind": "solid"}, "width": 2.0}]} width={36.0} x={2.0} y={2.0} />
+    </Frame>
+  );
+}

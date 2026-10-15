@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T726EAPBS0FW8PZ12S9G",
+      "index": 56.0,
+      "name": "Status / Color=Indigo, State=Default, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T726ZBY9MWSGFVFYYS4S",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7263WPFMTKDCSHGXTE2",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T725ECCV005PKYH497FS"
+}

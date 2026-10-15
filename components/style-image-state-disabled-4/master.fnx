@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_Image__State_Disabled() {
+  return (
+    <Frame background={{"asset": "1YQVHNKPN3W13BW6FMHBN2ZVD2", "kind": "image", "mode": "fill"}} blend_mode="normal" clip_size={[32.0, 32.0]} corner_radius={50.0} id="01M4V5T7729X5AGFYB21X16C5D" meta={{"figma_id": "295:37364", "figma_type": "SYMBOL"}} name="Style=Image, State=Disabled" opacity={1.0} scrollable={false} x={208.0} y={48.0}>
+      <Ellipse blend_mode="normal" fills={[{"color": fnxColor("#3F3F3F"), "kind": "solid"}]} height={32.0} id="01M4V5T772CX1GJHA4J4P2DW9T" local_size={[32.0, 32.0]} meta={{"figma_id": "295:37365", "figma_type": "ELLIPSE"}} name="Overlay" opacity={0.6000000238418579} width={32.0} x={0.0} y={0.0} />
+    </Frame>
+  );
+}

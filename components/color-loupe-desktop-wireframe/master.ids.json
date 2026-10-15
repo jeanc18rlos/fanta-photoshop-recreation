@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71M5MT086MVY0NMX9TM",
+      "index": 1.0,
+      "name": "Color Loupe - Desktop - Wireframe",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71MSXESZYV0SXZJXQBF",
+      "index": 1.0,
+      "name": "Color Loupe",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71MK8V4KZ0VGTQRDD69"
+}

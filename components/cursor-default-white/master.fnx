@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Cursor___Default_White() {
+  return (
+    <Frame blend_mode="normal" clip_size={[10.0, 10.769230842590332]} id="01M4V5T78APW2JJMKT113WFRK5" layout_child={{"align_self": "center"}} meta={{"clip_content": false, "figma_id": "358:41511", "figma_type": "SYMBOL"}} name="Cursor / Default White" opacity={1.0} scrollable={false} x={147.0} y={63.5}>
+      <Vector blend_mode="normal" effects={[{"blur": 2.307692289352417, "color": fnxColor("#00000033"), "kind": "drop", "offset": [0.0, 0.7692307829856873], "show_behind_node": true, "spread": 0.0}]} fills={[{"color": fnxColor("#FFFFFF"), "kind": "solid"}]} id="01M4V5T78A1GG58EAGND3PEBBS" local_size={[9.605036735534668, 10.650309562683105]} meta={{"figma_id": "358:41512", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Rectangle 237" opacity={1.0} path={{"fill_rule": "even-odd", "segments": [{"op": "move", "to": [6.031278610229492, 6.55082368850708]}, {"op": "line", "to": [9.605036735534668, 5.280721664428711]}, {"op": "line", "to": [0.0, 0.0]}, {"op": "line", "to": [2.8001925945281982, 10.597248077392578]}, {"op": "line", "to": [4.897137641906738, 7.436911582946777]}, {"op": "line", "to": [7.407720565795898, 10.650309562683105]}, {"op": "line", "to": [8.541860580444336, 9.764222145080566]}, {"op": "line", "to": [6.031278610229492, 6.55082368850708]}, {"op": "line", "to": [6.031278610229492, 6.55082368850708]}, {"op": "close"}]}} strokes={[{"align": "outside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#222222"), "kind": "solid"}, "width": 0.7692307829856873}]} x={0.00000000000011368683772161603} y={0.0} />
+    </Frame>
+  );
+}

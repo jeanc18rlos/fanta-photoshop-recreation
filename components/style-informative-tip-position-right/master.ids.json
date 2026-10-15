@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T788P5PBR1JSC0KKAX5F",
+      "index": 5.0,
+      "name": "Style=Informative, Tip Position=Right",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T788NHRR1V0DZXKJ2VVS",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T788Y5JT69YC3A8WNP9N",
+      "index": 1.0,
+      "name": "Info",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7883V3WTNZ0XRWKKGYA",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7884ZA4N4CHVX3D4FSC",
+      "index": 3.0,
+      "name": "Tip",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T788KWFSYEHA747CBDZS"
+}

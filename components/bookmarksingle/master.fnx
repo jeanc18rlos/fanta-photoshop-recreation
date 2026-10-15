@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function BookmarkSingle() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70G3H55ADAGD9XZEJRG" meta={{"figma_id": "41:35644", "figma_type": "SYMBOL"}} name="BookmarkSingle" opacity={1.0} scrollable={false} x={276.0} y={532.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T702GM4S8JKZ7TT6DNX4" local_size={[9.99899959564209, 16.9970760345459]} meta={{"figma_id": "2:3071", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [5.031000137329102, 12.196999549865723]}, {"op": "line", "to": [9.718500137329102, 16.885000228881836]}, {"ctrl1": [9.874000549316406, 17.043001174926758], "ctrl2": [9.99899959564209, 16.985000610351562], "op": "cubic", "to": [9.99899959564209, 16.759000778198242]}, {"op": "line", "to": [9.99899959564209, 0.5]}, {"ctrl1": [9.99899959564209, 0.36739176511764526], "ctrl2": [9.946321487426758, 0.2402147650718689], "op": "cubic", "to": [9.852553367614746, 0.1464465856552124]}, {"ctrl1": [9.758785247802734, 0.05267839878797531], "ctrl2": [9.631608009338379, 3.3306690738754696e-16], "op": "cubic", "to": [9.49899959564209, 0.0]}, {"op": "line", "to": [0.5060000419616699, 0.0]}, {"ctrl1": [0.3733918070793152, 2.220446049250313e-16], "ctrl2": [0.24621492624282837, 0.05267839878797531], "op": "cubic", "to": [0.15244674682617188, 0.1464465856552124]}, {"ctrl1": [0.058678559958934784, 0.2402147650718689], "ctrl2": [0.006000041961669922, 0.36739176511764526], "op": "cubic", "to": [0.006000041961669922, 0.5]}, {"op": "line", "to": [0.0, 16.77549934387207]}, {"ctrl1": [0.0, 17.003999710083008], "ctrl2": [0.13100022077560425, 17.06450080871582], "op": "cubic", "to": [0.2930002212524414, 16.916000366210938]}, {"op": "line", "to": [5.031000137329102, 12.196999549865723]}, {"op": "close"}]}} x={4.0} y={1.0} />
+    </Frame>
+  );
+}

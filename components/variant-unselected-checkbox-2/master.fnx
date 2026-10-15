@@ -1,0 +1,14 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Variant_Unselected_Checkbox() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [4.0, 4.0, 4.0, 4.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} blend_mode="normal" clip_size={[40.0, 40.0]} corner_radius={4.0} id="01M4V5T7368ZD0GVAH5PG1R2E1" meta={{"clip_content": false, "figma_id": "172:25111", "figma_type": "SYMBOL"}} name="Variant=Unselected Checkbox" opacity={1.0} scrollable={false} x={24.0} y={335.5}>
+      <Rect blend_mode="normal" corner_radius={4.0} effects={[{"blur": 6.0, "color": fnxColor("#00000080"), "kind": "drop", "offset": [0.0, 2.0], "spread": 0.0}]} fills={[{"color": fnxColor("#323232"), "kind": "solid"}]} height={40.0} id="01M4V5T736M7XWDTD2A0VZ1APA" layout_child={{"absolute": true}} local_size={[40.0, 40.0]} meta={{"figma_id": "172:25112", "figma_type": "ROUNDED_RECTANGLE"}} name="Background" opacity={0.949999988079071} width={40.0} x={0.0} y={0.0} />
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [11.0, 11.0, 11.0, 11.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[32.0, 32.0]} corner_radius={4.0} id="01M4V5T736TMANC94B6BHDN737" meta={{"figma_id": "172:25113", "figma_type": "FRAME"}} name="Icon Container" opacity={1.0} scroll_direction="none" scrollable={true} x={4.0} y={4.0}>
+        <Frame blend_mode="normal" clip_size={[14.0, 14.0]} corner_radius={2.0} id="01M4V5T736MD6Y4N4QSF9BNGWA" meta={{"clip_content": false, "figma_id": "172:25114", "figma_type": "FRAME"}} name="Unselected Checkbox" opacity={1.0} scroll_direction="none" scrollable={true} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#909090"), "kind": "solid"}, "width": 2.0}]} x={9.0} y={9.0} />
+      </Frame>
+    </Frame>
+  );
+}

@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Sort_Icon_False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 16.0, 10.0, 16.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[86.0, 39.0]} id="01M4V5T71P7BZ0ZSX250J90W5B" meta={{"clip_content": false, "figma_id": "104:20069", "figma_type": "SYMBOL"}} name="Sort Icon=False" opacity={1.0} scrollable={false} x={24.0} y={34.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Header" id="01M4V5T71PVG2GPDB3H34N8TDW" local_size={[54.0, 21.0]} meta={{"figma_id": "104:20070", "figma_type": "TEXT"}} name="Header" opacity={1.0} style={{"color": fnxColor("#000000"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 600}} vertical_align="top" x={16.0} y={8.0} />
+    </Frame>
+  );
+}

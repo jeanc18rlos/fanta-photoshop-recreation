@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72X5NW5Z9D4X567BMKX",
+      "index": 9.0,
+      "name": "Status / Color=Magenta",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72XWEPX6S9TF4TN0VWC",
+      "index": 1.0,
+      "name": "Dot",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72X0RABAZ2MZDFY36T0",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T72XBFVEEQ905M60GTZ4"
+}

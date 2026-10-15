@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function TagItalic() {
+  return (
+    <Frame blend_mode="normal" clip_size={[18.0, 18.0]} id="01M4V5T70F75Q2G7B07DRHGYQE" meta={{"figma_id": "41:35480", "figma_type": "SYMBOL"}} name="TagItalic" opacity={1.0} scrollable={false} x={312.0} y={3016.0}>
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#000000"), "kind": "solid"}]} id="01M4V5T705N19FSPQ998S3XFQS" local_size={[4.585827350616455, 13.981499671936035]} meta={{"figma_id": "2:5155", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Vector" opacity={1.0} path={{"segments": [{"op": "move", "to": [2.3058266639709473, 13.831500053405762]}, {"ctrl1": [2.2853267192840576, 13.937999725341797], "ctrl2": [2.265826940536499, 13.981499671936035], "op": "cubic", "to": [2.1648268699645996, 13.981499671936035]}, {"op": "line", "to": [0.1248268336057663, 13.981499671936035]}, {"ctrl1": [0.024826832115650177, 13.981499671936035], "ctrl2": [-0.014673054218292236, 13.960000038146973], "op": "cubic", "to": [0.004826946649700403, 13.810999870300293]}, {"op": "line", "to": [2.2453274726867676, 0.12750005722045898]}, {"ctrl1": [2.2658274173736572, 0.021000057458877563], "ctrl2": [2.325326681137085, 0.0], "op": "cubic", "to": [2.385826587677002, 0.0]}, {"op": "line", "to": [4.446326732635498, 0.0]}, {"ctrl1": [4.56632661819458, 0.0], "ctrl2": [4.585827350616455, 0.06350007653236389], "op": "cubic", "to": [4.585827350616455, 0.1700000762939453]}, {"op": "line", "to": [2.3058266639709473, 13.831500053405762]}, {"op": "close"}]}} x={6.535172939300537} y={2.0} />
+    </Frame>
+  );
+}

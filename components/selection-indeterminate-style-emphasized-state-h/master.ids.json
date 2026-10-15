@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T745KR0VYZ7Q7CXB0ZHG",
+      "index": 20.0,
+      "name": "Selection=Indeterminate, Style=Emphasized, State=Hover",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74519F9W77NJ6YBFNX4",
+      "index": 1.0,
+      "name": "Checkbox Selected",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74593ZCBMEZ0P0CPG8C",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7453J1BSFW10AK12HSN",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T744SM44KTTZ0P5TFB91"
+}

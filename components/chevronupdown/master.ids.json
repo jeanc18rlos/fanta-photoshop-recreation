@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70GG95C06DTB5ZWEWMP",
+      "index": 135.0,
+      "name": "ChevronUpDown",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72A9KTNCHCE3BVREN2S",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

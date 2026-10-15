@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T717DJEX9REK9CYZQEFF",
+      "index": 15.0,
+      "name": "Handle=In Track, Orientation=Vertical, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7176KE6SMYA3GAMCGT6",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7171WMB7CTJ8BRFARWC"
+}

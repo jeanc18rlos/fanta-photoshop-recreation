@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T744MHY3V72S63VACJDW",
+      "index": 7.0,
+      "name": "Selection=Not Selected, Style=None, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74419NY82416GG3Z61S",
+      "index": 1.0,
+      "name": "Box",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T744Y0S6X0037WG4RGT2",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T744S9YCD19CRMSJXXK2",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T744SM44KTTZ0P5TFB91"
+}

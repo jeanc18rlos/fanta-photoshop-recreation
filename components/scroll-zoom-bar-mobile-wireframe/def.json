@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GVXMR7D1S2E8CAY2AT",
+  "name": "Scroll-Zoom Bar - Mobile - Wireframe",
+  "props": [
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GV2A9DXPGHV5YH36SY",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Handles ?"
+    },
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GV7XB7832R22YQMCE6",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Track ?"
+    }
+  ],
+  "root": "01M4V5T77KWSJERDREYV947P8Y"
+}

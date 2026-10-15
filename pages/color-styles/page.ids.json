@@ -1,0 +1,7479 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74PR88ER8QAVFP6D685",
+      "index": 17.0,
+      "name": "🎨  Color Styles",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATWF79BA4CWV09HNBR",
+      "index": 1.0,
+      "name": "Data Visualization",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATAFHGDMJEYW3DFCNN",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVR5MD1RFBE7R61RPZ",
+      "index": 2.0,
+      "name": "Color Rows",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATF5QGH4PHPVHTK9CA",
+      "index": 1.0,
+      "name": "data-visualization-row",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT6ZA0K90QPEZ1MN9Z",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATJWEABJ8XSVWTX7D1",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATCGPR2PZVWZ1AZGXV",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 4,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATY4NQ9SJND8AFY1YK",
+      "index": 2.0,
+      "name": "data-visualization-row",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT6EE8BJJY537C3V5S",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 8,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT1CW8ZA7529QT9WT2",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 8,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AV9EVK9S2H7A6XC2VB",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 8,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVVYGSKHFD51Y0QJ9N",
+      "index": 3.0,
+      "name": "data-visualization-row",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVR7RYNNNW5SXPHNA2",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 12,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVGH3SVY7HG0XWQMD1",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 12,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AV47BF0R7QT45WGDVD",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 12,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVQR2P5V6WWXQC4CYQ",
+      "index": 4.0,
+      "name": "data-visualization-row",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVS58HY76ABN8BWBGD",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 16,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVM03CMZ7AG4QBRC0J",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 16,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVJS4DQAYNX6QAR1MT",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 16,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT7A941HM1S41C7NFY",
+      "index": 2.0,
+      "name": "Black",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATS8PWKNXTGTZMPYKF",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 20,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATN4NG2WN5WF7629NV",
+      "index": 2.0,
+      "name": "Black",
+      "parent_index": 20,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT68Z0QN8TKVZ2XGHG",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 22,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATMJ2875VH2JJDFWY4",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 23,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AT1HQ00XD6VHM45RCA",
+      "index": 2.0,
+      "name": "black",
+      "parent_index": 22,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATWSHZBTR5KRCKR0F6",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 25,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATH5THHVZAZ4VJA2FM",
+      "index": 3.0,
+      "name": "Transparent Black",
+      "parent_index": 20,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATV88TVJFANXYFR4XV",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 27,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATHK3YAXA66ZFT8R4A",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 28,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATH7NMENNK0KE9G7P5",
+      "index": 2.0,
+      "name": "Color Rows",
+      "parent_index": 27,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATYB26BN25315XT24C",
+      "index": 1.0,
+      "name": "transparent-black-row",
+      "parent_index": 30,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATVP2PD9HAK7Z7DB2H",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 31,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATZ1PMS0CCX1975SK5",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 31,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATZ475WRHHV0FNDF1X",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 31,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATF7WFXKKH6CXJHTTQ",
+      "index": 2.0,
+      "name": "transparent-black-row",
+      "parent_index": 30,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATWWARRD0NH3FBHZ1D",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATSTP4F3TZF90KPNX8",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATM69NHAXWP5X9PT3Y",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATWKR77R3TPK3QDFPY",
+      "index": 3.0,
+      "name": "transparent-black-row",
+      "parent_index": 30,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATH57EXRDNQ7QFRX6H",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 39,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT3ZXYBPW4XY4E9CRM",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 39,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATQT4QYBH9KDTFKQAE",
+      "index": 3.0,
+      "name": "White",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT7YAF8TX8QTYR68B0",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 42,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATCS4G4V99Q8SXMMQB",
+      "index": 2.0,
+      "name": "White",
+      "parent_index": 42,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATF6Q99CM9FAZJCJ7S",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 44,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT3BTK5790V88R13V8",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 45,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AT0YX8H47A0JVG0RY4",
+      "index": 2.0,
+      "name": "white",
+      "parent_index": 44,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATHTBJJPNBGYN1ZR7W",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 47,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT3N7Z0ZAFT17BN2EM",
+      "index": 3.0,
+      "name": "Transparent White",
+      "parent_index": 42,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATACZWM5A0712V41HK",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 49,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT86VPV01CBBGGT024",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 50,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATDGFD21E2PN1GEGP0",
+      "index": 2.0,
+      "name": "Color Rows",
+      "parent_index": 49,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATNT3K9WAQN7ZW2X9R",
+      "index": 1.0,
+      "name": "transparent-white-row",
+      "parent_index": 52,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATC3NVRR0KYWXWFPMD",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 53,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATM3S2ZPD04320PCF4",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 53,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATSSKWGZ9N2W4BDW1F",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 53,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT1TV1BTA0D7TF28EY",
+      "index": 2.0,
+      "name": "transparent-white-row",
+      "parent_index": 52,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT76N7JWTZ6SMBAYCC",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 57,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATHFCSFHCB6Q0WX6ZX",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 57,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT5NS97Q7H6BDG7FPY",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 57,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT5S9TJ3J9PERRMTHZ",
+      "index": 3.0,
+      "name": "transparent-white-row",
+      "parent_index": 52,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATD1EYH8BDKXTR3YFW",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 61,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATSYR4VHKNDYZR6FER",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 61,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASFZT7AZG369WB7VK9",
+      "index": 4.0,
+      "name": "Wireframe",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASWA29P80G96B7SJT4",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS0RFMSDMPVVQ0CK5Y",
+      "index": 2.0,
+      "name": "Gray",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASBGB60TD54KWANDND",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 66,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASMYC5CJNA86AX5ND9",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 67,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASWM9G6YDT3944ZYC9",
+      "index": 2.0,
+      "name": "wireframe/gray",
+      "parent_index": 66,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASKSKZKP71QT43NMXJ",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASMXG3XGQBBDEZ3P6A",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASBRKQ4JKRC04N2E9X",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASF0H02C2HSG6J36WD",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASKKQ21819SDEGBAZF",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASVZXPB6A3WR21TATS",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASMTJPGDP79JMBMGFB",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS34TPSSAHBHVBVDQ0",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASP9BZE0DK73Y9P08K",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASH5Y0VT9N01W2WHMD",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASMXCEVVMH7TW8BCF2",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 69,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS10RTY18AX5R6H3AB",
+      "index": 3.0,
+      "name": "Red",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS9F7C5QM53ZVSAQTK",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASBQGR4JV776F6D7BF",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 82,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASWY2SZ4AKP31SM18W",
+      "index": 2.0,
+      "name": "wireframe/red",
+      "parent_index": 81,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASSB00PBQJY4HSVME7",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS97H1K35XB9AV17Q7",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCG66PZFZ497DKG57",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASS66XW013NQC44PWD",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASKGSZC1JXZH1K8HGA",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASJDQ3BDR2BSSBYH8H",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASBG86KK5S3D3V70WB",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASB06Y1X4XW33PE08X",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZP93SYNFYFJVAX04",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS0NJ2RFS0D4ZCGRPP",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS0SRY1AFYAAFVAQWS",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASJHTQGYQWDA0JQSQW",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASP8XHKY9H3VF30BWW",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZJSW6KTYXYNRJVNE",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 84,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASW00C37X2RMR9FDET",
+      "index": 4.0,
+      "name": "Orange",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASQBSN4AYMCX5YVNHV",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 99,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS6ZQFDFG7H6YYGPQJ",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 100,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASTS9QZ5E24Q2ETM9M",
+      "index": 2.0,
+      "name": "wireframe/orange",
+      "parent_index": 99,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS5BRS5EXC74QDAT5C",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZHVHRCQA0NKKY3MK",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS5RHPM0B4860A6QKA",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS7BSN1HY698PV2Y88",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS5ME9M9DKS5436EFN",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS9PB7QSVKYMS0NFEG",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS54Q2211W0MKCFC8K",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS3GRJ0RC69R187HTD",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASPRS3BV9EKB300QQQ",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASMB4PPANZM5RBXRK3",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZR80P4VP84BJYW00",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS2RCBHQSW9PV6X5N1",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASHPMX264318G81XRJ",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASVY6N08703ZD2ZJDJ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 102,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASRX0VVPXNG3KXZM54",
+      "index": 5.0,
+      "name": "Yellow",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASHYPCGPH3HX6JSC3X",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASPBKWWD3KVFY61AWK",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 118,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASEEF4H7D0D8VJEA6A",
+      "index": 2.0,
+      "name": "wireframe/yellow",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASTQ6F0XY0K7VCER8C",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1P1JVW1MEPZHFZ4E",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASJYTV1EQ8EHHACNAF",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS96K78RPZ5581EBJ8",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASG88N69MWBC1TS0DR",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS4Z6ZY713TYWS5S4Q",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS8W96VMK32Z89Z48Z",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZ38ZSNW56NN0JGYA",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS19SYV6E9YGM051CF",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASJG8J8689KY6Q1E2J",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASRWJXR61ZY6BFE04Z",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASE3WMQTJQGSZ87S5Y",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCAE3W8Y8MJ7BDT62",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASGS4D8ZCPB10F8FTD",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 120,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCVM04H0382K30EWQ",
+      "index": 6.0,
+      "name": "Chartreuse",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASMMAFR6EPJB265K4K",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS6QXQENKHHYNTKZ65",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 136,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASBA1XN1S5Y10ESVJD",
+      "index": 2.0,
+      "name": "wireframe/chartreuse",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS1B9XTY5Q7F3B6KMR",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS6F1NJ5QSBWFVR3W0",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZ81QFPEJGTGAJ9GH",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS4WZ0E590N5RTGPKZ",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCM0WMPR9D3J1D4PE",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASJC39TGYG02QAMWYZ",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1DRTHV3WJRG8AEXD",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASBMZ8V7GJS6JPQNG8",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS0GP5H1YJQPH95PPY",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASFDVRF5ESHJ45WJ3T",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATXPNJ2VDDP15AZPXK",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATZC7K46KPQNT0BPFK",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATGE4D8Q1EXZK4HGFN",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATYJRRMZHSP0P7AEM0",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 138,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATF5DGB3YE5W5GKA9W",
+      "index": 7.0,
+      "name": "Celery",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATYESDX8KFFMAEMFCA",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 153,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATR5VMPGVR81AKXS69",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 154,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATN2GKXAB79BMPB6EH",
+      "index": 2.0,
+      "name": "wireframe/celery",
+      "parent_index": 153,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT3WTWKHW97602P79T",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT0513342H52PA6M4Y",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATM23K6CERTN948YXA",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT13C4Y9089VKCB4MW",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATPFMM2C2E5MT0PS4Y",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATAB825J7MRG768P0M",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT9PKR1ZDEB0KR6F4K",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATVX49R04JSNBR79PS",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATX7YA0TW521HGPKPB",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT5NG220A1P223B3AP",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATD7P3W28VRQPE6RMD",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATVW2XPY240BB2V7V3",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATTJW8EF187TJCZ8F0",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATJBB94T9RCA7VJPJF",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 156,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT8B2WDS8069CSVMFX",
+      "index": 8.0,
+      "name": "Green",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATGE049VARTBHE7FV2",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 171,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATCK8M2MFFMPRRWR19",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 172,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATKTZ2Q2DJZAQQ1GAN",
+      "index": 2.0,
+      "name": "wireframe/green",
+      "parent_index": 171,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATKYDEG54R8VAHRXDQ",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATHZK2S79DAFPE7MAQ",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATWD2F2D0DHET3NSE0",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2KXNNCNV4FKFQT35",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATVEJBRWXZJNM3A8A0",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT3FW28MQDZNT0XJ1K",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATFC52F37CR7EQQ4E3",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2CD1JMCQX75Z3J7K",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT4RB92HQR2MZSD06J",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATX6M2W7610P8KWQHN",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATADGRS339FVC4N005",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATSZNVEN9HVFEMKDTF",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT668WFAFZJWX62DRX",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT82GRSQN4833EC0VZ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 174,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATWWTP46C7SFASYBB8",
+      "index": 9.0,
+      "name": "Seafoam",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATJRFWDZ015MQ5GQX9",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 189,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATATPTK8REG5DRSYXY",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 190,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AT4TX5TDY19G6S9B38",
+      "index": 2.0,
+      "name": "wireframe/seafoam",
+      "parent_index": 189,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATXYH5HXS3T861HD54",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATC6CD6MF5GA7WWN0E",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT30A89T5Y3G9HFNS2",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATVE41BAGHPANDDQVM",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATFW6JYTKS1WNM4WG6",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2XH9JXE4M76F48Y6",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2Z2K4TFKD9GC42DN",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT78GT20ZFKW7R33MF",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT36SS4H8YBD1ZGXAE",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATS6G2GW66ZY01PVVN",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATAPV660NEK7TVWJS5",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT7S3Z1KDC9FK4TQ94",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT9EBFW5B83BBEY00K",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT6R9KTBS672ZCVCGD",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 192,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2P1ZK9WD0YXKHZ5Y",
+      "index": 10.0,
+      "name": "Cyan",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATB7KFGM3NDFW2B8D4",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 207,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATHVP9PH7W8FCCQJ9F",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 208,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AT42194TNMTEJ7QYS4",
+      "index": 2.0,
+      "name": "wireframe/cyan",
+      "parent_index": 207,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATH9ZYGPJ92Y3A9XZD",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATZ1GXSA28EMCTYEBT",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATX4A867X00VXEXZ9A",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT3WQNMA87NZN3MJC3",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT4AC5HKTH3FRBYK24",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATFEB8QAT34HN9390Y",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT6TSZBC671B9MN61K",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATQPQ10C7HXSK9M9R2",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT0VXPYQ7QYARW1JEM",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATKWB2ACRXHJ86KWZ9",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATG72F2Z8YKDZ90ENJ",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATVFX2BRJW3JE03QTV",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATKZFM0564DR73XGKC",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATV6EGJ4EEXSW5ZY5X",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 210,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATV629K6BS1YRMNAH0",
+      "index": 11.0,
+      "name": "Blue",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT8DDPK6KCH59S57YK",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 225,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATW2RC73Z2A5708D2G",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 226,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AT4Z7DSF3H3E9GY44F",
+      "index": 2.0,
+      "name": "wireframe/blue",
+      "parent_index": 225,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATTP0ZV4G8Y3R9CMFN",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATWWVQ3T3SMFVW2G0E",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATA29XTREX46GBXVFN",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATHF1BS0RGF650Y0G8",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATQWFTSPYMJF5TR99Q",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATC60Q8GPDYY7AN12N",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATH4X1NBS9SR25FWVH",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT9ADMWTV4RVK052YS",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATNH0D7E08NZSP97N4",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT0W8HKPHPY0F2ERT0",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT1Q4J8RVC655NBVHC",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT9QY5X66XS6850JH3",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATXMAAT297WC1NSM1J",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT6E46N0H5PB27SQ71",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 228,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT39HHJ6BZP62YXBZZ",
+      "index": 12.0,
+      "name": "Indigo",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT1Z574G2QJZMYB4HF",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 243,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATYZ5Y3XAJ1GB09DKB",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 244,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATVC65C79SGME3ZGJN",
+      "index": 2.0,
+      "name": "wireframe/indigo",
+      "parent_index": 243,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT4TQJYYQ4HRJKDB94",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATW7N973XZZGVHNMFD",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATMA4C7GSKRMTQYPED",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT6NWXH9YT52KBEA8M",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATMSS4HRDTD8X9QRQA",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATVYMXDBV5DGP91PB2",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATRH8C0P1TKNEBHYBR",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT03STTGQK6T98EKWN",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATQWZBETDJDJH2AWC1",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT1M5SBJBX2RQKCX45",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT95TWPB349YPREF5Z",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATS6YFHFNMMN0ZN8F2",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATEJW0NFHEZ7BAJ6SV",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATSFEM3SQTB2Z4G1CZ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 246,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT5NK0S3GKHCHA46G1",
+      "index": 13.0,
+      "name": "Purple",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATZPKJPXHDJT6CNSNS",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 261,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT2G80GA7E6P41PN2C",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 262,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATARX9C4X1J0HYH17D",
+      "index": 2.0,
+      "name": "wireframe/purple",
+      "parent_index": 261,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATZDD0ZYYAJAMB06DY",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATMKHAE9CJPBWPGXGH",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATSD41AN4JHF101JDF",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATS5FKBX4HG8SZ8AEN",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATYWH361NZ6H0H5ZVM",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATG8KZBSV0D3152MWZ",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT65FJQXFBC7AX5XVC",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATZ5V9DH3D7Z74WQDB",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT3NAYKF73HXDKBS23",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATYQK64TYQH1A93KF6",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATABP6QBD0H1Y3DEQ4",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATCYBQGAQ5YEFTCFN0",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT0ZJXV49BNPXZ228N",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATH5EBBJN96DSV4KSS",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 264,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATJ94CA36FRE6REFFN",
+      "index": 14.0,
+      "name": "Fuchsia",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AT5YACEGBDKFW6CQPT",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 279,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATSTW767P6AJQSDS75",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 280,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ATBMZQC1ZXR4G37SWJ",
+      "index": 2.0,
+      "name": "wireframe/fuchsia",
+      "parent_index": 279,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATEVGBAVSRBJNXXFF9",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT7DSCYVEEGVQDNKGK",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2R29EZ52VW9D6ENP",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATV2BRCKZKMCANTHFS",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATFPPRGRTEHDJBMH28",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATR0BVXPVWAA0JXFM6",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT5CT5H2ADXG3W15XD",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT20EMRBDH7WXJ59FP",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT2TH0V3AWAC5G3E03",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATX8JCHBCRTYTRQ970",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATFZTH1WS11JA7T2CR",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT7FB1F8S9KF08BSA8",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATJYVDNZ97SZXF3YEV",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATHJXEB4RJMHW6Y8VE",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 282,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATRKA5P4FW9CY8ZZRF",
+      "index": 15.0,
+      "name": "Magenta",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATHZRX1XPVWK5YN3TD",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 297,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATSV6WNRNQVWBR07GJ",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 298,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AT959FD7298CX897B1",
+      "index": 2.0,
+      "name": "wireframe/magenta",
+      "parent_index": 297,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ATQRFC0G145TWCAMC9",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT7XW5CSV6CG25ZNA7",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT623XV47VZH6JYD1G",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT5JQNSFC9E6N3EDYR",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATJPK5FTJB6FKTW5DH",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATE7AFD6M7G7CY3KM3",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATXK4H3FTT85G3TF1Y",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT8NXMAMQHZCZ27X35",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATFVH8KWV5Z5QM4AFF",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT4QT82VC5C15Q9NY0",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATHQSM64Q0WF0Y2HKE",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATN9R4F6EQGSDKGDYX",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ATMAMDWK45N67C13JN",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AT1JER9QEJCZ70K14E",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 300,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARZG7GRXCYY5M91NHY",
+      "index": 5.0,
+      "name": "Darkest Theme",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARTJWPPHW3Q3YJ67F7",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 315,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR3SZVC8V1XSMGXA6A",
+      "index": 2.0,
+      "name": "Gray",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR6GWT9G6SAZ17K3EQ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARQ07PHP9JQB4W4FZY",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 318,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AR7JHNN4HVASX6NH0X",
+      "index": 2.0,
+      "name": "darkest/gray",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARNC72FZ5ZQ8ZQ0NBS",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJKMQWAWWAH5QC9XB",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARXHBRTD9MP78YH2V6",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARSMQ1TQFZC8F18WDP",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR4RTKD9PQ6553VJDX",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARP3KQ9VD1MHAAHHKA",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARZCW6BSXZZ50BH701",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJ37287M2H9VGWZEM",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR3T8ECMHK4GEMCM5S",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ART83W4MB04M822JA8",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARRPN4QT8QRB4REVFN",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 320,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARHRZHD3HGK7XW71NY",
+      "index": 3.0,
+      "name": "Red",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARB05DYGYMPX378Q15",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 332,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR7KJDET3088GBCZSD",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 333,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AR1KWW3PA6F8V2GQ1S",
+      "index": 2.0,
+      "name": "darkest/red",
+      "parent_index": 332,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARK1J8E2HHST9MRGHQ",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARYZ33A2NQS8V225AD",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARHF9TE6WWQN976YW1",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARN3RFF0FBR2T554HF",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARF1V53V839GR76KDF",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARCH826DZR5Q70KR0B",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARAYTCERS6QZTG8CXY",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR1JAE887JQGX1E59S",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARF1C8P1FDP903SEA9",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR4ACMJADTD7AR34Y2",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR7X2T9WPYJSSXGNZT",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARVKEX9R3NEZQR44AK",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARKA4X4WKCVB1HP07W",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR9ZSQHM337JNKQGGM",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 335,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR3BFHVG922XDHEC4T",
+      "index": 4.0,
+      "name": "Orange",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARTRYBG6V1YVSN1254",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 350,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR8GZQWMKC7F664RB7",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 351,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ARCQ32JGBHVYTV6FPB",
+      "index": 2.0,
+      "name": "darkest/orange",
+      "parent_index": 350,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARQBNPG8Z7P29MGBFD",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARTZR81G6FW9JGH5N9",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR12ZKN0VS814PF1RQ",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR8D205DYPFSY86XD1",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR29A8QSNRF7EFXRBD",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS19QYGTGSXQM7SK6",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARXBN4PZ05ETWPBSQS",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARRSXSAZKE7FT7SP7G",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARN897EPHZ6DRG94F3",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARDA9PZM9M5YXWEFWJ",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARHNG526PEWQ8YH6DT",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARRQTM6EYS39XZTT3E",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR39QCCX0ADCG03KT0",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARSGNJQBK7TZAAWY92",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 353,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR36B249C8Q3M5T28C",
+      "index": 5.0,
+      "name": "Yellow",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR2R8MYN7KV49NGXB9",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 368,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR682FPSX7FGG3AGRC",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 369,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AR7FXPVC0CF0NZ2WAC",
+      "index": 2.0,
+      "name": "darkest/yellow",
+      "parent_index": 368,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARN0229J3RFC69X3VT",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARERMP4BZVNB2WXV74",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJP964X9SM8CYMR02",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARB09S3QYVW6EMQJVP",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARKW049EAF98035XMD",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ART96PHT13EXRJTD2D",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARSK57KG2HHNCK5H86",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARX2MYGRR3D68B0BFF",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARX5MHQ9ZQ3NNJ4CQD",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARXNJ3ACTGD4387QX1",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARVZVPER67KAS5Z38R",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR24R735FT6QDQ35YE",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR8HK5S1YTG0KWBW8R",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARFKXBNF9GRGPY62HQ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 371,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARFXJDYSVB80FWKTY3",
+      "index": 6.0,
+      "name": "Chartreuse",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR4HBJRTGN9PTMDM0F",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR2CQ684QQFNE26M23",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 387,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ARQDZ1SQSPMVW7W9M5",
+      "index": 2.0,
+      "name": "darkest/chartreuse",
+      "parent_index": 386,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR6MA74KZ62DA8FMNC",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARGSGJXM9BAR8VRMXW",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARTSWH8SF5EC55HRKG",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARREZPZ6C5Q0WM28EF",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARB0BE6X7023XG9V1B",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR2JVCM2Z4DR9A16AQ",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARSF8JTVWEE4Y8GQAN",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR0H98M6SHXBGQZ916",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARA7ENNNZK97H2QYC0",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR871R4KQQ94N9ND9B",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARHZJADYFMXYMHYBBW",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARHB064PHBABCG0E8V",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARB3S1X4HJ5MANNKKB",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARWDVHVMDDR29H5DEB",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 389,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR2PH5QG8P9B3R8DEN",
+      "index": 7.0,
+      "name": "Celery",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR307JPCSK0KCV9AA6",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 404,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARDESMCTT9Q0XDJ84P",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 405,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ARJW46ERH46R3552M8",
+      "index": 2.0,
+      "name": "darkest/celery",
+      "parent_index": 404,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR1JSV9QEJWVVBD3SY",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARP5964BC6PXC2JDQ7",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARNM2WXEG1HCFNFB98",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARR3DPE108Q8DJG2GP",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARC85Q4YZG8EEREDWZ",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR4KXSM53KP2CKQ5GK",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJRWWMMZK35YEYSSX",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARP974HKW69D7B144K",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR1WA2WN995ED9GXBC",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR6CBNJ44106PCG5HX",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJ3RJ4EF0D01JMP0Y",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR3SWJ1EJTT99ZWV0G",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR4RGCJ3EWREG356Y0",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR0XHWP8KTZWJF2MB0",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARSTKB969N0Z3QM0XT",
+      "index": 8.0,
+      "name": "Green",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR94E2B8FXT9R8SCE7",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 422,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARKG19WS3MWESP78GB",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 423,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ARQJW6N43HH6H8TNNW",
+      "index": 2.0,
+      "name": "darkest/green",
+      "parent_index": 422,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARSC7MCF8CSDCN90MN",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR2S8MZG9BWQ14573G",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARNF5RPCARGGTPAKV7",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR1QR4EZ23KECXWN64",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARG0V9WG42AMSWPVA1",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS87CSW3RESPQSHYD",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARDSPCJBAZ3VK3X0NY",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARSAJJFVMHV207Z8SF",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASN4628PDZSSGGCY7A",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS0JW0R85YVQP8GXAW",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASM2TW6THMX3YGGHHX",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASH6FKMD38BSVEJJEZ",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASDERFHSVDQ2Q1KYM7",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASYC9MFM89HCTBE76W",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 425,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASGVXKF34NB1MZMS4H",
+      "index": 9.0,
+      "name": "Seafoam",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASTJHR7K7GG4FMTSPY",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 440,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASNZP9JKQJHX059VK2",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 441,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AS78ZVQKSP50Z7BR9V",
+      "index": 2.0,
+      "name": "darkest/seafoam",
+      "parent_index": 440,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASV93Z6JMT1JYCYMTV",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASTYAM5Z4ZPWRXBS50",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASECXVQXBJ3A6MD0RK",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCF1A4RD8J2ATEZKG",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASSJTBGCYDVXSA43SY",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASZQ49XNJV4SWRY7DE",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASSCHG07S27TFNJ3Q2",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS2P7NYK57Q5P39FY3",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASAMWMQA3AR6HSD5HC",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASV0WMKMA1VAD6BS44",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS8V92V0RKEVNTPCEH",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASXY1X1TX5298ZRPQ3",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1YSCYVA58XMCCAFR",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1967CCRC22BK5Y7A",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 443,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASN75SZBA0SA02E88P",
+      "index": 10.0,
+      "name": "Cyan",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS79PCBNC40CFZYHZJ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 458,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AST1K280B3EBQEPNTW",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 459,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASNBQHT23TH2X4DQYM",
+      "index": 2.0,
+      "name": "darkest/cyan",
+      "parent_index": 458,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS4H42308GKW9VFQNW",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASF4437TZKSZ74S8MR",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASFATW71C01JYZZSW3",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASHHF588DP6B71HT3K",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASTH48RHBYR235MAF0",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASE6VNDKQWNT5QJHZ5",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1K7QBRN54E6NCHSS",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS88RZADYZP7AKYKQN",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASARQKS6XNK1ZMSA9H",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS7V47H5Q91NWVTWBK",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1WV17C0909HXD4B0",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASHR79FP12HWB3GCSZ",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASAV3ANQJFKRJE0NZN",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASP9E3W61RFYM6H6M2",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 461,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASKS1TCT1Y7JGSABH5",
+      "index": 11.0,
+      "name": "Blue",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASEEC2WVSZYV7X49KB",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 476,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASCQNXYK6XGT6MFZ46",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 477,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASNBC6FQ5SA8YMVRXC",
+      "index": 2.0,
+      "name": "darkest/blue",
+      "parent_index": 476,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASDZZJ7QDMKV75444D",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASKEMVN59MMCAPNRGH",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS7AYS11GN463G3EK9",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCXP2MJ6VY21YSFET",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASC455WB0Q6TYZ6A6B",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASG3T69BP70M58NE4S",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASBBTRDSJG8JBPPQX9",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS4MYMGE8TJ39G2CXM",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASC682NTZ48GMCD6E3",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1PVX8TDHTSWV0JWK",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS7R4R505APNGBRRRC",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASKJXZH012P8D4FNE3",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS8FPH8KYYSABR2Z39",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS6R7W6BPPAFAZXQKS",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 479,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASTQ6RTCGXM2R823MK",
+      "index": 12.0,
+      "name": "Indigo",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASQ2Y3QN0F5CJT5VV1",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 494,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASQXJDH8ZSGFN4XG1N",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 495,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASQR45KC7JE75W4HKZ",
+      "index": 2.0,
+      "name": "darkest/indigo",
+      "parent_index": 494,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASYV3VJA1NM6XDXK6M",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASWME2YN0S8PDXJS9N",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASRR3NB9NYM7RZRNQ6",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS4KN7YNXJ82SJ8HG0",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASV4N4HZY8V8MD18W5",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS5GCVN3H17MB0YJ37",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASQV2T17T0E3BQZR07",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASD28SVFTBQX59RMED",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASNZM022FV4CJCH4J8",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS4JBVHT7KS0M6XY5P",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASDNJSCZXCZWDCAYC2",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASX88WEERJAZ9Z9J3H",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASH7G6FX8GVAWJ7QDF",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASWXJ4874W4PJR21MR",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 497,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASN3GBYFK7RXYK7Q4V",
+      "index": 13.0,
+      "name": "Purple",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASHHJQEDMBZFVMYREB",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 512,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS469CVYKGJKVHB46N",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 513,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASJ7D7ZCP2P9GEA61A",
+      "index": 2.0,
+      "name": "darkest/purple",
+      "parent_index": 512,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS76ZBHEKGZHKGAVMT",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS8153ESJYA51GTJRV",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1KZG43P23SXWAE8J",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASYS6E1XTZWV86D0CK",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS391BQ21HFCVEE49N",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASSKRHVHPNXVQVQWA7",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASPY91FD6GTBSCS957",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASJKQPBN5ATNY9N8XK",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASMKNH7CKS82J7FK4M",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASQ3WYQ87FH4DPJ6FS",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS5GD306NHXKNY6FSW",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS1Q3MJEPAV1GXAM4E",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASHGGE9V372KKEZZ71",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS6V61JX326AD9CD6J",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 515,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS3B21DJ5RRKMDEHH2",
+      "index": 14.0,
+      "name": "Fuchsia",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASSQ57PQ7BPDXV2MKT",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 530,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS8FYKWNSPPB3R81TM",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 531,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASM99F6RM9QP988DMC",
+      "index": 2.0,
+      "name": "darkest/fuchsia",
+      "parent_index": 530,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASXMW1THVTB9012CPK",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS04A3P33WAXZFER06",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASM3XVKBNCX75DV7C0",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS3AAYZD1EN2GMQHEQ",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASFVBCXH3FWR02Q7WF",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASC9TY6X5J53Z8T3P0",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS94XJZQQBNS6JX6FK",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASWPJXS1YAS52GBNTQ",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASCJYGZXMJEWP3YRVJ",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASVAJ9NEPV8YWBWVS5",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS2KJXTN1VFN3QYY3A",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASK6SV0P27Q2R9K1XY",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASS4AY31MC89SEM3BH",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS6XKEJZ47YTWW5144",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 533,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASXN5X7CKMPRKRG838",
+      "index": 15.0,
+      "name": "Magenta",
+      "parent_index": 315,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASPXPYGCR35K5GP2WJ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 548,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ASJRP7DGNCE7BPGYVJ",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 549,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ASK6JQBPZD4H47A308",
+      "index": 2.0,
+      "name": "darkest/magenta",
+      "parent_index": 548,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AS5BC55ESSV81EEAE8",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS21T5A4PA7ECPHVSQ",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASG2KPDCG6R8BVTR7B",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASNGEHCTJM8S6YGQ9K",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASXBCV15BG300YF6V6",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS46W69HV975JP9J58",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS6FHV5M8J3GFT6DPQ",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AS0BRMMPMAHJN3GC2Q",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASAF78TD7HNF0PP1VZ",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASDQK3T19GWRYP1ZW0",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASY4VV8GZ9N35N5W4P",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASTSZYD8DZ6R7S06CN",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AST4XPY7J6RE12BF0J",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ASBSDY3BTBNV7JGCEH",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYYYW546SP0E4YRCG",
+      "index": 6.0,
+      "name": "Dark Theme",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQV2DRN4NH639WZWAX",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 566,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZJ35MDJ9VPN5XVB5",
+      "index": 2.0,
+      "name": "Gray",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQSKYK79YH294KMXC4",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 568,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQRNENHZZPD9XWBFB0",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 569,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQ9R27A7A65K4C5YBN",
+      "index": 2.0,
+      "name": "dark/gray",
+      "parent_index": 568,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQVSDN4SPH9S02NK2G",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQHFSFM3DBCZV72VA4",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ3W6416XVV1J12YBZ",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQJ7GRW5AYK2GHAFN5",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ8589G5F1QC8XJRE4",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYPE9GYZ9DXKVRRNY",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQGEYVBVQEGDT16PBB",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ6VZGKP1A21BYMZV8",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQA29XXJHKF6YH85CS",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQCHQGWQ7C526NN3Z9",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQJP8W4VE7VR6HFVS3",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 571,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZKZF1D5SJWNJP2X3",
+      "index": 3.0,
+      "name": "Red",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQMMEFMH8TC55PTQKR",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 583,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ3HVK678R8DG6J40V",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 584,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQBRZ6X4XJ1NJYG4SD",
+      "index": 2.0,
+      "name": "dark/red",
+      "parent_index": 583,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ1WPD1YNYXW6G6C6N",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYNGY3JBNNMTGHA0D",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQC77M47G4DC5GHR65",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ7YEFZF7HF70Y4ADF",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQKFB8ZD68B4FBS0KZ",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQWEMN4MZE4JYDA9TA",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQV2MNBDZ6C0GYT032",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ9CJYAZEYWJDA1CKB",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQNJHXRBTX7KS5S8HW",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQBPWTNMKVZ2KA977F",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZSDWTD10CW83MHTF",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTGDA3ARD2VHT2W7J",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTWV7V59WK4E8CFQ1",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTYYKVWTAHKY2K3H0",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 586,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQQGZWXTV7TAT6EGB0",
+      "index": 4.0,
+      "name": "Orange",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQCEG9QRXE2Z39N6C0",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQTN5S6KG33K0GZQTE",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 602,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQ74AMK85HH4ZWGZEB",
+      "index": 2.0,
+      "name": "dark/orange",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQBGPX093049GVRM3D",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ5KVBHVXH98J22SRP",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYRBD935PJMNNSG6S",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ1F92SNBFCFS5XC6B",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQM087QA7E02XJ00R9",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQVSTD6W1KEZT2A6DP",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ5VD429T2JHY6NW8B",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQHEAPA2TC2RAJ5Q2R",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZXPPJ47ZZEKF2KF2",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQX9SBBTA3VFEHJGD3",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQRQ34DBJ08FCPTRQR",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQHRDW5AS9NPFX6YX8",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ0DEAAMZGXFR5V1GS",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQG4R7GS3M5HD2SYSE",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 604,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ11N12Z333JDX34MN",
+      "index": 5.0,
+      "name": "Yellow",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ1P0A6GF7DG5DRD5A",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 619,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQTS3BKEZQF95QMBE4",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 620,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQF3ZWAK11J36DFYD3",
+      "index": 2.0,
+      "name": "dark/yellow",
+      "parent_index": 619,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQMXTN53KMVDDSAZY7",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQHQG8Y5ZVJ7BT3RYR",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ7Q5E9ERNMDCC02J0",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQAZVR5EAZZMPRRSP6",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFRF0W9KJFRRZT1ZD",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQR9ZFG121W43R05CF",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ7TMMS115MBW8DSAW",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQGFX7PVZDP891JMSG",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQRCWRS1MPZ5NVGSKT",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQMDZVR8A30H2TMQ1V",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ0B0DSGWSHWF0JA9T",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQQGW7XMD5WZQG0AVW",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQKQA1663GRD4370S2",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQDJAVBWV8MGTK2NCY",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 622,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQQ6MCBWEER9CTH4XB",
+      "index": 6.0,
+      "name": "Chartreuse",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ1TXJ19WTHE23YXKZ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 637,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ7426FJ1YABJ7VB75",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 638,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQAN6M4J7T3YC23607",
+      "index": 2.0,
+      "name": "dark/chartreuse",
+      "parent_index": 637,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ92SHTAYNCBAD9876",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQE20V8AB7SJJMVQ99",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQW6YVBS9C7CKQDHDS",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ2R9F6A7BBGA8NWFP",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQC0CMSH7XY28GTP8A",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ6XHYVEZCZ9V5ZAZ5",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ25H6XF4F1B4DP49P",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ1HFYSPFDYQVRW1C4",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ9YG37JYYWQ979JZB",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQM725KRCP2N4Q41Q2",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQSH95XA60MX878ENB",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQP8486M87B2FSWY9B",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQAXRQDVKDGTWWTS1N",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFT48J4FFQTQKZC55",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 640,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQPYP7XFYM26Y2NFZQ",
+      "index": 7.0,
+      "name": "Celery",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQGERCK7ZP0JVGCSM6",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQZYK8B3BM1XNDJ0CE",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 656,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQ6X7DM2VB4MJZBX3N",
+      "index": 2.0,
+      "name": "dark/celery",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQMBZMMV9VTYQ5MX4C",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQEV6ZYFKXZ8NSA7P3",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQX90CZSAPM9DHDV84",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQNKR7KY4SGTGWXYPS",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTHNWPZTY49CBAHTG",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZNHQ8VPQ9VX4G6XQ",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQMCXJ6K1YRS55HS3H",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQX60TDEAWKEHQQ0KH",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQQKSP51G2QN3NNHVS",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQDP6D1D5NBEEA8VDD",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ48CF4T79QCDQ59H6",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQGSB5V4B9H34PXJF9",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQPX8MVKPP1VB2NRH1",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ77A10S0SJHYS6C6B",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 658,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQS1Y8PMJQ6772C3VY",
+      "index": 8.0,
+      "name": "Green",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ5JFNMPDA9C2X1MK8",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 673,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQRBB0YNTZ4YJDQRQ1",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 674,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQTWDZ5Z3T0ZGS79JW",
+      "index": 2.0,
+      "name": "dark/green",
+      "parent_index": 673,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQP1NV856AS40XXPVC",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ650GD5R9H7WHF35S",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQX33KM3M0Y8P3M99T",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQP5K7FANRWMTW941Z",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ59S36JR1BDRSQ1X7",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQRG6V0B9YE43VSWR9",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ3HZ3XE8E9GPFZX63",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQCT37WC8Y4GZCA8DR",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQPHQYQ7T24NS1EJYB",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQT3087PJQQ92YXF3D",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQWKYJQ2KCRX878YZQ",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQK2ZSATN0SS3WPC4R",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ654P66S3J2X8QQTW",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQM3NS5QQ4MTM3DJY6",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 676,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQVDY273H61B5CNZQE",
+      "index": 9.0,
+      "name": "Seafoam",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQA187HS8Q4T5MKKAH",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 691,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ5NFMWTYSE4MNKDX7",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 692,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQS386BT3DVRSP0NF6",
+      "index": 2.0,
+      "name": "dark/seafoam",
+      "parent_index": 691,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ5T30MEP5YKHX9QSB",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQNR8MR942HZK3B5T6",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ0ZYXEZ34S4FCFMFC",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ77BNK0Q16JK9401M",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQX1XQVS1W5HSCVXY9",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFB4NQVZ557D82XE3",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ125TNJGE9VPNWXKD",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFG90XYFCP1QCXYVT",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQK6E4VRD9RT02H6WG",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYJMQFAG4RPWAWSWQ",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQR1AMZJKYCE457PM9",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQH9TFA7RK25DC883G",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ72M314BVF5FHHVM6",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR1CGSHPNJCTHQQF8Z",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 694,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS5VMEKA28B1D1WJ0",
+      "index": 10.0,
+      "name": "Cyan",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARZ4M47ES5WH8KTBTE",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 709,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARZEBKMZ48KCVXBXX6",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 710,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AR099BTW7RWPW91Y92",
+      "index": 2.0,
+      "name": "dark/cyan",
+      "parent_index": 709,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARBP1H4D2YR8SED5FV",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARP127W1KT0V43W2ZK",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARZQT9Q2PQD8EH9PYF",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS5R3KKX1ESTRJ0EA",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARR9MJVQ26EC399KC8",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARGEHJS99Q59P4EJTP",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARYHR0GYS38ZVBWHMR",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARKDTTXEXHJDQB9RE3",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARXMMY9VDT63REDAYS",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR358YD51V6YQ9FKVE",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJZB3ZD5TWTXYV481",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARRE2WNTPWD1P6QAMZ",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR7NDB9GC1PNWS2GNB",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR5XDN71WCK8B542SE",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 712,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARNA2W8SMENEC38PW9",
+      "index": 11.0,
+      "name": "Blue",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARK63FSDC04ZKQDASC",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 727,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARSTNTWPH2HNBAKG4M",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 728,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ARK3EC50RBMQ4AFCTW",
+      "index": 2.0,
+      "name": "dark/blue",
+      "parent_index": 727,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARHX4KXF4BTD34RAHA",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARPXZT9SJ5CHCP950J",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARAY73Q9JK8DXYJ8SY",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARG37WKS0F8WKWNBVD",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR7KVKWR89YXQ9497X",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARMZ6ZQR0GVV95ZYY1",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR4MEEJC6N7J3R8W1Y",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARKPPR1ZWATC1JXV2S",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ART9GPY3X4FXSJFW3H",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARGP2E3WJDKKE0KGCF",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR2SGV9CSBN64CDCFN",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARMT0H7Z21F5MP9Q73",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARAF9KTHPW83DCG6V8",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARA4Y1YWNV3KNB524D",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 730,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJPRDR3AQXHCV0H4V",
+      "index": 12.0,
+      "name": "Indigo",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARGGFKY904M35DE07E",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 745,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR4E1SY3DYXX1SE94A",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 746,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ARXCWC84BBVRT9N5Q1",
+      "index": 2.0,
+      "name": "dark/indigo",
+      "parent_index": 745,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARGJMN6X8SSHCZTW9T",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARB0MDWB979ETWTX24",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR2HQMREAQ92E51MAQ",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARGDRAVSCW94ZNQ6MY",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARV7884XQCAE0SC6ST",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARYGBJ2FJ0BPZATX9S",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR6VXMH9P5ZRY1F6GP",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARA5GRFCZ2A8MCKJQJ",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARBRG9VGYAQR7WZ9ZG",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARQ28HCRX1N3W245T0",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARYBG2GWS0P2QV54R5",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARN5MF5TZ4ZKQBWFVP",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARVP3MVWA2NVQ3DRGT",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARX49BHH783JNHVEB5",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 748,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARJSQGXD65JRGAP284",
+      "index": 13.0,
+      "name": "Purple",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR96SJYJB9J9HER8WA",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 763,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARRZ8RV3B8DW7PE2Y3",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 764,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AR8PZ4QB6EDGDHJE0E",
+      "index": 2.0,
+      "name": "dark/purple",
+      "parent_index": 763,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AR795E7GEH4E50JV9M",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARFPZ6RT33W9PFJNME",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARN6C2E7SY712VEBKR",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR47TRQKYRF8R76CQB",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR9AAXP2KB3QD2JPQH",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARN1VQM44ZX7BV84B4",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR1H389TQG4ZN7TYNV",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR41RHRWE1T2KHZNY2",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR2RA20YB7EE8XSGP1",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARCG6TMNFTYZ09FZZV",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR85VA52MXZ1E38MNX",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARA7Y5TB2P922P1BXS",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARCH54BM428GD4JZWX",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR6WQ2VMF56MT408DS",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 766,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARR311JFPBENHXXM4M",
+      "index": 14.0,
+      "name": "Fuchsia",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARHEX18JE347HTV637",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 781,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARC3J2GZJR651QX16Q",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 782,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AR99FVERD7S392GQY7",
+      "index": 2.0,
+      "name": "dark/fuchsia",
+      "parent_index": 781,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARBFHZPYD6A8YXDP3J",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR5NE5HZ3KTBZ6FXC7",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARY8BHHG3QT3KDJ72W",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS8MR8HZ92ZGEVVYQ",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARKF6F8ETNHPAN0025",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARA1ZDG6CEFSGEE3DN",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARM7PW7H5KSTXJ2MT0",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR35F7G3S5JJMSD3ZS",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR9JPTKH9J04NA8BBS",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR5KJZJMX2NEXTSVP4",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS02N8ZGMDQJERST1",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARDQX7YNKAEH9MBM1G",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARBJ4J0JYRSVRDCDAZ",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARGCWE5DM5PT1MFC0G",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 784,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARPQ6JGN82D5NMN6HW",
+      "index": 15.0,
+      "name": "Magenta",
+      "parent_index": 566,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARRNWCJQ0V20WW69AF",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 799,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7ARTATPMXKQ5N1SH4CX",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 800,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7ART0YHB3GR5BP0P2A9",
+      "index": 2.0,
+      "name": "dark/magenta",
+      "parent_index": 799,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AREXKKQ6NPCAZGSA4M",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARZ5ZSZ1KXNAPN1K16",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR44DKQ0PJ445KCYVK",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARS9TPR5W553B03MMR",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR88D78DZKR4JEGT4X",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARVDKW3RQW3ZX31N68",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARPXYJHEBB9C0GPASG",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARP6656905PFKVEBN1",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARNBBQR44HYSJFQJ9K",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR1EV4R63NADM98565",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARH6XYMDFPQ2R674T0",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARTCZ4F6Q6M83TF4KY",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AR6N50RTAB1SNE7ENZ",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7ARVPHD0TZ1V1S35WGZ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 802,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APSQZW03SSNFSZ2K93",
+      "index": 7.0,
+      "name": "Light Theme",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APXSSNRT6XMN9H0PJN",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 817,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP623V4RXCSPSXF94R",
+      "index": 2.0,
+      "name": "Gray",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APMMHHBV1158TYDXTR",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 819,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APCTJ2FQ9ZQ4TMD1ER",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 820,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7APG18MZWDYBZ9NS9H6",
+      "index": 2.0,
+      "name": "light/gray",
+      "parent_index": 819,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APDZPWWEJN48BWYTJF",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APJ88Z17RQSJ1EMNEK",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APBYSZVSWVX40PXR21",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP1BW7D577E5N8FKYF",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APYHRXZNNEFBCG1PGT",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP643HEEXBPJ8JVBFK",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP2EQTG19JB0D8VEVC",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APCFNZZ9W627TR7W7A",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APFXVHJ0WE4QZ3K9K1",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APEE0AXT1TGB0324TD",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP72FEF65ZCYVSEMDK",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 822,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APX4CPCKTJPKMD343R",
+      "index": 3.0,
+      "name": "Red",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP9W7127SRCG1AQ9C8",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 834,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP6J0FXSG7W71EYNCF",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 835,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AP5X1JJJYHR25XPZ5R",
+      "index": 2.0,
+      "name": "light/red",
+      "parent_index": 834,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APEP4BJ7XANB70K209",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP2XQ2V8FYKT3DVP3Y",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTNRP2SHX3JANDXN7",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APXQ17RV345FZT8KBR",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APSP9V4VQ5VW2P3FMQ",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APVSMPYW8THB2JWSNY",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP5FB8RRBKNR9FA90Z",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APEJVS06YBHNBVYGCC",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APV8768FSNFH1TFPR4",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP7NPH8ANC3RKMZRV1",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APE9B6C8V9EH7RQX5Z",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APVP57FXJCN2FREJSH",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APMMR47G622AG6ZYRX",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APZ6Y7K8AGVBNJDKBY",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 837,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP4RWTQXZ6T7QFHX7P",
+      "index": 4.0,
+      "name": "Orange",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APW2PVX4MR2PF389DG",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 852,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP7AXVQM4ZVPZH0XXN",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 853,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7APQKR79R39WEZY3QBB",
+      "index": 2.0,
+      "name": "light/orange",
+      "parent_index": 852,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP5F68BCC3AE13MK9D",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP0PZN97HB00Z2TWQK",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP1D8QQ8KQMJMF0N6D",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APGZPF0PFK8ZH6J1QW",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP1800H0R6ZVBSSD1V",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP9PKXPRFK4E96PWPD",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP8NCRH4T09AGQEB75",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APT082T96R2TH6G99N",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APASWWDC96710X4AM4",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APD54MSWGZMQ1CJE4J",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APH3MCB4NC45N3SW83",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP8ABJRYTD2HKK8CFH",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP40GMY37J5ZQ2PKST",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP8ZCCDCZYFXAH866C",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 855,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APQV6QJNE3YE27B263",
+      "index": 5.0,
+      "name": "Yellow",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APDKAW93REG7A09Y9Y",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 870,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP8WTDG2S6YZ8HFX39",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 871,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AP5YA6GPVCMWPZXJ19",
+      "index": 2.0,
+      "name": "light/yellow",
+      "parent_index": 870,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APQ2A2NYRS7K2NHQQN",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APVQA4CFKFQA6FTTEA",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APMYN43QCHJKC1JKQS",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APR9H7P8G44Q45JG6N",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APJZB1VT6X13WP9645",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APC3DNHDH7X27VK3QY",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APVB5B14XY47HXF37Z",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTGZ7BS7HBJF3J09F",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APFGZCJS6BKTDJF6PF",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APNZ4TGQWH3C09AQXK",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APP1X2XN1ZRM4Q13ZZ",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APB8C8T112G4PKCE2M",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP6MXYN4YZGFAVPPB7",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APHKRG6FVTPYW4JRVR",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 873,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APSY3X2MKZWTY1J24N",
+      "index": 6.0,
+      "name": "Chartreuse",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP89W27441G1VDGPE4",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 888,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APXF9GC49KH6PX8C59",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 889,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7APTXEZZR8T6RZDPH6A",
+      "index": 2.0,
+      "name": "light/chartreuse",
+      "parent_index": 888,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APCN02EZ1S9EPXZNGW",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APDV26YRVEVHQHDVVD",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APQ5J6WHPZBMBY5YWG",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APQTYAXV8EW78GDSFQ",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP1Q9QQ3J4H4ZHN484",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP6QFGG8TE6C4DHMHH",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP4GK7682YGD7RTCTS",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP7ENHAFKTZR2Q4062",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTTTYJBKHJ3MWW85Z",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APFF7FF9GRZCV2YD60",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP92PM1QMCEW6ZK4A7",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APQGX0NBWE6F6HGKCQ",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP8X4HBYPXJ8A3HMXS",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APSV7Q2W6H7QSXM6MW",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 891,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APZASSQ74KSB5N2RCJ",
+      "index": 7.0,
+      "name": "Celery",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APHS29WW9S2NG394ES",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 906,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APSWBZ45RRA3EE6PD7",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 907,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AP8P7TSV407ZFJJPBR",
+      "index": 2.0,
+      "name": "light/celery",
+      "parent_index": 906,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP3JKGQZ207J8C5C85",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APWYWZT11QV4M4VTRA",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP5XWSKKYREEJW525P",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APFS6HR6G3ZEC246S9",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP12JVCFK9VCTBRHV4",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APH3JXAZBYDRZGGMP8",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APNKA97JPS9E851AEG",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APAS2BECQ3QKYGEKQY",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APDKG1E7XMHH853114",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APQ4VPDMCT9H3MHTKA",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APGED6NWEEPK9MGQA5",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APAP7X53M1K3M2C0SW",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APBHFTS9XMB6KJG1SS",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP6GH4NS5ERWQV182G",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 909,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APYH951J83EH8V1R8Z",
+      "index": 8.0,
+      "name": "Green",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP00RBN6CF0QF2V5XB",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 924,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APSM8VB2P4J6XJ8BF8",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 925,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7APXQSZ9VBYQYPB5B2R",
+      "index": 2.0,
+      "name": "light/green",
+      "parent_index": 924,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APJ123VAWYCTB459F1",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTENH3VV6Y65MXKGW",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP877PHAZ3JRHJ0Z9K",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APVJNPDNNX0S4RCDKG",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APJQSRXBKPDAHCEXTM",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APH2M83ENE4031E12N",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP89MKSV7GP2TS3JHH",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APHXSE1PCR65RXKGZC",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APE8W9V62S61SZHYCE",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP5AQB927YQHS305FJ",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP5C2N66BY30YXKKWS",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP1XJ00ERC9GXZKEN9",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTXMSNXRKGYSSX6A6",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APB7XMWQJ6F5GQN8WZ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 927,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTZ1QJR5A67VKRY6A",
+      "index": 9.0,
+      "name": "Seafoam",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP60XTFQD6FEDBJBHC",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 942,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APT89YZD8TM9S6HQJS",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 943,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AP1611VFXW5YQ3EY95",
+      "index": 2.0,
+      "name": "light/seafoam",
+      "parent_index": 942,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APC6902T0HT99TKKG6",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APR7T5X9V08D3ES8AH",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP06KTS5Z9Z74YPTAZ",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APBDPXH3WGVX7GVXQ2",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTANX3J2WMV8HKZE6",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APHST72A1MNY7VHKBT",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APK26MT6591MN86H26",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APF03XKPVA419NCWJZ",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APY4GBKFB3PAEGYQ1G",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APK1RH5VERWYTEGBE8",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTTP8VP6GATQSJVDR",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP9EH0SH723721JE10",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP2R9ZDPQ5AJ7Q2V5X",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APJRYQJ5027RDBSERG",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 945,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP5TMMSQNPT1XCCECH",
+      "index": 10.0,
+      "name": "Cyan",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APV0TXGR12VB1TMHA5",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 960,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APDGPVT6HYR80B78XE",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 961,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7APEE2C460MN8WHTCPD",
+      "index": 2.0,
+      "name": "light/cyan",
+      "parent_index": 960,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APBPQ84B3YY5ZXE4B9",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APME3JP4AGK05CVYEP",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP4FMTZ4PJSG7ARB3B",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APSB7QVZBEHM207YRZ",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APDV39F172TG43NPWD",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APTANV6JRW6X91JZ8F",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP03B4WNY7D55T7FC0",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APG0HTQ4FKX3XG0XQC",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AP0YVHDERTCTKPJR4F",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APV6P8JN0EPD95QS45",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APDETC755TKX299RRG",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APAFWD0XPS3VAS808G",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APSPAKV53PZ7G4ZYF4",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APAT0R1BKMJNE2D636",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 963,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7APPQCPQRBWRCYESHAJ",
+      "index": 11.0,
+      "name": "Blue",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7APHX60XVS55WA47F5X",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 978,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AP2187GYAB2S831HHP",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 979,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQW2QPC7JJNK7SDQ29",
+      "index": 2.0,
+      "name": "light/blue",
+      "parent_index": 978,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQKADBKWNEGHG5QYK3",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQT0QQX80QTHZNHR31",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQT6Z80SNEB9ANKEEC",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQGSRKQG0K90EEK5KV",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQQBS7XRH7V1725FGN",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQE9QCBW8T5EH4XXDX",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTSJ6ZVP693B8F8E0",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYQGKSPX89CJE17RK",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQGNVHN90WCTSG497R",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQF9MHT4HEB6HMYEF6",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQRQ9TA3P37MQEMR1X",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ2M3H9C1BNQY1MB6C",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQDCFV0GFB9C277GDC",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQKRVWDR0RRW34D3XD",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 981,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQXQMATQYG0J7ZJTMM",
+      "index": 12.0,
+      "name": "Indigo",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQW0PCRM74EG6HTB6S",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 996,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ75N64VMF5FEXG7S2",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 997,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQW80KVGBMXYVB91CQ",
+      "index": 2.0,
+      "name": "light/indigo",
+      "parent_index": 996,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ5PEA83W7YD09N9EJ",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ6B1YQS73NJYZSG2F",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZ8EDKYQAFE9ZRZHS",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZE27M5SW2081BPV1",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ511FYXBNKQMHYPZX",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQGGFNNYTA18ZMWFG7",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFRDGZ36W78Y9DWKA",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ055DNZQWBHJESMKF",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQEN82V5NY8BTA288B",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQC971WVB49EJ3CT3W",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQX9CF53VM2QX1G8FF",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ0W4WEH8BM8F56ZM1",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQF7S94RWHZ8WQTABC",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQH7QGB6QM90ZZHKCE",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 999,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTVCJCF8WS09AGGSH",
+      "index": 13.0,
+      "name": "Purple",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQQ6EFP0XT0HF266QW",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 1014,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQN428X0DV4V36MRFC",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 1015,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQ2AH0DVPE36GVKX9T",
+      "index": 2.0,
+      "name": "light/purple",
+      "parent_index": 1014,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQ3B5QE9DS0V3YA305",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQT6GKY9K5SDW09VCD",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ6PJ9SJEG3C71JPX5",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ7TZBE9CF0XPKPZ5A",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQHS2NFFF45BCXE1PB",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ663HJN8ZS5VP040G",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQBZHG7SPP2A8AFXHH",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ1BZEMWN3VP2HD1NP",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQWS71VV386YCBYNDS",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ642RDFHYR89Q2AJK",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ1RH38X25V27VRJD4",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFCNCCA7BSTV3KRZ6",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFXYHTD19JCNGG39N",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ2C65B2T9MH78V3AQ",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 1017,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQE5XYE7360RBWMF1Y",
+      "index": 14.0,
+      "name": "Fuchsia",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQKA64BD655K5BHK9X",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 1032,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQMCRNG5PWB5J5X380",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 1033,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQ85N8F7CGVS8DNHVK",
+      "index": 2.0,
+      "name": "light/fuchsia",
+      "parent_index": 1032,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQWED2G3K8ST1Q1NQQ",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQMAW70CABFF2RNHBS",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQJS2769YHHWN3KJ65",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQC4KW8P3QAAJMQQ1Q",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQJHMSGNWMZWA4RVEJ",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQP004186ZP176T2BQ",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZ5H6JSVZ35PV88M2",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQNVFZY1G0F5DMS8XJ",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQFQP0B54A42TV9GXF",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ1764BJHVHZY0HVGH",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ6VW0WMS1B4F6X2H8",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQPSR95J2FSX52MZ8V",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQA9R78ZW9500MKT8T",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ80AJBAWHA3ZAGM0F",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 1035,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQBRR1ARNP87F8RXAF",
+      "index": 15.0,
+      "name": "Magenta",
+      "parent_index": 817,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQSJ3H35QQNM35RN8P",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 1050,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQGAPZEQR909BKPT84",
+      "index": 1.0,
+      "name": "Color Title",
+      "parent_index": 1051,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AQKZFQBM3V7YJAGYWK",
+      "index": 2.0,
+      "name": "light/magenta",
+      "parent_index": 1050,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AQZSBBVSR2E184WFH8",
+      "index": 1.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQV9ENA2VEPTKBD4GK",
+      "index": 2.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQR63WPPDE7YDCQ5GP",
+      "index": 3.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ7YWK82K6N9S0JFGQ",
+      "index": 4.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQT48A6JCCAH6Q9QRV",
+      "index": 5.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZZ70MSC2F9E1WS62",
+      "index": 6.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQTDT4K1SNJA5VER7B",
+      "index": 7.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQ2M1B2RK39EVKWRM6",
+      "index": 8.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQRXQ3VFDJ7M754HPY",
+      "index": 9.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQNCBMYVPD24Q6RBGW",
+      "index": 10.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQDFR7T3K866DDNWKS",
+      "index": 11.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQYGX4KDD04M0XF2NB",
+      "index": 12.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQZ892VCRQZSKZKW6A",
+      "index": 13.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AQWG27FHA35EKZ77B9",
+      "index": 14.0,
+      "name": "_Color Style",
+      "parent_index": 1053,
+      "tag": "Instance"
+    }
+  ]
+}

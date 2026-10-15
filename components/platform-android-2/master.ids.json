@@ -1,0 +1,67 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77M03B6W53HBR74QQ63",
+      "index": 2.0,
+      "name": "Platform=Android",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77M4QXZPW4V5BQGC0NJ",
+      "index": 1.0,
+      "name": "Tabs",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77M738R8BHFD258K18W",
+      "index": 1.0,
+      "name": "Tab 1",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MGKKKFG9HK359BAKQ",
+      "index": 2.0,
+      "name": "Tab 2",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MNAPFBFPXVXJGZK66",
+      "index": 3.0,
+      "name": "Tab 3",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MJM2WJCRWKC9S55T1",
+      "index": 4.0,
+      "name": "Tab 4",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MZHMJT9C59HW9ZAW4",
+      "index": 5.0,
+      "name": "Tab 5",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77MEAD6WPBYQQ0W7RZ3",
+      "index": 2.0,
+      "name": "Home Indicator",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77MHD7D7JQAKZKJFC72",
+      "index": 1.0,
+      "name": "Home Indicator",
+      "parent_index": 7,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T77M87XSJT66D0WHGJBD"
+}

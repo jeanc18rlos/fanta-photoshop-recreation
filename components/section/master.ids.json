@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70HADYZ7YE6FS1YHJCH",
+      "index": 2.0,
+      "name": "_Section",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70HKA6ZSRTKK3057RJC",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70HMKBZGXCXGX1DEWBH",
+      "index": 1.0,
+      "name": "Section",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T70HH6CJ3B3ANRM5DFA8",
+      "index": 2.0,
+      "name": "Divider",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T70JV2SXXJAP247TB3N8"
+}

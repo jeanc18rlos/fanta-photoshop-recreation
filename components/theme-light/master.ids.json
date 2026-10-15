@@ -1,0 +1,151 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70JS4PVFH9MS6AXRMN3",
+      "index": 1.0,
+      "name": "Theme=Light",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70JD05E6249GDK0Q9FH",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JCC83ZB329NX54D3P",
+      "index": 2.0,
+      "name": "Image",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70J9Y0E9AXPD5X8WWS8",
+      "index": 3.0,
+      "name": "Links",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70JSMEZA2SMVGT13JF1",
+      "index": 1.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JS14C18V8SQ36FE49",
+      "index": 2.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71437G7ZMGKDWNKE38X",
+      "index": 3.0,
+      "name": "Web Components Link",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7143FS03SSXSP3F9Y06",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7145TG9RQV32KHRWHF6",
+      "index": 1.0,
+      "name": "GlobeGrid",
+      "parent_index": 7,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7144TVEGPGSP5MNMNJ9",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 8,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7145H76T2D0S0TEXTSS",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 6,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7141KZQ4DN0AHPZR0NT",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 10,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T714B7ZKQZQXN6KPG2QN",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 10,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T70J759MVXSG925JM0GH",
+      "index": 4.0,
+      "name": "React Spectrum Link",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JNWSQ1K4SWMX3T7R7",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70J0A91M5BCC9NEM47F",
+      "index": 5.0,
+      "name": "Columns",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70JAAXWGAG5P0Y6AGX8",
+      "index": 1.0,
+      "name": "_Cell",
+      "parent_index": 15,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JGYX1EWM2BGYF9DJ8",
+      "index": 2.0,
+      "name": "_Cell",
+      "parent_index": 15,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JCECY3847NXJGKVXR",
+      "index": 3.0,
+      "name": "_Cell",
+      "parent_index": 15,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JZJNZQQ2SFZEQSNS9",
+      "index": 4.0,
+      "name": "_Cell",
+      "parent_index": 15,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70JDZF056A05AACFCND",
+      "index": 5.0,
+      "name": "_Cell",
+      "parent_index": 15,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T70JK2FZE18WG9CZVDX8"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7737D47GBRDS9EYE9WH",
+      "index": 7.0,
+      "name": "Option=Breadcrumb Item, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T773WWN9NZAQAWTF9BYX",
+      "index": 1.0,
+      "name": "Breadcrumb Item",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T773YZWPFC2M9PR7A0KN"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T727Q4TTP64DWGFFPYME",
+      "index": 139.0,
+      "name": "Status / Color=Magenta, State=Disabled, Label ?=False, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T727CSGWKTWQ33BT66RG",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T725ECCV005PKYH497FS"
+}

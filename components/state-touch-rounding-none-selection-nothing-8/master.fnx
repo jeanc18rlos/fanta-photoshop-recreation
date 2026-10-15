@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Touch__Rounding_None__Selection_Nothing() {
+  return (
+    <Frame background={{"color": fnxColor("#FDFDFE"), "kind": "solid"}} blend_mode="normal" clip_size={[40.0, 40.0]} id="01M4V5T76C5VVQT97S07AP1H7E" meta={{"figma_id": "271:37447", "figma_type": "SYMBOL"}} name="State=Touch, Rounding=None, Selection=Nothing" opacity={1.0} scrollable={false} x={232.0} y={416.0}>
+      <Rect blend_mode="normal" height={40.0} id="01M4V5T76C3WMAHZ0YXQEDHSZX" local_size={[40.0, 40.0]} meta={{"figma_id": "271:37448", "figma_type": "ROUNDED_RECTANGLE"}} name="Outer Border" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#98B0E2"), "kind": "solid"}, "width": 1.0}]} width={40.0} x={0.0} y={0.0} />
+      <Vector blend_mode="normal" fills={[{"color": fnxColor("#9AB1E3"), "kind": "solid"}]} id="01M4V5T76C1RQV1Z3F085VHAM8" local_size={[40.0, 40.0]} meta={{"figma_id": "271:37449", "figma_type": "VECTOR", "geometry": "decoded", "stroke_only_outline": false}} name="Stroke" opacity={1.0} path={{"segments": [{"op": "move", "to": [40.0, 0.0]}, {"op": "line", "to": [36.25, 0.0]}, {"op": "line", "to": [0.0, 36.25]}, {"op": "line", "to": [0.0, 40.0]}, {"op": "line", "to": [3.75, 40.0]}, {"op": "line", "to": [40.0, 3.75]}, {"op": "line", "to": [40.0, 0.0]}, {"op": "close"}]}} x={0.0} y={0.0} />
+    </Frame>
+  );
+}

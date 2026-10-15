@@ -1,0 +1,18 @@
+{
+  "id": "01M4V5T7GQQW8V27EWBYCAD2B0",
+  "name": "_Section",
+  "props": [
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GQ5EJKXA5ZRFA1YX94",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Section"
+    }
+  ],
+  "root": "01M4V5T70HADYZ7YE6FS1YHJCH"
+}

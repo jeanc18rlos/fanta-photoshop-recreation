@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72069PQ45VR9FG7W25J",
+      "index": 15.0,
+      "name": "Status / Color=Seafoam, State=Hover, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72004S9N7TV9PYAXYBN",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7208W1CC8CWCGHF1D0H"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70F2N5QZ8MWAHRWFC5Y",
+      "index": 43.0,
+      "name": "Checkmark500",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70CCARC1ZQ7AKWCKCX0",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYC5DTPSB802D7RXHY"
+}

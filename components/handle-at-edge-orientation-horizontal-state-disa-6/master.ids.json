@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T716JYMPCGZ1JA5RF5VS",
+      "index": 10.0,
+      "name": "Handle=At Edge, Orientation=Horizontal, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71643TG3EWAKBPVK01R",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T716MZY6ZYN334BDZM34"
+}

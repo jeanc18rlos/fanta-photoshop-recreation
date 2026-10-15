@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Unselected() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 16.0, 0.0, 16.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[59.0, 39.0]} id="01M4V5T71SC6WQK3K858WMSED9" meta={{"figma_id": "106:25818", "figma_type": "SYMBOL"}} name="State=Unselected" opacity={1.0} scrollable={false} x={24.0} y={34.0}>
+      <Frame background={{"color": fnxColor("#262626"), "kind": "solid"}} blend_mode="normal" clip_size={[18.0, 18.0]} corner_radius={2.0} id="01M4V5T71S1P5MF7MN777E9RPA" meta={{"clip_content": false, "figma_id": "106:25819", "figma_type": "FRAME"}} name="Unselected Checkbox" opacity={1.0} scroll_direction="none" scrollable={true} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#D1D1D1"), "kind": "solid"}, "width": 2.0}]} x={20.5} y={10.5} />
+    </Frame>
+  );
+}

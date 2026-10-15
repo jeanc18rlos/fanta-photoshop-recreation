@@ -1,0 +1,15 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Scroll_Zoom_Bar___Desktop___Wireframe() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "start", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 100.0, 0.0, 100.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[341.0, 12.0]} id="01M4V5T77KCM71SA98Y4M24AH7" meta={{"clip_content": false, "figma_id": "314:39949", "figma_type": "SYMBOL"}} name="Scroll-Zoom Bar - Desktop - Wireframe" opacity={1.0} scrollable={false} x={96.0} y={867.0}>
+      <Rect blend_mode="normal" fills={[{"color": fnxColor("#E6ECF8"), "kind": "solid"}]} height={12.0} id="01M4V5T77KEKSTNPGDW5NJARAC" layout_child={{"absolute": true}} local_size={[341.0, 12.0]} meta={{"figma_id": "313:39997", "figma_type": "ROUNDED_RECTANGLE"}} name="Track" opacity={1.0} width={341.0} x={0.0} y={0.0} />
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "space_evenly", "primary_sizing": "fixed", "reverse_z": false, "spacing": 54.0, "wrap": false}} background={{"color": fnxColor("#B7C8EB"), "kind": "solid"}} blend_mode="normal" clip_size={[141.0, 12.0]} corner_radius={50.0} id="01M4V5T77KTQW9Q822ETFSRF3C" layout_child={{"align_self": "stretch"}} meta={{"clip_content": false, "figma_id": "313:39998", "figma_type": "FRAME"}} name="Scroll Bar" opacity={1.0} scroll_direction="none" scrollable={true} x={100.0} y={0.0}>
+        <Instance blend_mode="normal" component="01M4V5T7GVBT83DM94EQV9B71N" id="01M4V5T77KN5WRSSA2DXSD9DD9" local_size={[12.0, 12.0]} meta={{"figma_id": "313:39999", "figma_type": "INSTANCE"}} name="Left Handle" opacity={1.0} x={0.0} y={0.0} />
+        <Instance blend_mode="normal" component="01M4V5T7GVBT83DM94EQV9B71N" id="01M4V5T77KAF284CH47SEK1KE4" local_size={[12.0, 12.0]} meta={{"figma_id": "313:40000", "figma_type": "INSTANCE"}} name="Right Handle" opacity={1.0} x={129.0} y={0.0} />
+      </Frame>
+    </Frame>
+  );
+}

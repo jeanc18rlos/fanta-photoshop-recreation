@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72XCTY05CCC3S8JB5D9",
+      "index": 8.0,
+      "name": "Status / Color=Celery",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72XVZDCPF2W6RKKTCM7",
+      "index": 1.0,
+      "name": "Dot",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72XWTMM6XVMXAR9FQ0S",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T72X6TZAPYA4RSQEF1D0"
+}

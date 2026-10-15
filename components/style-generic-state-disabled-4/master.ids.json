@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T772G4RTEG3898RCPCWG",
+      "index": 5.0,
+      "name": "Style=Generic, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T772Z8072DWHE6YGRVX7",
+      "index": 1.0,
+      "name": "Shape",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T772JM1T254FXZ500EKY",
+      "index": 2.0,
+      "name": "Overlay",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7728RA3AP9D6TT0SJE5"
+}

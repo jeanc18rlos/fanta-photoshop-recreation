@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T74BE6VNQJ0ZS9FWGG2M",
+      "index": 38.0,
+      "name": "Selection=Indeterminate, Style=Emphasized, State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74BBE1326140CKHKNHR",
+      "index": 1.0,
+      "name": "Checkbox Selected",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T74BKV3SFEP91HCQAR6D",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T74B28YQRC6MQ5YMDW0K",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T74ATD8RNY4KWJDRB000"
+}

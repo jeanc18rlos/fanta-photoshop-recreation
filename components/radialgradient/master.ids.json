@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70F0AT6MSJVWWR45MKT",
+      "index": 616.0,
+      "name": "RadialGradient",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T704Y8BAF2TZ6Q3M9B78",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T704GFYM01DQF5H0VHXP",
+      "index": 2.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T704DD7DZ0BXA34SRGNW",
+      "index": 3.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7046AD0HCJR7YDPZGSB",
+      "index": 4.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T70427ZMVXAJZ76P2FBS",
+      "index": 5.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T704FDH94FMAZ0MMCS1S",
+      "index": 6.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T704MD0QX72JBT0NRKWZ",
+      "index": 7.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T704AHFFZACJE1DPT4A7",
+      "index": 8.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T7048N0M4SR1SXC5QF6F",
+      "index": 9.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

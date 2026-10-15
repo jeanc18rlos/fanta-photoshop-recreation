@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70D51E6NHC6RYJJ88RG",
+      "index": 777.0,
+      "name": "TestABRemove",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T705ZT4BVKXZ048BGM7G",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

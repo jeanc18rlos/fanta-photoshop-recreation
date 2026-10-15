@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70HGA73HSA5SVK10NWR",
+      "index": 4.0,
+      "name": "_Link Card",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70HG2QP2ASTBY1HJ405",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T70H7D5HZJZR186K2GJ6",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T70H5HA0E4TP4SPTWEC8",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T70HPQN0ZR3NHHD510YW",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 2,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T70JV2SXXJAP247TB3N8"
+}

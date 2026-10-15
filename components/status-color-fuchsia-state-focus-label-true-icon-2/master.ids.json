@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T723TDQ7XEWZKPFSBP6M",
+      "index": 48.0,
+      "name": "Status / Color=Fuchsia, State=Focus, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T723B6GYQ2DGTW8QSCCK",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T723A4W5WEHNTPFG9FYQ",
+      "index": 2.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7232AW0BE8EAWBJFVPK"
+}

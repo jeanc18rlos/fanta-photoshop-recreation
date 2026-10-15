@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76CZDJ4JVBSNVF6BF4J",
+      "index": 21.0,
+      "name": "State=Disabled, Rounding=Full, Selection=None",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76CNQT14NNH3X9A4TX5",
+      "index": 1.0,
+      "name": "Cancel",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T76CPQ90ZXRAHGBP54WR"
+}

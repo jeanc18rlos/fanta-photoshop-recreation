@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function _Header() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "start", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#FFFFFF"), "kind": "solid"}} blend_mode="normal" clip_size={[950.0, 92.0]} id="01M4V5T70HB8QQ2YC64J5HXFB7" layout_child={{"align_self": "stretch"}} meta={{"clip_content": false, "figma_id": "47:17203", "figma_type": "SYMBOL"}} name="_Header" opacity={1.0} scrollable={false} x={96.0} y={96.0}>
+      <Text align="left" auto_resize="height" blend_mode="normal" content="Title" id="01M4V5T70HZ2X0BHK6NAF75V5Y" layout_child={{"align_self": "stretch"}} local_size={[950.0, 56.0]} meta={{"figma_id": "47:17201", "figma_type": "TEXT"}} name="Title" opacity={1.0} style={{"color": fnxColor("#000000"), "font_family": "Source Serif Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 45.0, "weight": 700}} vertical_align="center" x={0.0} y={0.0} />
+      <Text align="left" auto_resize="height" blend_mode="normal" content="Description" id="01M4V5T70HCESAJF07GXC0EA5C" layout_child={{"align_self": "stretch"}} local_size={[950.0, 28.0]} meta={{"figma_id": "47:17202", "figma_type": "TEXT"}} name="Description" opacity={1.0} style={{"color": fnxColor("#222222"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.399999976158142, "size_px": 20.0, "weight": 400}} vertical_align="center" x={0.0} y={64.0} />
+    </Frame>
+  );
+}

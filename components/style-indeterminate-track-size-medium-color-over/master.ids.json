@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T72VQ9NERKCZCGNHRZMP",
+      "index": 10.0,
+      "name": "Style=Indeterminate, Track Size=Medium, Color=Over Background",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72VZ1TXSYBJKD8YMPYX",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T72VTP8ZKMCPCQE9WRF4",
+      "index": 2.0,
+      "name": "Fill",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T72VW3DPQR26YRT422JJ"
+}

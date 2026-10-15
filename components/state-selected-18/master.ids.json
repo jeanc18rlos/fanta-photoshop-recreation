@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71NRZZCTSV8KEMW7SN8",
+      "index": 3.0,
+      "name": "State=Selected",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71N18T7Q7BZ9PG5Q8Z8",
+      "index": 1.0,
+      "name": "Selected Checkbox",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71N471NQ0EPV84EXT0B",
+      "index": 1.0,
+      "name": "Shape",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71NMK41W63V3TFAJ5WV"
+}

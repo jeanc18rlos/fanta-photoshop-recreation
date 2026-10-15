@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T721SD1TSXZW6T3MDQMN",
+      "index": 93.0,
+      "name": "Status / Color=Negative, State=Focus, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7214RV9FNEYW0WAJWDG",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T721KJAN90MEWNEN4NKZ",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T721GBT3JP367M89BC0D",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7208W1CC8CWCGHF1D0H"
+}

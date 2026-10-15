@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71PBXR3JXBT93KB6KVN",
+      "index": 1.0,
+      "name": "Style=Standard",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71PYT1AMNC8H6D7PE9M",
+      "index": 1.0,
+      "name": "_Table - Header - Mobile - Light",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71P28Z9Q9259T8F213M",
+      "index": 2.0,
+      "name": "Rows",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71PWE51VHQW2VN6THYJ",
+      "index": 1.0,
+      "name": "_Table - Row Item - Mobile - Light",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71P3F9RS0Q45Q389HJV",
+      "index": 2.0,
+      "name": "_Table - Row Item - Mobile - Light",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71P4P9VQXKTFQ6HFV05",
+      "index": 3.0,
+      "name": "_Table - Row Item - Mobile - Light",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PAN4J1T0XF15BZNJG",
+      "index": 4.0,
+      "name": "_Table - Row Item - Mobile - Light",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PJ7AN18XCP768Z43V",
+      "index": 5.0,
+      "name": "_Table - Row Item - Mobile - Light",
+      "parent_index": 2,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71P98M4F0C79ARTN3KR"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T773SEJ82N0XXZ1N5CMM",
+      "index": 2.0,
+      "name": "Option=Truncation Folder, State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T773JXK7CC5G9DVFDMBC",
+      "index": 1.0,
+      "name": "Subtraction 1",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T773YZWPFC2M9PR7A0KN"
+}

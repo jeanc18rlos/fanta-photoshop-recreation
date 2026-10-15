@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Pressed() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [12.0, 11.0, 15.0, 11.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#E6ECF8"), "kind": "solid"}} blend_mode="normal" clip_size={[68.0, 40.0]} corner_radius={5.0} id="01M4V5T78FFCZVJP6N8DED1DE9" meta={{"figma_id": "362:42237", "figma_type": "SYMBOL"}} name="State=Pressed" opacity={1.0} scrollable={false} x={208.0} y={24.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Action" id="01M4V5T78FG304M60H0RN688CE" local_size={[46.0, 21.0]} meta={{"figma_id": "362:42238", "figma_type": "TEXT"}} name="Text" opacity={1.0} style={{"color": fnxColor("#486EC2"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={11.0} y={8.0} />
+    </Frame>
+  );
+}

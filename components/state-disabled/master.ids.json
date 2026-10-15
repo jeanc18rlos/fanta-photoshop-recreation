@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T711GV7JNVP5QPZ0K5K3",
+      "index": 5.0,
+      "name": "State=Disabled",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T711DN0WBRGWNMXY002T",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T711B1FBCMABWZ10TA7Q",
+      "index": 2.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T711FXQYRXV1AH9EJC8H"
+}

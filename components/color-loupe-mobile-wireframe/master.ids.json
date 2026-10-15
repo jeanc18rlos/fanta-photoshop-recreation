@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71M76YXVH99SS0S7G8F",
+      "index": 1.0,
+      "name": "Color Loupe - Mobile - Wireframe",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71MWQMBXQ3GJ4SCC364",
+      "index": 1.0,
+      "name": "Color Loupe",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71MANXSTTTNSSHFXC3K"
+}

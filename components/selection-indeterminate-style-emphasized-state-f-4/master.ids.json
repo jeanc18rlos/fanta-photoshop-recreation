@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T745KZVE5K81K8TKX9N5",
+      "index": 32.0,
+      "name": "Selection=Indeterminate, Style=Emphasized, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T745R9DA2JE612M5CTVM",
+      "index": 1.0,
+      "name": "Checkbox Selected",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T745GAH116HVV6WK1M6N",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T745V4S5A2S57BC4FADF",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7459ETPJ96R01YCEYK4",
+      "index": 3.0,
+      "name": "Focus Ring",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T744SM44KTTZ0P5TFB91"
+}

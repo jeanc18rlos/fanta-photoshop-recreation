@@ -1,0 +1,12 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Status___Color_Indigo() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [18.0, 14.0, 20.0, 14.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 12.0, "wrap": false}} blend_mode="normal" clip_size={[89.0, 59.0]} id="01M4V5T72XABW0W5YSK09JHA5F" meta={{"clip_content": false, "figma_id": "140:21365", "figma_type": "SYMBOL"}} name="Status / Color=Indigo" opacity={1.0} scrollable={false} x={185.0} y={522.0}>
+      <Ellipse blend_mode="normal" fills={[{"color": fnxColor("#686DF4"), "kind": "solid"}]} height={10.0} id="01M4V5T72X6JS3D163EXYM6HZ3" local_size={[10.0, 10.0]} meta={{"figma_id": "139:23466", "figma_type": "ELLIPSE"}} name="Dot" opacity={1.0} width={10.0} x={14.0} y={23.5} />
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T72XV43DMX205S0CM9G0" local_size={[39.0, 21.0]} meta={{"figma_id": "139:23467", "figma_type": "TEXT"}} name="Text" opacity={1.0} style={{"color": fnxColor("#222222"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={36.0} y={18.0} />
+    </Frame>
+  );
+}

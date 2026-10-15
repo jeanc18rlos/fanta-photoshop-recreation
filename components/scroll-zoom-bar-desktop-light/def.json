@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GVMEREP3B57CTNQXXH",
+  "name": "Scroll-Zoom Bar - Desktop - Light",
+  "props": [
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVMMNF21H7M1TT7G7M",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Handles ?"
+    },
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVHAX34QBGGMKAFC99",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Track ?"
+    }
+  ],
+  "root": "01M4V5T77KVMV4NMAMAX4EF8TT"
+}

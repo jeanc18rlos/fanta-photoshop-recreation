@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Hover() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 16.0, 0.0, 16.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#486EC20F"), "kind": "solid"}} blend_mode="normal" clip_size={[48.0, 48.0]} id="01M4V5T71RC38ND25FXERNGBP7" meta={{"figma_id": "106:18973", "figma_type": "SYMBOL"}} name="State=Hover" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#D2DCF3"), "kind": "solid"}, "per_side": [0.0, 0.0, 1.0, 0.0], "width": 1.0}]} x={96.0} y={24.0}>
+      <Frame background={{"color": fnxColor("#FDFDFE"), "kind": "solid"}} blend_mode="normal" clip_size={[14.0, 14.0]} corner_radius={2.0} id="01M4V5T71R14T9D77B5ZDSYJX7" meta={{"clip_content": false, "figma_id": "106:18974", "figma_type": "FRAME"}} name="Unselected Checkbox" opacity={1.0} scroll_direction="none" scrollable={true} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#496EC2"), "kind": "solid"}, "width": 2.0}]} x={17.0} y={17.0} />
+    </Frame>
+  );
+}

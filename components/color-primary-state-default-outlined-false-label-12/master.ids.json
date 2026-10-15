@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T718N448XVVQJV836810",
+      "index": 3.0,
+      "name": "Color=Primary, State=Default, Outlined=False, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYAZX234PP54FGQSKE",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYVQGSH910SBGEBNEQ",
+      "index": 1.0,
+      "name": "Share",
+      "parent_index": 1,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T718MF6EM9V62DNZCVYQ",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T71827DCHJEZY0KPFFYG"
+}

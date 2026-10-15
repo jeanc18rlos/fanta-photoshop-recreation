@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T719K8D6KQS7NBX6W38C",
+      "index": 67.0,
+      "name": "Color=Accent, State=Default, Outlined=True, Label ?=True, Icon ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T719XWQZFEP7Z5SVQ4FF",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T71827DCHJEZY0KPFFYG"
+}

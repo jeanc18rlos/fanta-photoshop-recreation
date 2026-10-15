@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T773Q3J5HEFYWPKSHJ71",
+      "index": 5.0,
+      "name": "Option=Truncation Folder, State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T773DZJTXZ9PY37VCHRK",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T773Y6N8W0ECSVQQMM4V"
+}

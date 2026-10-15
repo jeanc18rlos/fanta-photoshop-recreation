@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T728PZZPV7W91WHTAJJ7",
+      "index": 69.0,
+      "name": "Status / Color=Magenta, State=Hover, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T728424RCT64SQ56ACN3",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7288DVNSMM6T3RR4W7Q",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T728MGC1Z9GTNMETE1EA"
+}

@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77EQ0Z7VV41F6PKDPKS",
+      "index": 1.0,
+      "name": "Orientation=Horizonal",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77E9HWY1MM8VV23EF40",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77ECETMCPREEVMJYCVY",
+      "index": 2.0,
+      "name": "Tab 1",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77E8NKW774HYE5ZJ4ZF",
+      "index": 3.0,
+      "name": "Tab 2",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77EP66HQK3MD4NWMQ1G",
+      "index": 4.0,
+      "name": "Tab 3",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T77E3XGD6J0FQNW5560V"
+}

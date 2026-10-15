@@ -1,0 +1,3 @@
+# Generated Fanta design source: the engine printer is its canonical
+# formatter; reformatting it fights the surgical source patcher.
+*.fnx

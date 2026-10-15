@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T730Z5DZWM0HT6STP9NF",
+      "index": 3.0,
+      "name": "Card Type=Learn",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7305H2EGR00QE8KPRD8",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T730QMAZ66CZRZ9037BB",
+      "index": 1.0,
+      "name": "Overline",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T730V0GGSS2M9NTA5EY4",
+      "index": 2.0,
+      "name": "Title",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7300QWAG280R2GFX22F",
+      "index": 2.0,
+      "name": "Status",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7309GEGRDDBAQRNTP3R",
+      "index": 1.0,
+      "name": "Checkmark",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T730MZF638GEKS7G66JV",
+      "index": 1.0,
+      "name": "Checkmark50",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T730KE55ARXQ08DZ018H",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 4,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73006Z9FSTSHEVFJE3T"
+}

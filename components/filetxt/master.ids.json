@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70FFETCWX1P94S4CFA4",
+      "index": 314.0,
+      "name": "FileTxt",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72B3B8BW39PE6C30MGV",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

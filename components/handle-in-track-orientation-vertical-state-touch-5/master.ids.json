@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T716XBGJEZ8MPP1VMAJY",
+      "index": 12.0,
+      "name": "Handle=In Track, Orientation=Vertical, State=Touch",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71667BXBFPCJ8D0NHA3",
+      "index": 1.0,
+      "name": "Handle",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T716KZ9QB3ZDX4ZT6QFA",
+      "index": 1.0,
+      "name": "Handle Fill",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T716QKGPW46BKQDR4QCE",
+      "index": 2.0,
+      "name": "Handle Border",
+      "parent_index": 1,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T716MZY6ZYN334BDZM34"
+}

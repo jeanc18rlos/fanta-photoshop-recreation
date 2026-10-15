@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T727KKXDFVJGTNQDCGFC",
+      "index": 9.0,
+      "name": "State=Disabled, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T727VK9FRSVJSAJ53WH5",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T727ERA81K9TE92EM8WV",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T7271MRP8KMHNJ7XW02B"
+}

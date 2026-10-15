@@ -1,0 +1,74 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T782AEEYHRQYZVZNF6W3",
+      "index": 4.0,
+      "name": "Style=Negative, Overflow ?=False",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T782XHGH47JEQ6WSYMN1",
+      "index": 1.0,
+      "name": "Leading Components",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T782WHW3ZJGF2VA2C8R3",
+      "index": 1.0,
+      "name": "Icon Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78283EFA6TVG4G1AZA4",
+      "index": 1.0,
+      "name": "Alert",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T78297WP0S0K7MCTMVNW",
+      "index": 2.0,
+      "name": "Text",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T782ZNRVC9X803CMWCK5",
+      "index": 2.0,
+      "name": "Trailing Components",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T782J3FM5J5G9EFQFTMA",
+      "index": 1.0,
+      "name": "Button",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T782W4TTBA5XB7JCQT9Y",
+      "index": 2.0,
+      "name": "Divider",
+      "parent_index": 5,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T782GP895ZMZA6PAQM1Y",
+      "index": 3.0,
+      "name": "Close Button",
+      "parent_index": 5,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T782WD8X6MA6XAMS7W9M",
+      "index": 1.0,
+      "name": "Cross300",
+      "parent_index": 8,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T782VXD2G405D150BFBK"
+}

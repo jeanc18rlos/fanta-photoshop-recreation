@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Option_Breadcrumb_Title__State_Default() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 8.0, 2.0, 8.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[136.0, 32.0]} id="01M4V5T773ZERY3DSCYV133GHW" meta={{"clip_content": false, "figma_id": "300:37823", "figma_type": "SYMBOL"}} name="Option=Breadcrumb Title, State=Default" opacity={1.0} scrollable={false} x={48.0} y={208.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Breadcrumb Title" id="01M4V5T773C10RXFVQSADJNASQ" local_size={[120.0, 20.0]} meta={{"figma_id": "300:37824", "figma_type": "TEXT"}} name="Breadcrumb Title" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 16.0, "weight": 600}} vertical_align="center" x={8.0} y={5.0} />
+    </Frame>
+  );
+}

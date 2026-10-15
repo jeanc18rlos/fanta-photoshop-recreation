@@ -1,0 +1,5652 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70BXZK74BGWQ7DZ4RNR",
+      "index": 18.0,
+      "name": "🔠  Typography",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYX7V497M4CBJ0R66C",
+      "index": 1.0,
+      "name": "Mobile Typography",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX6JKZT9DDC6HWPQKE",
+      "index": 1.0,
+      "name": "Code",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXBPTPD0QVJ75ZCSY9",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXQ4MZTRE0282X7KJ0",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX74FQDCNSQF89DNCF",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXQ0Q4CHFJDDNVNY1B",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 5,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXNFFS9THWHMJ9T0N7",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXQVKTW3C4Q6GVVTEA",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 7,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXS8WVDWFV6SDG6Y66",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXRC7KVYQZGQ0PFM0S",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 9,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXS1CN7XGBKWAA5Q5V",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXAN4B785EMY9FDFYK",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 11,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXKHKP24HQPCAFH9WE",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXBT4MKF8F7FGJ7CM5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 13,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXMFJP3GD2RADCDGS2",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXACDVYAHG864P9G2N",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 15,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXTPX2ZSX188CCEG2X",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 16,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX3XEFFN6H599EBRJW",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 15,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXEH44QQP0WKZASFC6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 18,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXZKR0PAVNGGN221NQ",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 15,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXJNJZPM0TTXXQCBVG",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 20,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXV6CQ4NKH0XAJW5MF",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 15,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXVTPA11Z5WHF9WCY4",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 22,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXYCSHQZNSEWKKQTGH",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 15,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXF0N4EB7VN581SXAW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 24,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX7NNE1GZ9R0AGZ9PM",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXFFMYJT46A2NSNJVV",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 26,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXEQGYA80MAXVC14TJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 27,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXFVGC3PC2QEPJ4Q2N",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 26,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXJ170J6B08EVFSVST",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 29,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXP74JC94XD1M9414K",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 26,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX3CVMF26VV6C89BF7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 31,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXYT4JB6204S8NECD0",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 26,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXYZY296P5QC2JNA95",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 33,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXJ78S113Z1WWA0ZR6",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 26,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXP03AN079JA3371GG",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 35,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXSEMJ578KDKNFGHBG",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 3,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXQGC92N5WKMP4F8QG",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 37,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXG8GZNBEK7525KESN",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 38,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXAJPBJ6FKMBW32MY6",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 37,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXJ1CW2PS5XH2RA285",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 40,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXGHR6ZYM4RJSMRH7Q",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 37,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXZSMY679ZDVNAT9TR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 42,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXA37Z7N2PH98MS4DZ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 37,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXTYSJ4ZTJ8RBS5W1J",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 44,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX7J19V055B5GYXX1X",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 37,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX40Y9YB24JFNC280P",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 46,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX3XS20DRY7HTNEJV2",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY1Z8T3C48B8YFN18B",
+      "index": 3.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYV360Q8TYKYVRC23X",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 49,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYMC18K93K7KDQ6GC8",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 49,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY88C85C9RK5TR8WF8",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 51,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYSVRT4KNPSJZXY0E9",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 51,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYK5TMS0N8H2J38CD5",
+      "index": 4.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYZFAM3J9CS336TP1Z",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 54,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYHCSXZ7VWTYRMHMVH",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 54,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYS9Z5CYZS9KT7T075",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 56,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY7MVDBAKDCT8JPM06",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 56,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX4YBZX3A9YH85SYJE",
+      "index": 5.0,
+      "name": "Image",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXWCAS7836WK14G1D4",
+      "index": 1.0,
+      "name": "Code",
+      "parent_index": 59,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXH98N8AA5EW62GFS8",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 60,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX897KRBBEZHWHQCM0",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 61,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX0Y0RYADR3T39SKYJ",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 60,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXX34JFQVMBW1YYYRB",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 63,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXT844XVRQ4F1PC72R",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 60,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX5P6139HWTW449G79",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 65,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXHGQRD5TA434GR81T",
+      "index": 6.0,
+      "name": "_Header",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AXW8QC3H44ZM41844Q",
+      "index": 2.0,
+      "name": "Detail",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX2PA97PS7J53ER9V8",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 68,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXS79ACTVJ8EPK7EA9",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 69,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX6S56KR711PV62WM4",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 70,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXAT4YCSC929G7STY2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 71,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXFPG3N06CRK054Z3A",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 70,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX403004D5JVNS864D",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 73,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXTBQ28PZM4M0V86HR",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 70,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX2BDVHVV1CK6XP1Z4",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 75,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXBSQ3SK9D90WM27B4",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 70,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXXN3085HMVPMVNR0A",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 77,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXK3QKCWTWWT5P3651",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 69,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX8ZMWZHZTG58R669W",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 79,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXFM3021N240EVMNAX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 80,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX0T0GX5WYTT7FGC6J",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 79,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXEXR94VQ5VV4J3TAW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 82,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXJH5YEGK6NTJAVH6P",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 79,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX7YAHC0TRXKXN6QK1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 84,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX8B91113DJNRMRGAS",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 79,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXT3GKJT0PB6W4S7M4",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 86,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXCADXSMPPCR30MJD1",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 69,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXQ0T178WT5CF0AMNN",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 88,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX44RVV7D96Z6PZ5ZW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 89,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXM0JQ1ZQ4KVD99P2Q",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 88,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXKCCZJM9WC3MSEG35",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 91,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXW46Z7HPQ20S6Z9WC",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 88,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX6P63XN6VQ5S1JD9C",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 93,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX3RF6W9TG7BYEDCRR",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 88,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX3YSKJ3S355B7P6JP",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 95,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX20NTAGVM2NWAE25G",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 69,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXP78GDXE854PHZZRH",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 97,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX12NC7JY2A7M6KMX6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 98,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXW4W6BNS3995AFRTR",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 97,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXV08J4EPR818XYFQS",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 100,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX49ADZCEE0Q79ZCH3",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 97,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX5FMDWTJS9E8A1N9Z",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 102,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXHW4EB1MPTX47GBGB",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 97,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXM5FQTY4T92HPQZ2X",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 104,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXEQ76PJS80X122TB7",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 68,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AX9VVCMXNXCFBQKTQ7",
+      "index": 3.0,
+      "name": "Type Scale Container",
+      "parent_index": 68,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXWM4XE9GVEJ3YKGY4",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 107,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX5B85C3SJPKVKGEHA",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 108,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX7SANSECJSY21TD5W",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 109,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXDECNXQ8736019CW9",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 108,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXQHNQF2EVC00E7JKK",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 111,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX53169WH9DPHBVBR5",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 108,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXVBHRMKM00AT9SFKD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 113,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXD4YYDNGKG27W688G",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 108,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXWMDXX3N6SSSS1NY2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 115,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXW2G3GT4MWYV04M5D",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 107,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXX82EY11ZCMP4SVTD",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXWBNGTQE2G1M658WE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 118,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXJP6FDQVYZZFP8ASY",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXDJR8KX0X3614T7G7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 120,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXBQQEMHNRC40M0BBA",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXE2PAZ82SD37EFDPJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 122,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX22QDB1NWA3J2T25C",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 117,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX5C95ZR5M39VCKQ9C",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 124,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX4PTQ38CPXNFMQAZX",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 107,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX64WZ0XG98FY32NXF",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 126,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXA3N2XMB9JFN7CG9P",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 127,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXMX8KM1RGPQZMEEE4",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 126,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXKPP8WQ0T09WK4S3E",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 129,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXY3HRHVF3X6GR8NDZ",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 126,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXN8KP2DXBH2AXDJAZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 131,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXPNGNKQJBKVKJXXC8",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 126,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXXWW71V36TPDA5NED",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 133,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX7EA80CMJZ2ZSGYK9",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 107,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXZ9JAQXG1ZR6N2G3R",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXGK4084HWZ1VVE948",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 136,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX3C9RVRFJKBCP09SY",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXT06C61DJ4Z42AXTM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 138,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXWC408Q7PW2MEFP00",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX76J83CSY28NKYE4W",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 140,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX1MKB626JKVCM86RH",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 135,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXV77WBPR4YZK8J1G1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 142,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXPMDGN30G9Y9V03RY",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 68,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYB3DVRRW9JK25CRJF",
+      "index": 5.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 68,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYFQ9KNXQ5X1Z72NC1",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 145,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY77FVA8TQ80F34GT9",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 145,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY3N4FB838G3RMFC9T",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 147,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY6ESCV3BRGYZHS9FZ",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 147,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYAKYVZHTD83CRWKJF",
+      "index": 6.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 68,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYZRCTK132YD3XZ09Y",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 150,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYAP2KZ60EEX447TSR",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 150,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYY8GV8AJG7FHX4VMP",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 152,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY0NSHJ7DJAQ8WSDP7",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 152,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXR8Q87ZZJHAWQX3Z6",
+      "index": 7.0,
+      "name": "Image",
+      "parent_index": 68,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXJK9T11S2J73NF8ZM",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 155,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX4474HNFZKMXH1643",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 156,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX5R8SXS4JGYG0DTE9",
+      "index": 8.0,
+      "name": "_Header",
+      "parent_index": 68,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AWGVSZS6WEP87677JF",
+      "index": 3.0,
+      "name": "Body",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWE0Y207F341ASB9MG",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWVD026QW5TNQMSAEB",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 160,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWS1PV7KE0KMCJYSHM",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 161,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW8FXAHH1JM03N89GS",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 162,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWXFFBSDRAH5FNERQ4",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 161,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWKGNA8A68MT6SJD3P",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 164,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWQ3KTDQYCBFZW8838",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 161,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWGJJ3P55PVNMS0879",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 166,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW5MHEQVSQ3VYWTJ84",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 161,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWW7BTKRB10WG6W86C",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 168,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW7XYW304SC36XARMS",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 161,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWTXXMGG2H4CND1PXZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 170,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWR26SYQWNFYQ60DNT",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 161,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWN15016BHF05YZP0P",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 172,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWJCK3MXZTAP7H74KG",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 160,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWJ1ZGDKCT2BQX6DMQ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 174,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW43JZYN76MFYREGF3",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 175,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWRR1E8KF925DMFN8V",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 174,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWZHK3RSXGHCD011HA",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 177,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW6YPF5FTEX8VSH0F2",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 174,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWAS61XDTTR213VJHX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 179,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW9ANHZBT7MQ0JGZQC",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 174,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW24H3BYW5CE0FC62E",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 181,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWPJVE5922ADQVPVNC",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 174,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW0HNQGC8YW4HS3P07",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 183,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWKMBJCJ1M1CHC05Y0",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 174,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW95P14SXD550EFWDW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 185,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWV5YTRQ865FH1A4D1",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 160,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW5J32YA4MNRFS026N",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 187,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW4RVJ1H41CZPQR97J",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 188,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWT2J1ZDRFNMYJEY6Q",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 187,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW75RD68SJ0JGMMF2F",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 190,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWZN2PEJJKC4NJAT6Q",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 187,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW04G7JXVJMPPD6EEN",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 192,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWX2DZ853BY8D1VBS8",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 187,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWRFB2N3BYAD05V667",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 194,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW1G5MMXNE7DN9YW5T",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 187,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW3003KE3A3T3YFGBM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 196,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW8P7B50MN17A4QG03",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 187,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW21PMTHK034B6YE85",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 198,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW53JT85ZRA6ZA5FFY",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 160,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWZTV88K1RF2A99W0Z",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 200,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW67B77S7RXV4TZ4ZV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 201,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWXGZKH6PFP20KQEGT",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 200,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW69X56N0GZ7FVHVZH",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 203,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWM620AMAWS076NAZ9",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 200,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWAKBQZ51NRNXN32Q3",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 205,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWD8VZ09BMTFX4NPPJ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 200,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWXN0D7G55Y307HYAR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 207,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWEY8KN02EXYFBXZBM",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 200,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWVKZATR8C6FV0NQSV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 209,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW80BQW1YPDJW10KED",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 200,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW8G6JT6YKDQCXG00F",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 211,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWXE8ZGQCEFMWJDNQH",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 159,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AWCQFNDY6772HT02W4",
+      "index": 3.0,
+      "name": "Type Scale Container",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW6777BVK9KXDT16A1",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 214,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWRNM86JG6MKAEBH1J",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 215,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWAMM78JJ1PKZ2SA1J",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 216,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW21ADHHBWY82TAFSD",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 215,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWBKXDK288PDK547N5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 218,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW4H5PCR9GEX71RG1H",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 215,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWSP0YXQPXVV4Y2NTM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 220,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWA3BPRVG30E4FCZ29",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 215,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW7RK3KP3QAYS2T1A9",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 222,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW8N9KW6PBHE7G1F85",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 215,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWRBA3DK3B0MJGC1DF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 224,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW6CXZ7E4SGNMMPW4P",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 215,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWZ4RYHRD3DBQQRHS6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 226,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWRM0SV4YTSAFCXS4A",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 214,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWRZ9PHRDZB2F6VN93",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 228,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWPEZVEGH7HDFZDTGK",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 229,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWG122BMT5N78AP9MJ",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 228,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW0ZDYT1PAGRSDN4WE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 231,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWZF08HMDW3VSB31PW",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 228,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWYPWCJS96ERBZPZMP",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 233,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW65WBE0J6NKHMGSGZ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 228,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW4XG8AJ8KNW3FWRMH",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 235,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWQDNHHPVYPEGJTZKZ",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 228,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWA0N3GFQY5VF4VB9R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 237,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW0D5XM6HE2Z78SR1P",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 228,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW0YVPZ7XD19G9GCNR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 239,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW76JE5PKW1XXZ08QH",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 214,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWVGE7RK7M2S5EGBCK",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 241,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW8JD2CP1C1ZFXK1P1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 242,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWM1A953NEND8SF0XQ",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 241,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWV1VBYPPMWF5KFDPG",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 244,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWX4AK3Q1N29Z8HCZT",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 241,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWVAV7RVW1WN63NBJ6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 246,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWZFT4YHEVBFXHYB1P",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 241,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW7ZZDZDK3G4WSRPVW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 248,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWCF3ST2AATQ8JYJPJ",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 241,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWCGHRRH13AWRBJHTX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 250,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW1RC14KZNZ6EH53AX",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 241,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWF16T0X8XJ2NM3MR7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 252,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWMAA3WZZ1Q2GRKHQ2",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 214,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWRCCQDX12HH8Z1WB2",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 254,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWJEA0R4Y636GZH94B",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 255,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW72MPDA0RT31HGDXX",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 254,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWY7MTKVC59B0RXS0D",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 257,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW56M1SAH61WBCFQQP",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 254,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWD2D9YAFAA25FG52S",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 259,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW09WXE40Z2K3GSSHQ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 254,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWAGKVDVCQ940QEZ7R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 261,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW4ZRCF5ZJ2BKTN4C4",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 254,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW64VSXX92V7VX6EEW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 263,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWBR13K461Q8R75W25",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 254,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW01QZ9NJ157T5M1GW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 265,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW7206SZ1P6KN166RF",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 159,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AXHSK08578SGSKHJEG",
+      "index": 5.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXV9PDNY5Q4MM7ZPFZ",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 268,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AXK54QM9DFKWJ23M55",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 268,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY64BJ0TZZJHDSYK7V",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 270,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYY1D2VBA8A7G2ABSX",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 270,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXR80AAH2TEPAXQ96Q",
+      "index": 6.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXM8DAPV0KTRW2BWYK",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 273,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AX45CBVVQEY07H6P29",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 273,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXM3QKCA8649B9T7F5",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 275,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXTF8EN3ENC4TZKZKJ",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 275,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW5XVTSPKAJHT5PKFQ",
+      "index": 7.0,
+      "name": "Image",
+      "parent_index": 159,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWK7NF8NS1006D0KMS",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 278,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AW8MQPNPBVVJRPJD40",
+      "index": 8.0,
+      "name": "_Header",
+      "parent_index": 159,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVTNV8SXKRZMM32XZK",
+      "index": 4.0,
+      "name": "Heading",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVC635MWRRQZ32PB40",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 281,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVV4PX452NDZZZR9ZC",
+      "index": 1.0,
+      "name": "Heading - Mobile - Light",
+      "parent_index": 282,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV6VVY34NAWCBRPQT1",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV1G37G46EH71XGB8R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 284,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV9VREK4C49Y2TX5KA",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVAKHQ66D3RTHHEG9Q",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 286,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV8KARYHQF0VW881SW",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVRS2MSJH3VQGQQTF9",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 288,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVJAY0NX9WFXJCE3Q6",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV4E6F93BZZRKVVH2G",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 290,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV3MVC9X09VY556ZDH",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVG73AXWKQ8CQQ9DMR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 292,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV2DK5D6RPJK87GRS1",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV5Q99DF3TED7FGQD2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 294,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVXKMX2R5XKQM42XMT",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV2KXMZYBDRV6QY36A",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 296,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV7REN47HXNGE6RQTF",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 283,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVQQAWP8V0K65HYJYX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 298,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVQB29EAAPHXZAKA6B",
+      "index": 2.0,
+      "name": "Heading - Mobile - Default",
+      "parent_index": 282,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVZ2N3HXRP7GMZNAHJ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVG2MSFFZ3CC3ZW6ZZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 301,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVFYYEXAYCGTNWBH5X",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV5ZRXB5GTV45D5YSV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 303,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV01V5D7BDPRSQKDGQ",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV546CN9K86S8QNP3E",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 305,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVHSDCANC0C7AT68BG",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVGM2413605SF8PZMD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 307,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV9HA8YVRZWY25GJ1W",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVC4FFR7KDQYHF4T7B",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 309,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV3WNRTG9AT9HCQMT6",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVW9C7WPXPSB5NZ4MQ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 311,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVQDQ5XYDNDWN512WG",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVBC3QGFW0A7G0QKAW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 313,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVWFNC6GE6ZY7166VQ",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 300,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVDX1XQ817YEYJWXDV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 315,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV1TN13WGSVKDVN0WW",
+      "index": 3.0,
+      "name": "Heading - Mobile - Heavy",
+      "parent_index": 282,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVGXXH60A0HN9N57SZ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV6HY2ZCC6T4SPVEYR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 318,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVKDFD4JHXXWMAK54M",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVQVWD481A5ZRSEH63",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 320,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVEG4FZDE967D978YX",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVB77KCWECH5BXYPCC",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 322,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVYMEJ50VYK1J3X9FD",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVGK6DHSQP1XVK690D",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 324,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVQ006D3K801TXJ596",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVP9E7YDGY6FZB00YZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 326,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV5NPV0BY6NHMA8WB1",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVAWS95TNAJF817JE7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 328,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVSRHWWQ64VN3H1ZC3",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVG5EQ6DTVBJEZG3G8",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 330,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV67QKBN8K5NA1M3Q4",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 317,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV9996Z8JE2JRRVQ41",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 332,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVC2352579EFEJWVRG",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 281,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVX8Y6XCSKRF6V1HG5",
+      "index": 3.0,
+      "name": "Type Scale Container",
+      "parent_index": 281,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV8XXYYAFCHE4GPCNT",
+      "index": 1.0,
+      "name": "Heading - Mobile - Light",
+      "parent_index": 335,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVEJR7YK2SNYWG918S",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVSJ9710VT9JRMNP98",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 337,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV197131AWN1YDZ5QY",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV1NTEGSHBXWC58KW3",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 339,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV683NXQ0X6JN7W5JB",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVH2QTV3EC988EGZQ0",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 341,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVEW4VHA9HE8BKC73F",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVF1GFR2YTT4XFG2NG",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 343,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVMCK471THPRX1QNMB",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV1HBK3HXD0A48VSVK",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 345,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV1W861G2BKGN6XHMT",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVJGW8J33D29S6HTM8",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 347,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVM6YJ1EDMG4GMSJXX",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV81M0QH6YASFN79SY",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 349,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVWHKYJFRRRSSXAYV8",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 336,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVZ341T387D2P641G5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 351,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVNPHDDJKEMT4VWJ1D",
+      "index": 2.0,
+      "name": "Heading - Mobile - Default",
+      "parent_index": 335,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV12MKGBGK7YDQWEW4",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV17ACYX9WEM8VNM4R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 354,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVWYX1YXMH82C5KDKK",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVA63G78JB1A35HMCW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 356,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV64ZEDHCEAHCV4E1N",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV1T309CTTMX4YQKC8",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 358,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVSKD3VQPBGG9BP56Q",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVSKNWWAN1BEP2317T",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 360,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV91TG93T26PBKGSFN",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVTTY79Z2VE8R80D6D",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 362,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVDN2XHX8F98GRFD9R",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVBG870F94395JVE41",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 364,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVZDCMPZNS58JQCAP2",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVHQH0YPTMAV9KYP70",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 366,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVAKV1JTVA8JGGG020",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 353,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVXVB9EEKKGJWXY7JM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 368,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVXFW9D9F6AMCQAA1C",
+      "index": 3.0,
+      "name": "Heading - Mobile - Heavy",
+      "parent_index": 335,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVRYZ84PC8EGX29WVH",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVE004TXZ09PT1FYXD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 371,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVXTG8FP6CJW8H9TBP",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVNJPVC7Q7MC6ZF7EE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 373,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVDWWCBCNXY7AKYY2W",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV1P518AWTG42WD4TX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 375,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVS8Y4473KJRPG7400",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVH9QA4XTF801Q742V",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 377,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV9PDYX46P8QE2HH19",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV91REXDEJKF51V9RW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 379,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV6HYCEJ89KV51HP0F",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV8FZKQ2WSVJ7ZZ62N",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 381,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVZNZP82FDV44KAV0N",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVREF03GQSTJ1RDYMV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 383,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVVT084D4NXBBJP87B",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 370,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV2MNJECNJPZHP22N2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 385,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVWRYDSHEX4GWPT28F",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 281,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYQ5A7Q6J52CRV4REK",
+      "index": 5.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 281,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY4Y94C8FSDPRX9K7E",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 388,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYRX51VH0VYG1WPFQF",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 388,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY5Y15GADZK9PZQ7TC",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 390,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYXQM6XCP2JENGE3MT",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 390,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYX1JCYPCC254D6334",
+      "index": 6.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 281,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYF84Y1RZ8WS178BT9",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 393,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYXMSYMABXXCW97D0K",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 393,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY0P29DHFXKNQVNETA",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 395,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY98QHXTHV2K0MY3VH",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 395,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYVQ9ECVFF6C8NSENV",
+      "index": 7.0,
+      "name": "React Spectrum Link",
+      "parent_index": 281,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYA97PDV7QH6VEF807",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 398,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY05HHZ23AT17B856R",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 398,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY4RKYJY6C8VQ3183V",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 400,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY093Z51AED993VMWK",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 400,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVCTYDPVVZ87MT0AS8",
+      "index": 8.0,
+      "name": "Image",
+      "parent_index": 281,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVXC8PNH4JBR779B11",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 403,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVXA77K66RP808SBRH",
+      "index": 9.0,
+      "name": "_Header",
+      "parent_index": 281,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYZVPXJ1P386CZ4CMW",
+      "index": 2.0,
+      "name": "Desktop Typography",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX442DMBWCM9SVTCT4",
+      "index": 1.0,
+      "name": "Code",
+      "parent_index": 406,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXNV2QGAY23JJAXBJX",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 407,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXBZ8TPDCKB1SB9YJT",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 408,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXDH43JJ0431TW9Y0P",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 409,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXYQ3A8FV27NDF8CCQ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 410,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXNDA229X669VZ3R6A",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 409,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXRE2V9V3Z48GYM6KW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 412,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXR810WCAGJGXH6DC7",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 409,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXR7VX92K5NJMQ249Y",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 414,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXSS6YDXWYBT4YGV7F",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 409,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXZX0AQC9PWQJYPMFM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 416,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX91KBYJ99XVBQDDPR",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 409,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXA21FDN97MPCWA53S",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 418,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX42EJ3SHNZHVTTETH",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 408,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXSEAAKD4ANAKPGCAT",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 420,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXHVXQGGTH4QCH6HGS",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 421,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXXSNKCDK2ATVEXHH8",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 420,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXS1NTFPCBJM47BA9N",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 423,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXBWYQD7AXYD5SMF7Z",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 420,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXE5EWXAFK62DSRVCF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 425,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXMXSTP497PX38DN7X",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 420,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX2YT7FX5NKDPYMDCW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 427,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX4Y1A56PVX9B4DQ00",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 420,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX37NTX2DD0PRP3FGZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 429,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX2FQVMV7MTSCBWCDV",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 408,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXDNDNDEE0RD5AF9DY",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 431,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX4ATDXFXAHF5WSRZV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 432,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXXHS5NBAH48C68SH5",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 431,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXN2VZK9FJXBWCQSTC",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 434,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXV2FJ3BZM5Z2MQQ66",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 431,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX8M1FDES5EQS5B6K5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 436,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX4BVNT9QY35DJG85D",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 431,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX400FRD5PPFMSFB73",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 438,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXDJB6A21CEGJF7RGX",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 431,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXZ4TTDPD9AZ517ZVY",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 440,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXP02G5XQR3X952D4E",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 408,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXZMYG7DBMT8HHNYBF",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 442,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX9JPYBZP56HKN0DYM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 443,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXJ79RQRK8ZH793EKW",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 442,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXKF67FZH6FWGB9BSW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 445,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXB609ECV5VC8EQH98",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 442,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX3V9J800KG2F61S73",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 447,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXA0QG00NXE97EJQMX",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 442,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX5KMB0RG59BRCQE2F",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 449,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXMG414487BHCCNMDF",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 442,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXC7J08KHW2YYDV2E3",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 451,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXPCYX5MB7XJZ0A0VX",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY34HPX1KCHHZSVPEK",
+      "index": 3.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 407,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY9F3CZBJ1DF48CJ4G",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 454,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYD3FYZP884F1RCBVP",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 454,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYVR4DN07KXYVPSZAE",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 456,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYTH978N9TT5ZYFZA1",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 456,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY3ZRZ5E8EXB5HJ5WS",
+      "index": 4.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 407,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYMW7MDAYRX8V29B2E",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 459,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY6W5ZF1KMDDTH03Y2",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 459,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYGCGK4TP79N0G3G1B",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 461,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY8P8GB1BVYMW1Z4QG",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 461,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX1CN5C6ZDW6D5SV8A",
+      "index": 5.0,
+      "name": "Image",
+      "parent_index": 407,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXXFEH0NGXV4BDYVTA",
+      "index": 1.0,
+      "name": "Code",
+      "parent_index": 464,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXFW2QNZJP38NY60SX",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXK1Y101AE0G47D1Q4",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 466,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXDGTGRK1JW53SZKDY",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXR4N4X7BPJ1T9ZF9F",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 468,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX49P1H7V1T2DXMPJG",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 465,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXDAN5SYRTFQWZ2EMY",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 470,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX1CJ4H0DWDBCAR0V3",
+      "index": 6.0,
+      "name": "_Header",
+      "parent_index": 407,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AW9Z54GRPKZ7W7W03V",
+      "index": 2.0,
+      "name": "Detail",
+      "parent_index": 406,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWFJKYFF4GQ713D9RZ",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 473,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWEC59N24JKWZ5XZ3F",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 474,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW7515NZVA8V1WH1Y1",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW0H0Z7909ZJWE7BKE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 476,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXEJ22N5T0PQVV2V5T",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXDVPSX5QC6XVF4B75",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 478,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX7Y11S12E3H1NQQ83",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX2A8RMY6Z8QXB5FQ0",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 480,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXCWGQQ73RPPXABBNN",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 475,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX341V97V78VDZTJXQ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 482,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXTS71D6VR60W8C00T",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 474,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXTMXH850BA90S5HZW",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXKN06R173MME449QM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 485,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXVH7S72X0YTP4FRF1",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXTSTJY4JEPTH7J6X7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 487,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX05D9TSCM3QR4CPWA",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX1PZ4T1SFSM0C27MX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 489,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXB97E23H1KK6PMCAF",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 484,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX5T4PS2A51C6X1R27",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 491,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX6R1AF0M46J2DDW50",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 474,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXKWQGGCXSFAAF754M",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXM2ACH88ZHHJ9W00X",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 494,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXZ112094WH01K9E0K",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX42JT3M3DDMZZ5ZNY",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 496,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXXPTDZDTEE11Q92GW",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXNCB6PW562WEFYM6W",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 498,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX8GHH318NQ6H3VJAN",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 493,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXGWQ01HXCC7SHZ0DW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 500,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AX8E0BD65804RT0XQX",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 474,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXNFB43FYVNZ7GKHH2",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 502,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXY2J5G1VVR3XT4J0T",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 503,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXP42W2B0EF1XR0WRA",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 502,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXVQ66G7SVZX374F5P",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 505,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXGS2TPG5PT89H2J94",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 502,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXZ423S1EERACJBMTW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 507,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AXXR6S6YGST9KV4418",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 502,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX0G2K8ZSXQEA00MQE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 509,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW0KQYKQXBCZ1VJPQ6",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 473,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AWB2RRX6WKMSZCEJYE",
+      "index": 3.0,
+      "name": "Type Scale Container",
+      "parent_index": 473,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW2BHHMEYYVVPF1CK2",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 512,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW9EZSETB6E4QAEAYY",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 513,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWPXXB8E4H30EESP3Q",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 514,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWT136WBP3YPHJ32WR",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 513,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW5DFJCWA56H49P2VF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 516,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW77VMF3FJXGCJD8RP",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 513,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW1FSS4Q4KR18XZWPF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 518,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWCGCT4J6ZPQB4NRN3",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 513,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWKMFGHAJEGQ1EYMY7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 520,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW3DS4P1RX65PT5ZJ9",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 512,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWJW3G6HD43FHRT98F",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 522,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWNZRR77VQGX80V7B5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 523,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWEY367WZD1DMMMAP7",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 522,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWVRC2Z86P3SSQDVYQ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 525,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWKMHY6S26TVHSW7RX",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 522,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWPTHXPS758KENGVEZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 527,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWZ3JY0JQ6Y9AX6HD4",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 522,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW04FHTHYCJWZPBJ4S",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 529,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWF728BVHMEC3RPH07",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 512,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWWJ4R222NRMKY377Q",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 531,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW1TYDB72FC0AE5R59",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 532,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWDEG9QP09998KRM76",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 531,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWKQXREKK4RMVDQ5ER",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 534,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWY9RXBRWFAQ5ME1K8",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 531,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWQ3CF7JFW91VGGFC7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 536,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW1A55CCZ8NP4PYFE9",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 531,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWFB5TR1GEGFJR9746",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 538,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWD4YCPS1G5CWFCARJ",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 512,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWW3V4N71MSZPZF9DP",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 540,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWMBXP0T2HMQCCH9WB",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 541,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWEJ31C2RSRRQBVHKZ",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 540,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW812D6H5X3YAQ6SF2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 543,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWH04C0SDC5KG48T94",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 540,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWKSE46H2H5Q0RK2Q8",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 545,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW8581P54HTSHDA7P1",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 540,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW6D96KVEFYF1JMT40",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 547,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW0DXA4YM33PHNRY0J",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 473,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AWYMWJMDHEX38BSD88",
+      "index": 5.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 473,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY2433NMHA7FPCW9B8",
+      "index": 6.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 473,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY7FWGY0BV71QA8W94",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 551,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY9E4DQ6JPY9MA1PWE",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 551,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYJFGV2Z5YG9TSKNQA",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 553,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY9DRE1KH5TN8KKYBE",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 553,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWJXG4GXZPM9H9NJTH",
+      "index": 7.0,
+      "name": "Image",
+      "parent_index": 473,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AX4M5WJTQDF06YZFCY",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 556,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AXTM9F53V8T7WT3ZF1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 557,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWVNV3ZS1V38NES12J",
+      "index": 8.0,
+      "name": "_Header",
+      "parent_index": 473,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AW1SWHQNS10G9KDY1D",
+      "index": 3.0,
+      "name": "Body",
+      "parent_index": 406,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVECQ3DFJD9RG7EME2",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 560,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV7R11R8Q567PHP1XD",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 561,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVA3010XTQQQN6C9QF",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 562,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVEPPFQZ89TNX56VFE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 563,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVP7XJACG6BCH0779A",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 562,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVXM98A7ABF7N1SMKW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 565,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVANQT3BEYKJDRW5RA",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 562,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVT0KRJFXRYQXEF0BG",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 567,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVJ1TE1PEKVRVX5R07",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 562,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVK5MC46QNABH47XNS",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 569,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV05G1GCZ6KERZGQGA",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 562,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV347GZBAWVSPVZEDY",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 571,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVEKPA7DJ2GAR8PN9S",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 562,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVW5896MQYRG7S4019",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 573,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVM2V0SPFZCFN65CC2",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 561,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVY5GX64XX690190C1",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 575,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVQDZN8VPYAC7JG673",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 576,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVNSD4CK15W47JQHD9",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 575,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVJ9T0PSEAFE2E9BMB",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 578,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVYCWAMTW8DYX54V56",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 575,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVRW7MMBVB0SF9E256",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 580,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV0FAXD0YB632YVEMM",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 575,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV6X4R0TAAXE2ZB59Y",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 582,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVY9Q0WNHZG3AQM912",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 575,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV11EFDB91EAZS3RVR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 584,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWMFZJG4V86BTBR2B6",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 575,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWMPANX2QP0JWPCNB9",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 586,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW5HC1WFD9RDFTVHZ3",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 561,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW7BR6FSRQECENQ92C",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWMZY0S15RS0BE9Z4H",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 589,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW2G9NG2TTGR54FQSZ",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWJJKYP3ZZEHB7VKFZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 591,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWBCP5SP1P7HFE3QTQ",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWQCZMNRJDE2W65WBF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 593,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWCVMTXQCFTN1A9JZY",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWHDJ2PPBPKM1H85RW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 595,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW7FM3V0FVX9Q4VNK6",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWQNSDMWQPV7B366Y5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 597,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW68BQ357P01B80QC6",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 588,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWPV14GDCRYW9ETECJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 599,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWAR3G18YPPC27VCVF",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 561,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWBKG1ADDPKV7DXQA7",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW6YJG30P1TXTAZZ1S",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 602,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWACTA0M5ES1NK9QKE",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW6MB6W06X0PRHY30M",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 604,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWK65AB0D9X6TSPEXT",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWV21V4AV1NE8G5WBN",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 606,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWRFWJR1H79QJ9W5DZ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWZSWXAF0VVZ7JPT40",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 608,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWNZM5RKE39MAR9ZVN",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWY4XGMSS397NK1DX7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 610,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWCEV2CKRCC3QN2EN4",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 601,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW1NSAJR6ZMVH7RBFJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 612,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWAFNEK8Z0AY38N25D",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 560,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AWFA07G227ZFB7DGFX",
+      "index": 3.0,
+      "name": "Type Scale Container",
+      "parent_index": 560,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW41NHRWKVVNK2T5DD",
+      "index": 1.0,
+      "name": "Type Scale",
+      "parent_index": 615,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWAQP923MHT9RYAVGQ",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 616,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWKK508776FMPNB0F8",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 617,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWCH0B0TX8FB20SJW9",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 616,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW5A5705N28312NP8Y",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 619,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWPTP9WGSC2B7P8EHD",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 616,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWJFZ5ABSZMY6N7XEF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 621,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWVAG5RZC4PTAYX8WZ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 616,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWC34TJ78ZFWEE7W7D",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 623,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWS9GCFDXE7V8PE9KG",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 616,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWHG7CWNETSYJ1GJ42",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 625,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW88ZX4VP5CQRQYX26",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 616,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWGS3VKBGVM977PNG6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 627,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWQQ8G5YHXKFK0TNYQ",
+      "index": 2.0,
+      "name": "Type Scale",
+      "parent_index": 615,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWG8QX1GGZCQPVJ0AS",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW0FD6NKCK6B8N5Z3B",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 630,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWWTNSDS5TPX3A698K",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW8RR176K38J955RMD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 632,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWA17PWEDP3853WT0A",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWTDXZXVS46TZ6XJFJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 634,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWPGYW23W8J8YCS3D8",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWGKCDZS61EBMH84K5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 636,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWCXSSSVZNQH0RB03Y",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW9WRQN4BD08SZQ8KD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 638,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW9QXE0R6E8CM8KAP7",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 629,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWJANFH7MZW6TGQ8N2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 640,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWHR5911XTW5M3J94Y",
+      "index": 3.0,
+      "name": "Type Scale",
+      "parent_index": 615,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWZN8WB9VKD0GA59FC",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 642,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWDWEBWYGZY2H0S8XN",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 643,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW8TBHK3T5A8JFE7N8",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 642,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWRQCG9D5ZSYMV0VC8",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 645,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWB58DDBVFW8JXNH6W",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 642,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWW6EV14SQA0VX6TNJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 647,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWD73MH4XWAQP6QZXR",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 642,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW28RP0BDBZWAGCYBZ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 649,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW1AG2K7BP5J375CNZ",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 642,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AW6ERF8VCX6HN71XV6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 651,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWVNST2ZVPY14W3KV9",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 642,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWKNNR4JW3ND3M5BCN",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 653,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWBKY6CVATG2Y21CX8",
+      "index": 4.0,
+      "name": "Type Scale",
+      "parent_index": 615,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWDE68R3FRZNBSF24W",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWYEJ1D0WEEM7D3S7R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 656,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW47F1EHPR7WF3C9HM",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWZJEHFVSJTWG5SXEE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 658,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWZWN6SQXE2M3650T1",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWMYP924BF7B0NVPTM",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 660,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWYW4FB87A84Z1GN5T",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWXZ3VQM2DJMP4KFZC",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 662,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWS5ZRXF3CXSDC6N8H",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWG9DNBN9KKDX67RB9",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 664,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AW78S8Z05XJ4YBB3NN",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 655,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWVRDAA2HJFPB0SSZ3",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 666,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWBPV9JKTWVWZY96RF",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 560,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYRFTYYG694XY2YBXZ",
+      "index": 5.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 560,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYMJF754DWR51P612D",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 669,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY93TQ730VNF5DZ1CK",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 669,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY6FM7T8K326KF6M32",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 671,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYFP45KGXA6AH9ZXM2",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 671,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYV97QH94C6A8H93TW",
+      "index": 6.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 560,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY0PPJR250TY264YSA",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 674,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYS4S9NWKW37FXZ8MV",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 674,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYTAJNE7RM1RPBEACV",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 676,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYNYYP74K7PKTD0H37",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 676,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AWV3EF6T85GS170KJX",
+      "index": 7.0,
+      "name": "Image",
+      "parent_index": 560,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AWGXZ2525SNYFJQ3BS",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 679,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AW088SKKSS3KHW118T",
+      "index": 8.0,
+      "name": "_Header",
+      "parent_index": 560,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVH1VG6DEDRFCP952M",
+      "index": 4.0,
+      "name": "Heading",
+      "parent_index": 406,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVNEP18PAB6MMSVS4Z",
+      "index": 1.0,
+      "name": "Type Scale Container",
+      "parent_index": 682,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVEN4NG1SE9SGMNF8A",
+      "index": 1.0,
+      "name": "Heading - Desktop - Light",
+      "parent_index": 683,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVM4XECP8A7ZM24PD9",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVSDF04KRBQ3AD8MEC",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 685,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV2KQ32QTG4J0PK772",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVYPT68Q4S3RAS6JT7",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 687,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVDQJFTWX3JDFJAYJ7",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVMYM2P1G4HQDRJV7R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 689,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVE0C4VA362GNVNZ7E",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVAV276K6RFCYHNQWV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 691,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV8VG60JTTJNEGMYW9",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV1MRRGRTB3052WQVF",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 693,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVCTXEM7R1HST241WK",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVKATBZAF0CH0PGD9C",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 695,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVF7WMFXNPS3W8AGX1",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVGXHV7SV67C7YQ261",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 697,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVFS0B07RCMDPZ4NDP",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 684,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVH8386MGHWGK9B58E",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 699,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVXS76Z571456ZBS6M",
+      "index": 2.0,
+      "name": "Heading - Desktop - Default",
+      "parent_index": 683,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVDNCGYB5FM8C0RZ19",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVVAXTGRMCE5FBSMKD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 702,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV5NNQSN4M7FJ0BPE6",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV4CHQNTP7QJ0G7MVR",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 704,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVQ903XB66KRV2AM1A",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVS6E2C9RVMYA6PV9A",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 706,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVY9XVB5ANJ2TQ7EKJ",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVZ4RB6YEZG748BVK1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 708,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV8HVDM50198TZ7N21",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVB3Y1XN53J828BNC3",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 710,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV3ECF40VJ2F8XMB9B",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVQC12NE4SBZGHMFM9",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 712,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVXX4H8TZQBRN20PJ0",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVYMF471JP46M5T2MT",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 714,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVGRRK5XFVF2FXCQZ2",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 701,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVTFPRV2582NXE8Q2R",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 716,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV12R65A6N0TB0P9YG",
+      "index": 3.0,
+      "name": "Heading - Desktop - Heavy",
+      "parent_index": 683,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVBTAZG86CD2Q37GFA",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV3W7FKAHJJD9W8W9Q",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 719,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVVSHV1Q0FHDH7NPQM",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVP712AXSEP3FNBFZ4",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 721,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVM3ZJCB8GM5W2FZGC",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVHJ1WYDVZGZG8H37Q",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 723,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV3KGWNGXZQVB6QF73",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVEQN4D3BDWGJBAZ8N",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 725,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVA4W0XK0GEFEG13YM",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV04BQRJW3WGGHZ6QK",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 727,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVTB53B9ZMKD0DPP2R",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV7X4WE51G0BCZRBW1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 729,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVS8MWJCKG2S2Q6CAV",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVK9QMNATVK3A6NPS9",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 731,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVX96C798GZE9TK4TV",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 718,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVCR3XY6GJ0QQAKV62",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 733,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVMKHVAWQTNQ3665TJ",
+      "index": 2.0,
+      "name": "_Section",
+      "parent_index": 682,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AVKZFVMV905NFW1JY7",
+      "index": 3.0,
+      "name": "Type Scale Container",
+      "parent_index": 682,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVQ64VA7QH23H57E80",
+      "index": 1.0,
+      "name": "Heading - Desktop - Light",
+      "parent_index": 736,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVD2M7HMDN3YM7112F",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV61T5PKR6T41MRF0Y",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 738,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV1DYGZCFX99EBRRN5",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVYKN0YQJCG82DE8VT",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 740,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVV8JZ1ABHBPRNDX5T",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVSPZ8NAQJNVYJ8TC2",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 742,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV41XDSW2K23QAR1N0",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVGADN8G3D7DC1JW2X",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 744,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV1JDDVM2C0H6D252C",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVFMXZ0Z6K4PQVBKEK",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 746,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVT9ENRK2NYNY0D2GR",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV75F1VW80TMT8RAN5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 748,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV2T7XYAJ77KEXP7VC",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVMNA5WDWMMMZXNTKW",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 750,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVP86KQ01F90BQSHST",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 737,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV3VZ7VS4DB5N1N8W5",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 752,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVBW2VZ23XBT1NBZMK",
+      "index": 2.0,
+      "name": "Heading - Desktop - Default",
+      "parent_index": 736,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVN2RBVBV5NZ5XXTXX",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV8DQJQEZXEV6AM6S6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 755,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV6PF48CQRMEX1VQ2J",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVZ7JWC5A4H2NS5QJ1",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 757,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVVDDCEN2KS1S4R0HC",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVMT9QS08XW777QEGV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 759,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVV2DTPMM1FDZXJ6V9",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVJY798RV3WANE6N72",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 761,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV06WYFKMP38STJZN9",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV0SWFVJ1QBDX4JWBQ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 763,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVWRD0GJ4N6CEW07W9",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV9QF1GPQTYA3M6RGJ",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 765,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV47QR0ZZ3KBY3JFAF",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVNE492KTEDTSB6XNT",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 767,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVWYWA59E9A5S5HRBN",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 754,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVXGKWWK62V306EKCX",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 769,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV6R8ZD9ESH7CB4NJH",
+      "index": 3.0,
+      "name": "Heading - Desktop - Heavy",
+      "parent_index": 736,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV059M5HX1BV6V4SKG",
+      "index": 1.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV2HHR9XK30PEN38NG",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 772,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVVGWFJE4ECA0JW927",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVWE8FYQZCS4TTNH87",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 774,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV3KQAGMCNMPQ6MKFP",
+      "index": 3.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV2CJ98WGVP4KXNAJD",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 776,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVE3N6NW8Y504PCNVK",
+      "index": 4.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVXX8ZRYHEQ160J6JE",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 778,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV3KB6HZJ4FCNA5P5B",
+      "index": 5.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVHCK6A232G6V1BFQ6",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 780,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV7A9VPHSNWH400DMQ",
+      "index": 6.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVF67WP9D82WSFZ67G",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 782,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVC9MXKW2D5Z0D6JWA",
+      "index": 7.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AV3PV2FTBS21DBVJSV",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 784,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVGMVG7M53K78C4N2Z",
+      "index": 8.0,
+      "name": "Text Container",
+      "parent_index": 771,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVWDWTQN48AD0E2C1A",
+      "index": 1.0,
+      "name": "Text",
+      "parent_index": 786,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AV0W4403SWGNFERRY9",
+      "index": 4.0,
+      "name": "_Section",
+      "parent_index": 682,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYRYZZ5QB1JWB2AR21",
+      "index": 5.0,
+      "name": "Spectrum Website Link",
+      "parent_index": 682,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYEWRHGN8SE506A15V",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 789,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYSM2MR9XGH2EJNYE0",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 789,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY6FG8DMY0NSVG4AB5",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 791,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYNV0D56ZNDEN0PKJR",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 791,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AY1TNRMV3C9CF3Z6SM",
+      "index": 6.0,
+      "name": "Spectrum CSS Link",
+      "parent_index": 682,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AY54KFMAJ8676R24BB",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 794,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AYAS59JMWNZFVPG5G4",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 794,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYKGFPKK3EYGFZM18D",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 796,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYTXZ98E699CDDPFY1",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 796,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYCK9DZHNZDP6MZ4ZR",
+      "index": 7.0,
+      "name": "React Spectrum Link",
+      "parent_index": 682,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYYW2Q4PFX4SYDWCAH",
+      "index": 1.0,
+      "name": "_Link Image",
+      "parent_index": 799,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AY89S8M3VBYRCBBBCB",
+      "index": 2.0,
+      "name": "Text Container",
+      "parent_index": 799,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AYH8ZX0YJZ0VP8SYDN",
+      "index": 1.0,
+      "name": "Link Prompt",
+      "parent_index": 801,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AYKMZVSYE2Q5T2J2TN",
+      "index": 2.0,
+      "name": "Supporting Text",
+      "parent_index": 801,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T7AVDRXM0P50B58PS1H6",
+      "index": 8.0,
+      "name": "Image",
+      "parent_index": 682,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7AVVHKPMTQ3ZCCSSA3D",
+      "index": 1.0,
+      "name": "_Header",
+      "parent_index": 804,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7AV2G1CD0MENTRBCSY3",
+      "index": 9.0,
+      "name": "_Header",
+      "parent_index": 682,
+      "tag": "Instance"
+    }
+  ]
+}

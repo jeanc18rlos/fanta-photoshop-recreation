@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T77KVMV4NMAMAX4EF8TT",
+      "index": 1.0,
+      "name": "Scroll-Zoom Bar - Desktop - Light",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77KMRP1NTFQAWY0GCXT",
+      "index": 1.0,
+      "name": "Track",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T77KWETRP7NTA615QVPC",
+      "index": 2.0,
+      "name": "Scroll Bar",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T77KJX3FCHCQYQ7DA0GZ",
+      "index": 1.0,
+      "name": "Left Handle",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T77KX6DD8ZPTMB1DFG6B",
+      "index": 2.0,
+      "name": "Right Handle",
+      "parent_index": 2,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T77KXECJYKRW4WP3GJCP"
+}

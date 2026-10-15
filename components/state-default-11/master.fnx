@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Default() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "hug", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [18.0, 16.0, 20.0, 16.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[99.0, 59.0]} id="01M4V5T71SHVZPMV6YZJKW89M9" meta={{"clip_content": false, "figma_id": "107:23168", "figma_type": "SYMBOL"}} name="State=Default" opacity={1.0} scrollable={false} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#4B4B4B"), "kind": "solid"}, "per_side": [0.0, 0.0, 1.0, 0.0], "width": 1.0}]} x={24.0} y={24.0}>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Row item" id="01M4V5T71SMS505T0M26AAMMKE" local_size={[67.0, 21.0]} meta={{"figma_id": "107:23169", "figma_type": "TEXT"}} name="Row item" opacity={1.0} style={{"color": fnxColor("#EBEBEB"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={16.0} y={18.0} />
+    </Frame>
+  );
+}

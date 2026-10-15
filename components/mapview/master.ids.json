@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70E318DK3M0E6ZF07FZ",
+      "index": 508.0,
+      "name": "MapView",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T704G9C2KKFA5K6G3NQ7",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

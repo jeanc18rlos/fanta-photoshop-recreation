@@ -1,0 +1,32 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T730JYM0KSM6M7FJ1SFH",
+      "index": 3.0,
+      "name": "Variant=Move",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7307ZNE8J2H9JABH9SK",
+      "index": 1.0,
+      "name": "Background",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73067WMQAG4P3JCWRJQ",
+      "index": 2.0,
+      "name": "Icon Container",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7305SAF56E5CHH05PKX",
+      "index": 1.0,
+      "name": "Move",
+      "parent_index": 2,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T730E2SW43H3WH5AP6X6"
+}

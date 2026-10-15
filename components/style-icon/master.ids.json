@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78FXJBENNA1PQC5VQ18",
+      "index": 1.0,
+      "name": "Style=Icon",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T78FEGE32KRTHDR84V0S",
+      "index": 1.0,
+      "name": "Background",
+      "parent_index": 0,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T78FJJN6H9A7J6YDGTX7",
+      "index": 2.0,
+      "name": "Left Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T78FVFCY4AZAJV8CND4K",
+      "index": 3.0,
+      "name": "Center Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T78FQMMTNQAHW00VCK5M",
+      "index": 4.0,
+      "name": "Right Icon",
+      "parent_index": 0,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T78FAY7BJZN3KK739FBF"
+}

@@ -1,0 +1,39 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T7357YRMQMG6RPSYX07N",
+      "index": 2.0,
+      "name": "Card Type=Product",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7356Y8YV6NHJ4A15C7R",
+      "index": 1.0,
+      "name": "Text Button",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7351JSAP9W74HTH211P",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T735E4ENHAGHCB76QWRA",
+      "index": 2.0,
+      "name": "Accent Button",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T735XCGQZQKACRYSAZY2",
+      "index": 1.0,
+      "name": "Label",
+      "parent_index": 3,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T735KDK1VZ8KAM415NMD"
+}

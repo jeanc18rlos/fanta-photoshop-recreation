@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70G59CYBDF92JD37CE3",
+      "index": 132.0,
+      "name": "ChevronLeft",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T703JCBTAFANJ9K2VNEM",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

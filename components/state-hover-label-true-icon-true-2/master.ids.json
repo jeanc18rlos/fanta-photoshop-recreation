@@ -1,0 +1,25 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T722KWHFTY8QD93GSPQY",
+      "index": 7.0,
+      "name": "State=Hover, Label ?=True, Icon ?=True",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7222P8Y7M1H5CZVFQES",
+      "index": 1.0,
+      "name": "CheckmarkCircle",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T7222ZYBRDNQBW0PR6HH",
+      "index": 2.0,
+      "name": "Label",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T722EX78Q8ZVCRGKEVKX"
+}

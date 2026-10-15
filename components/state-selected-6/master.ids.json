@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71T2RAYDM2TCANZ0B1K",
+      "index": 3.0,
+      "name": "State=Selected",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71TCF36056WS2ZNAEHG",
+      "index": 1.0,
+      "name": "Row item",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T71TPH3Z1835GK44FKBA"
+}

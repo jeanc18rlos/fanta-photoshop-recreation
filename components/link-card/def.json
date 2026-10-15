@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GQ1ZN8BKFE7QK5NYNW",
+  "name": "_Link Card",
+  "props": [
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GQEEJY4C882KA0TKF9",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Link Prompt"
+    },
+    {
+      "default": {
+        "kind": "string",
+        "value": ""
+      },
+      "id": "01M4V5T7GQ0RAW6FXVNYD4ED1J",
+      "kind": {
+        "kind": "text"
+      },
+      "name": "Supporting Text"
+    }
+  ],
+  "root": "01M4V5T70HGA73HSA5SVK10NWR"
+}

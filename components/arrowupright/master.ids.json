@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70HKF20BBDNEM6B6Q1D",
+      "index": 45.0,
+      "name": "ArrowUpRight",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T702SJWX1T98B3RCQMVW",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}

@@ -1,0 +1,11 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Status___Color_Neutral__State_Touch__Label___True__Icon___False() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [8.0, 16.0, 10.0, 15.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} background={{"color": fnxColor("#3F3F3F"), "kind": "solid"}} blend_mode="normal" clip_size={[70.0, 40.0]} corner_radius={5.0} id="01M4V5T725NCF2Y82PGNP9SX96" meta={{"figma_id": "112:24083", "figma_type": "SYMBOL"}} name="Status / Color=Neutral, State=Touch, Label ?=True, Icon ?=False" opacity={1.0} scrollable={false} x={322.0} y={870.0}>
+      <Text align="center" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T7253QEJ70KMBWFEZ4K3" local_size={[39.0, 21.0]} meta={{"figma_id": "112:24084", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#FFFFFF"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 17.0, "weight": 400}} vertical_align="center" x={15.0} y={8.5} />
+    </Frame>
+  );
+}

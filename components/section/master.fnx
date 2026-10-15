@@ -1,0 +1,14 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function _Section() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "start", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 12.0, "wrap": false}} blend_mode="normal" clip_size={[950.0, 44.0]} id="01M4V5T70HADYZ7YE6FS1YHJCH" layout_child={{"align_self": "stretch"}} meta={{"clip_content": false, "figma_id": "47:17208", "figma_type": "SYMBOL"}} name="_Section" opacity={1.0} scrollable={false} x={96.0} y={224.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "start", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 8.0, "wrap": false}} blend_mode="normal" clip_size={[950.0, 28.0]} id="01M4V5T70HKA6ZSRTKK3057RJC" layout_child={{"align_self": "stretch"}} meta={{"clip_content": false, "figma_id": "47:17204", "figma_type": "FRAME"}} name="Text Container" opacity={1.0} scroll_direction="none" scrollable={true} x={0.0} y={0.0}>
+        <Text align="left" auto_resize="height" blend_mode="normal" content="Section" id="01M4V5T70HMKBZGXCXGX1DEWBH" layout_child={{"align_self": "stretch"}} local_size={[950.0, 28.0]} meta={{"figma_id": "47:17205", "figma_type": "TEXT"}} name="Section" opacity={1.0} style={{"color": fnxColor("#222222"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 22.0, "weight": 700}} vertical_align="center" x={0.0} y={0.0} />
+      </Frame>
+      <Rect blend_mode="normal" corner_radius={50.0} fills={[{"color": fnxColor("#222222"), "kind": "solid"}]} height={4.0} id="01M4V5T70HH6CJ3B3ANRM5DFA8" layout_child={{"align_self": "stretch"}} local_size={[950.0, 4.0]} meta={{"figma_id": "47:17206", "figma_type": "ROUNDED_RECTANGLE"}} name="Divider" opacity={1.0} width={950.0} x={0.0} y={40.0} />
+    </Frame>
+  );
+}

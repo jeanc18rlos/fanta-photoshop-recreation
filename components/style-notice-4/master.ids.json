@@ -1,0 +1,46 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T78006KKS14RDVMYYR5Z",
+      "index": 4.0,
+      "name": "Style=Notice",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7804VT5S96G0E77PTNF",
+      "index": 1.0,
+      "name": "Header",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780WHZCY015BNT51N4S",
+      "index": 1.0,
+      "name": "Title",
+      "parent_index": 1,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T780E40A7XP76NXK3ARM",
+      "index": 2.0,
+      "name": "Icon Container",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T780SRSV8HHQ345628AH",
+      "index": 1.0,
+      "name": "Alert",
+      "parent_index": 3,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T780X73FWVM6VW8T80Y9",
+      "index": 2.0,
+      "name": "Body",
+      "parent_index": 0,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T780F24SX1H7HGBZRAQY"
+}

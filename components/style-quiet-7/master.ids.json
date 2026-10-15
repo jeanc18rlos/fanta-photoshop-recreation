@@ -1,0 +1,60 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71PKSP1K3KAV6V4R3CK",
+      "index": 2.0,
+      "name": "Style=Quiet",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71P4CYEFMKSN102T2DK",
+      "index": 1.0,
+      "name": "_Table - Header - Checkbox - Desktop - Dark",
+      "parent_index": 0,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PB9Q7D03PRTZKGH8R",
+      "index": 2.0,
+      "name": "Rows",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71PFF9Q065WKVH5X9F2",
+      "index": 1.0,
+      "name": "_Table - Row Item - Checkbox - Desktop - Dark",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PJZF0NM3C98NFY247",
+      "index": 2.0,
+      "name": "_Table - Row Item - Checkbox - Desktop - Dark",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PC2J23MSCN89R5926",
+      "index": 3.0,
+      "name": "_Table - Row Item - Checkbox - Desktop - Dark",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PSMM0TDEXM9GAQVD9",
+      "index": 4.0,
+      "name": "_Table - Row Item - Checkbox - Desktop - Dark",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T71PFCXS95J2GR868REV",
+      "index": 5.0,
+      "name": "_Table - Row Item - Checkbox - Desktop - Dark",
+      "parent_index": 2,
+      "tag": "Instance"
+    }
+  ],
+  "root_parent": "01M4V5T71PEZGZK48QJ7X3V4Q5"
+}

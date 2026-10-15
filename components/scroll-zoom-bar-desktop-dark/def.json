@@ -1,0 +1,29 @@
+{
+  "id": "01M4V5T7GVKVJ08Q44HM109FCA",
+  "name": "Scroll-Zoom Bar - Desktop - Dark",
+  "props": [
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVRRNAPTY6M0MVKXCE",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Handles ?"
+    },
+    {
+      "default": {
+        "kind": "boolean",
+        "value": true
+      },
+      "id": "01M4V5T7GVBCA70ETN4VP8D5MH",
+      "kind": {
+        "kind": "bool"
+      },
+      "name": "Track ?"
+    }
+  ],
+  "root": "01M4V5T77K76WVQBEBCS4Z43HA"
+}

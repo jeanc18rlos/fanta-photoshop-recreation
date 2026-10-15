@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71MVG4H3CQTQ8TSEGSV",
+      "index": 1.0,
+      "name": "Color Loupe - Mobile - Darkest",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71MBKWF3J8QX3JG1006",
+      "index": 1.0,
+      "name": "Color Loupe",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T71M1H3JAB28D3N8592D"
+}

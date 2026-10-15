@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T773TY0PJQGNESDD92EC",
+      "index": 4.0,
+      "name": "Option=Truncation Folder, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T7736RRW4K4BFM38P4J5",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7730K0Z5K47Y3ZJKYQ8"
+}

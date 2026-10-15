@@ -1,0 +1,14 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Style_None__State_Touch__Toggled___Off() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [7.0, 0.0, 7.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 10.0, "wrap": false}} blend_mode="normal" clip_size={[69.0, 32.0]} id="01M4V5T73ZWPCEQEC46V0PSYVQ" meta={{"clip_content": false, "figma_id": "204:28702", "figma_type": "SYMBOL"}} name="Style=None, State=Touch, Toggled ?=Off" opacity={1.0} scrollable={false} x={258.0} y={40.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "start", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#D5D5D5"), "kind": "solid"}} blend_mode="normal" clip_size={[26.0, 14.0]} corner_radius={20.0} id="01M4V5T73ZTH2TP7Y6AANVXKKP" meta={{"clip_content": false, "figma_id": "204:28703", "figma_type": "FRAME"}} name="Switch" opacity={1.0} scroll_direction="none" scrollable={true} x={0.0} y={9.0}>
+        <Ellipse blend_mode="normal" fills={[{"color": fnxColor("#FDFDFD"), "kind": "solid"}]} height={14.0} id="01M4V5T73ZB3VQ9RZGV7YS0CHF" local_size={[14.0, 14.0]} meta={{"figma_id": "204:28704", "figma_type": "ELLIPSE"}} name="Handle" opacity={1.0} strokes={[{"align": "inside", "cap": "butt", "dash": [], "join": "miter", "miter_limit": 4.0, "paint": {"color": fnxColor("#222222"), "kind": "solid"}, "width": 2.0}]} width={14.0} x={0.0} y={0.0} />
+      </Frame>
+      <Text align="left" auto_resize="width_and_height" blend_mode="normal" content="Label" id="01M4V5T73Z9WXX7SDGEZW1T4P8" local_size={[33.0, 18.0]} meta={{"figma_id": "204:28705", "figma_type": "TEXT"}} name="Label" opacity={1.0} style={{"color": fnxColor("#000000"), "font_family": "Source Sans Pro", "italic": false, "letter_spacing": 0.0, "line_height": 1.2, "line_height_auto_percent": 100.0, "size_px": 14.0, "weight": 400}} vertical_align="center" x={36.0} y={7.0} />
+    </Frame>
+  );
+}

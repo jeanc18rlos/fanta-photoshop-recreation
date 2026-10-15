@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T71R0H2ZGWQB6WKP4BE3",
+      "index": 1.0,
+      "name": "State=Unselected",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T71RDERGKDGWDCDWE9Y2",
+      "index": 1.0,
+      "name": "Unselected Checkbox",
+      "parent_index": 0,
+      "tag": "Frame"
+    }
+  ],
+  "root_parent": "01M4V5T71QF6F31E9MWGJRY3PK"
+}

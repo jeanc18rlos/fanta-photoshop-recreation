@@ -1,0 +1,13 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function State_Indeterminate() {
+  return (
+    <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "horizontal", "padding": [0.0, 16.0, 0.0, 16.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} blend_mode="normal" clip_size={[59.0, 39.0]} id="01M4V5T71T1C5NFFKPD0VMXKC0" meta={{"figma_id": "107:23195", "figma_type": "SYMBOL"}} name="State=Indeterminate" opacity={1.0} scrollable={false} x={190.0} y={34.0}>
+      <Frame auto_layout={{"child_layout": true, "counter_align": "center", "counter_sizing": "fixed", "counter_spacing": 0.0, "flow_reverse": false, "mode": "vertical", "padding": [0.0, 0.0, 0.0, 0.0], "primary_align": "center", "primary_sizing": "fixed", "reverse_z": false, "spacing": 0.0, "wrap": false}} background={{"color": fnxColor("#4096F3"), "kind": "solid"}} blend_mode="normal" clip_size={[18.0, 18.0]} corner_radius={2.0} id="01M4V5T71TMJXYC92TSYWB94J8" meta={{"figma_id": "107:23196", "figma_type": "FRAME"}} name="Intermediate Checkbox" opacity={1.0} scroll_direction="none" scrollable={true} x={20.5} y={10.5}>
+        <Rect blend_mode="normal" corner_radius={20.0} fills={[{"color": fnxColor("#0E0E0E"), "kind": "solid"}]} height={2.0} id="01M4V5T71T4P1ZA0VWBVJR16YH" local_size={[12.0, 2.0]} meta={{"figma_id": "107:23197", "figma_type": "ROUNDED_RECTANGLE"}} name="Shape" opacity={1.0} width={12.0} x={3.0} y={8.0} />
+      </Frame>
+    </Frame>
+  );
+}

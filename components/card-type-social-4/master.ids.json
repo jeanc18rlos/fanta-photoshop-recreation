@@ -1,0 +1,81 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T73GWXRTE3H4W13KC16C",
+      "index": 1.0,
+      "name": "Card Type=Social",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73G98K71HJ0KZYYN6V5",
+      "index": 1.0,
+      "name": "Facebook Icon",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73GCF3V6MEA7QP77MX3",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73GB85JYC5GY0BWZV5Q",
+      "index": 2.0,
+      "name": "Vector",
+      "parent_index": 1,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4V5T73G9QHJS2TDKP41AG9F",
+      "index": 2.0,
+      "name": "Stats",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73GD21CZ8F870447MXH",
+      "index": 1.0,
+      "name": "Likes",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73GWVPC0W40F49NSGS0",
+      "index": 1.0,
+      "name": "ThumbUp",
+      "parent_index": 5,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73G8TT627J0JABA70CW",
+      "index": 2.0,
+      "name": "Value",
+      "parent_index": 5,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4V5T73G2R3E57AFDHWVHY6H",
+      "index": 2.0,
+      "name": "Comments",
+      "parent_index": 4,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T73G9ARD5TGW6THEGGYJ",
+      "index": 1.0,
+      "name": "Comment",
+      "parent_index": 8,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4V5T73GQGP18Y8R9D86EGM5",
+      "index": 2.0,
+      "name": "Value",
+      "parent_index": 8,
+      "tag": "Text"
+    }
+  ],
+  "root_parent": "01M4V5T73GKKV8K25FT7QSBQ3S"
+}

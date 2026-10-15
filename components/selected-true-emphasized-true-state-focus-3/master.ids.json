@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T76ZFRFQN254Q6HAZKZ9",
+      "index": 7.0,
+      "name": "Selected=True, Emphasized=True, State=Focus",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T76Z5WHV6Y76JKSFVDBA",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T76ZS2QHXVQBJ5TAH619"
+}

@@ -1,0 +1,18 @@
+{
+  "ids": [
+    {
+      "id": "01M4V5T70FE8BSTA24FK7DPRJR",
+      "index": 373.0,
+      "name": "GearsDelete",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4V5T72BDQ7Q6C6E2JFW30YC",
+      "index": 1.0,
+      "name": "Vector",
+      "parent_index": 0,
+      "tag": "Vector"
+    }
+  ],
+  "root_parent": "01M4V5T7AYR6YHH41XZN0G44WV"
+}
