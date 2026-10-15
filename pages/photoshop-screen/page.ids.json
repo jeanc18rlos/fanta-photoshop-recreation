@@ -1,0 +1,1060 @@
+{
+  "ids": [
+    {
+      "id": "01M4YH6Z96MQSHNPFYYH4NSDPF",
+      "index": 3.0,
+      "name": "🖌️  Photoshop Screen",
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJSXGK806TC4KZ6TVZE820",
+      "index": 1.0,
+      "name": "Photoshop — Editing Session",
+      "parent_index": 0,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJSXSD4FWNP9XZVFDM6MAN",
+      "index": 1.0,
+      "name": "Menu Bar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJEQVV74M4E7VGGY52VKN7",
+      "index": 1.0,
+      "name": "Photoshop Badge",
+      "parent_index": 2,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJ4NN7HSFTEQF1FZCZ1D33",
+      "index": 1.0,
+      "name": "Ps",
+      "parent_index": 3,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4YJ81A4Q0N4DN2DMC6Q02ZR",
+      "index": 2.0,
+      "name": "File",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ2SD6TSSB866KS0KBGDX4",
+      "index": 3.0,
+      "name": "Edit",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJNV1NMTN8GXEZQEVFVKPG",
+      "index": 4.0,
+      "name": "Image",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ04NH7AA0NTA854CKA48G",
+      "index": 5.0,
+      "name": "Layer",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJQAQRXPY5RPWEFZ3954V2",
+      "index": 6.0,
+      "name": "Type",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJT6TE33FQACAXKJAEC4YH",
+      "index": 7.0,
+      "name": "Select",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ9JY9BWEDAD52DDZNVJ3V",
+      "index": 8.0,
+      "name": "Filter",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJTK93QTX1ZJHF7P5NTZ6Q",
+      "index": 9.0,
+      "name": "3D",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ906G97W4Y0PPW83PCF0Y",
+      "index": 10.0,
+      "name": "View",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJR8BMT1PJEQ09YCPBXX2H",
+      "index": 11.0,
+      "name": "Plugins",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ9G72R56P5QC66RRTRZDN",
+      "index": 12.0,
+      "name": "Window",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJRFTQFNRKW0EC0AM4273C",
+      "index": 13.0,
+      "name": "Help",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJDFAYNRYTGCT7GRHX11K3",
+      "index": 14.0,
+      "name": "Share Button",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJTPT36FG6ZSM1T27HTKQC",
+      "index": 15.0,
+      "name": "Help",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ5QV3YASQ1VNZ10CSJYSH",
+      "index": 16.0,
+      "name": "Search",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJXM25FKSS82RWJVBMQXDZ",
+      "index": 17.0,
+      "name": "Workspace",
+      "parent_index": 2,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJJMDMHFHJE1QPSJ0JKG50",
+      "index": 18.0,
+      "name": "Document Title",
+      "parent_index": 2,
+      "tag": "Text"
+    },
+    {
+      "id": "01M4YJ3TNYW15B9HGM09JB3RP4",
+      "index": 2.0,
+      "name": "Options Bar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJSZVTV7989NM1X8DKNCVC",
+      "index": 1.0,
+      "name": "Tool Preset",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ1NBSGKVHT0D9H8A0M844",
+      "index": 2.0,
+      "name": "Divider",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJZZJ35GT6ZVACBA5XT77D",
+      "index": 3.0,
+      "name": "Size Picker",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ1YV5Q21J2AHPVSCMPSX0",
+      "index": 4.0,
+      "name": "Mode Picker",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJHEE9D374WJAMCG8FM3PH",
+      "index": 5.0,
+      "name": "Opacity Slider",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJBT1ZWHC25VWHVW2MGJND",
+      "index": 6.0,
+      "name": "Pressure for Opacity",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJGNMHVXP4SS7M5PE6E248",
+      "index": 7.0,
+      "name": "Flow Slider",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJNSQMNR8C61AXGQKRKGCB",
+      "index": 8.0,
+      "name": "Airbrush",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJA95ZZAMGN6A25K1YJ5X4",
+      "index": 9.0,
+      "name": "Smoothing Slider",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJTWQ6FXNN35J6ADYZR6J7",
+      "index": 10.0,
+      "name": "Smoothing Options",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ43YQE5QW6MJMZ4GBPY9T",
+      "index": 11.0,
+      "name": "Divider",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ197FS8YCZ3J8M7VX08PP",
+      "index": 12.0,
+      "name": "Symmetry",
+      "parent_index": 22,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJDYBS911DYW8MSDNQMNXJ",
+      "index": 3.0,
+      "name": "Toolbar",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJK7KTZB5Q9GKRRH2F56A1",
+      "index": 1.0,
+      "name": "Move Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ71C4PA1HWQ20QFPA4QAK",
+      "index": 2.0,
+      "name": "Rectangular Marquee Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ3GDK72RB4T2JH56G7CT7",
+      "index": 3.0,
+      "name": "Polygonal Lasso Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJHE9R2Z5EMCS73SWXJFMY",
+      "index": 4.0,
+      "name": "Object Selection Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ3F7YEZK2PQT6SQ6EZ9DB",
+      "index": 5.0,
+      "name": "Crop Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJR12M31M50SP8JWQJ0H4H",
+      "index": 6.0,
+      "name": "Eyedropper Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ1PMSV7EENV4A7NA64578",
+      "index": 7.0,
+      "name": "Divider",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ3FAQ4S3BKEWFVTWKJFMY",
+      "index": 8.0,
+      "name": "Spot Healing Brush Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJJ5KZCQAR5FWT39HY3QQ1",
+      "index": 9.0,
+      "name": "Brush Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJQT01HY940W2XKY8MHFMT",
+      "index": 10.0,
+      "name": "Clone Stamp Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJE5R6AW1H47GSTJ9EFC5Z",
+      "index": 11.0,
+      "name": "Eraser Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJQQ9MM3896C5JJCWSED20",
+      "index": 12.0,
+      "name": "Gradient Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJFERY0WSV2P4GTJ1X9X9Y",
+      "index": 13.0,
+      "name": "Blur Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJRQ4WHX1S7Q3QGTMGX5JZ",
+      "index": 14.0,
+      "name": "Dodge Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJSZYA6R69SPV89CWKWD5R",
+      "index": 15.0,
+      "name": "Divider",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJZTERNB1WF541FDT6GWQA",
+      "index": 16.0,
+      "name": "Pen Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJPJGA687SGFWB7S5TD6VP",
+      "index": 17.0,
+      "name": "Horizontal Type Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ3KSC0RN2RJVNFGGGKHX8",
+      "index": 18.0,
+      "name": "Path Selection Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ4Z8SGQK7DAPBPQMAQM26",
+      "index": 19.0,
+      "name": "Rectangle Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJWW706KWRT2PR9HR57GKZ",
+      "index": 20.0,
+      "name": "Divider",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJCNP1CG6RJ1JECC1KDSAP",
+      "index": 21.0,
+      "name": "Hand Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ3ZNFAW51F178WXQK3KPJ",
+      "index": 22.0,
+      "name": "Zoom Tool",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ2Y279FJV8YJ0HFDK6KVC",
+      "index": 23.0,
+      "name": "Edit Toolbar",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJDZQKHFJZQ7W1Z9HWKC9R",
+      "index": 24.0,
+      "name": "Background Color",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJFAZERSD98NMGANRB6DH4",
+      "index": 25.0,
+      "name": "Foreground Color",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJPPS58C4HZ952FA7PRHHE",
+      "index": 26.0,
+      "name": "Quick Mask Mode",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ5X364AFCNF40W7E40QHY",
+      "index": 27.0,
+      "name": "Change Screen Mode",
+      "parent_index": 35,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ81304DH7J2KXNP0P5Y77",
+      "index": 4.0,
+      "name": "Document Window",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJFVYRKXYS8EDV5WXR7MFF",
+      "index": 1.0,
+      "name": "Document Tabs",
+      "parent_index": 63,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJ5BWXH84AQMTKD56F9RBC",
+      "index": 1.0,
+      "name": "Divider",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJM92096FFN6P4X0C8JNXK",
+      "index": 2.0,
+      "name": "Active Tab Background",
+      "parent_index": 64,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJTKXEQBJ87D1124310TYY",
+      "index": 3.0,
+      "name": "Tropical_Garden.psd @ 50% (Foliage Paint, RGB/8) Tab",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ6FGGXX6FJ54B2SXF2AY8",
+      "index": 4.0,
+      "name": "Close Document",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ79KTQ0D9R2KJZYP5RGF5",
+      "index": 5.0,
+      "name": "Portrait_Retouch.jpg @ 33.3% (RGB/8) Tab",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJD5FKE39288PM7T54ACXQ",
+      "index": 6.0,
+      "name": "Close Document",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJHCSRVPNR0RQ5VKESAHWF",
+      "index": 7.0,
+      "name": "Poster_Layout.psd @ 25% (Headline, CMYK/8) Tab",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJCZH8BKM12MH6HHT7B117",
+      "index": 8.0,
+      "name": "Close Document",
+      "parent_index": 64,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJPS5NG4AR167CQKSWGETS",
+      "index": 2.0,
+      "name": "Canvas Area",
+      "parent_index": 63,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJJNX4S75M483XV9MAQM4Q",
+      "index": 1.0,
+      "name": "Tropical_Garden.psd",
+      "parent_index": 73,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4YJJXJF2RG33525HAQ245JG",
+      "index": 2.0,
+      "name": "Selection Edge",
+      "parent_index": 73,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4YJAB3YCQ3RQFSA2ZNC7K69",
+      "index": 3.0,
+      "name": "Selection Marching Ants",
+      "parent_index": 73,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4YJ75G0WWY0JB1XPEYZMS7M",
+      "index": 4.0,
+      "name": "Brush Cursor Shadow",
+      "parent_index": 73,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4YJ6K7EDYNW5J5XVH3TGMNV",
+      "index": 5.0,
+      "name": "Brush Cursor",
+      "parent_index": 73,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4YJ83DGFHFQ3MYPEF4X999C",
+      "index": 3.0,
+      "name": "Status Bar",
+      "parent_index": 63,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJNFA000HXT9KEYZKYPECD",
+      "index": 1.0,
+      "name": "50%",
+      "parent_index": 79,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJHG6RJTM0CQXNK32A8K1P",
+      "index": 2.0,
+      "name": "Divider",
+      "parent_index": 79,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJKCWWT73C0BX62DKS96MD",
+      "index": 3.0,
+      "name": "4096 px × 2896 px (300 ppi)",
+      "parent_index": 79,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJVD1GNV3YS7EWEDW4DYJ6",
+      "index": 4.0,
+      "name": "Scratch: 412.3M / 1.21G",
+      "parent_index": 79,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJMCT6HFH8VAA6Q0TNQ0NX",
+      "index": 5.0,
+      "name": "Panel Dock",
+      "parent_index": 1,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJ0V3G2V889HRVMKXGNK3E",
+      "index": 1.0,
+      "name": "Color Panel",
+      "parent_index": 84,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJDCPKR5NQ04HNMZY5V1GV",
+      "index": 1.0,
+      "name": "Color Tab",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ41NEDF2ZRFGN9NZMVJBH",
+      "index": 2.0,
+      "name": "Swatches Tab",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJPY6NQ9K31SCPR9PXA923",
+      "index": 3.0,
+      "name": "Gradients Tab",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJQEZ7HC5RVVAQ1RF1GM5B",
+      "index": 4.0,
+      "name": "Patterns Tab",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJDK2ATCPTB9J5AF7NV4Z5",
+      "index": 5.0,
+      "name": "Panel Menu",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJBZFYPWN75PWR7VFX45CM",
+      "index": 6.0,
+      "name": "Color Area",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJZH27MSEA6RWDK9ANGNMN",
+      "index": 7.0,
+      "name": "Hue Slider",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJK0BE97W6BGB9X68STXXC",
+      "index": 8.0,
+      "name": "Background Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJN21CJP3FHYC5CGQ9HD67",
+      "index": 9.0,
+      "name": "Foreground Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJPZX8M0V0NEKHJQY6CE5T",
+      "index": 10.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJYRHFRNZ9SK1GVQXFR69H",
+      "index": 11.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJFFA5WKHVXJEQ6FSJKR1Y",
+      "index": 12.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJQ55KBM43J53B12VG97X1",
+      "index": 13.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJRYSFR52545EXHWQ3G2F8",
+      "index": 14.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJV6HFRMDWAZVMJFP4CV3T",
+      "index": 15.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ5AGMKRC3SAVB495EMA9X",
+      "index": 16.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ8N8QMFP2AQE626S39YYW",
+      "index": 17.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ9H4B9Z4XAAGD0AZM811S",
+      "index": 18.0,
+      "name": "Recent Color",
+      "parent_index": 85,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJMC8V81PMDE968EP9493N",
+      "index": 2.0,
+      "name": "History Panel",
+      "parent_index": 84,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJAPQDVV1M1ZE2FFV2D6GW",
+      "index": 1.0,
+      "name": "History Tab",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ4XB64NBJ3X1RBAETASW8",
+      "index": 2.0,
+      "name": "Actions Tab",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ63P7JZ42A2A8AF8RSTXV",
+      "index": 3.0,
+      "name": "Properties Tab",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJDCSSVXYBMYKAP57S68XH",
+      "index": 4.0,
+      "name": "Panel Menu",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ2GTJJ8P8PPHJACFH9GNT",
+      "index": 5.0,
+      "name": "Open",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJCTS9MX61EQBHDJPF4VZS",
+      "index": 6.0,
+      "name": "New Layer",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJJVDBYE7RWMDJPRMDC56K",
+      "index": 7.0,
+      "name": "Rectangular Marquee",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJKBCNNSKMF0N7SHRHMEWB",
+      "index": 8.0,
+      "name": "Brush Tool",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJW835N186FQ42SHXGHA7M",
+      "index": 9.0,
+      "name": "Brush Tool",
+      "parent_index": 104,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJNSBYG4WAYQFT7ND5A6HZ",
+      "index": 3.0,
+      "name": "Layers Panel",
+      "parent_index": 84,
+      "tag": "Frame"
+    },
+    {
+      "id": "01M4YJJMVB5HFMW71P41V0RFGK",
+      "index": 1.0,
+      "name": "Layers Tab",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJCFV5VXWNP2N1JASAZMDH",
+      "index": 2.0,
+      "name": "Channels Tab",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ4X40D78K6RNPS02WVWRP",
+      "index": 3.0,
+      "name": "Paths Tab",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJJMPVB3726JHD0QQPD0WH",
+      "index": 4.0,
+      "name": "Panel Menu",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJF3KHRMEDVQ6HQ8E67GH1",
+      "index": 5.0,
+      "name": "Filter Picker",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJMB01S18NJQ2A626E1TEJ",
+      "index": 6.0,
+      "name": "Pixel Layer Filter",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ0ZHJH8N3F0XXDSJCEQNS",
+      "index": 7.0,
+      "name": "Type Layer Filter",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJD1VHFYZ0YHCFZK0CFP01",
+      "index": 8.0,
+      "name": "Blend Picker",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ4G3FK6R1Z4MZMW2FKVBN",
+      "index": 9.0,
+      "name": "Opacity Slider",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ6XFSHVQYJJEGX51YNCAA",
+      "index": 10.0,
+      "name": "Lock",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJGXSWK4YSBCC9WM2FB069",
+      "index": 11.0,
+      "name": "Lock Transparent Pixels",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJFB7PGCSJCDAJ9AB6HXQM",
+      "index": 12.0,
+      "name": "Lock Image Pixels",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJD5Q1NE87NQR37SG7AQ34",
+      "index": 13.0,
+      "name": "Lock Position",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJXT6D97CZJ6WHNE08TQ4N",
+      "index": 14.0,
+      "name": "Lock All",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJCWERXGB3F3ZBGFDZRZV8",
+      "index": 15.0,
+      "name": "Divider",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ2X1GSX1QHY112583YHQX",
+      "index": 16.0,
+      "name": "Layer — Hue/Saturation 1",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ6WYX6EK4560N44PP7YNB",
+      "index": 17.0,
+      "name": "Hue/Saturation 1 Thumbnail",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ9BKWAAHZ7GM4Y7XQ8JJH",
+      "index": 18.0,
+      "name": "Layer — Foliage Paint",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJEC8NJXFQA0SXAC17HZGX",
+      "index": 19.0,
+      "name": "Foliage Paint Thumbnail",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ4R2C6AVVGA9VJFVX6XAK",
+      "index": 20.0,
+      "name": "Layer — Yellow Dabs",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJG1ANH47Y4KQKVDCZQ4XC",
+      "index": 21.0,
+      "name": "Yellow Dabs Thumbnail",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJPN7CA2BA0NZSB7SE8XA3",
+      "index": 22.0,
+      "name": "Layer Effects",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJXBK9RBGFS99RP7FQJN4G",
+      "index": 23.0,
+      "name": "Layer — Sketch",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJHNA2FJ72BGW9RC45TMQG",
+      "index": 24.0,
+      "name": "Sketch Thumbnail",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJKGAGHMJ457E1NC6YWPDG",
+      "index": 25.0,
+      "name": "Layer — Background",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJJ2PNJ1AF53B7Y1C4806R",
+      "index": 26.0,
+      "name": "Background Thumbnail",
+      "parent_index": 114,
+      "tag": "Vector"
+    },
+    {
+      "id": "01M4YJ3D20JVCT1C6Q3C2CA5N7",
+      "index": 27.0,
+      "name": "Locked",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJV7N6ZP63JW1F3CGF0G9N",
+      "index": 28.0,
+      "name": "Divider",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJDQW881DWK4Q2R6K9RA76",
+      "index": 29.0,
+      "name": "Link Layers",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJJ7QEM3S6CCJKQV31VMZF",
+      "index": 30.0,
+      "name": "Add a Layer Style",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJERY7639VSSZW747414BC",
+      "index": 31.0,
+      "name": "Add Layer Mask",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJX5XW81WHZRBADX46ZDSP",
+      "index": 32.0,
+      "name": "New Fill or Adjustment Layer",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJHWA8KQJYPZRSKPBG9JQN",
+      "index": 33.0,
+      "name": "New Group",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJYS1TFT50PFPAQ7DRH9CC",
+      "index": 34.0,
+      "name": "New Layer",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJ1YB7C3076J928YXN2ZB4",
+      "index": 35.0,
+      "name": "Delete Layer",
+      "parent_index": 114,
+      "tag": "Instance"
+    },
+    {
+      "id": "01M4YJSYH9VZ1D2YBP68XM2JZT",
+      "index": 6.0,
+      "name": "Tooltip — Brush Tool",
+      "parent_index": 1,
+      "tag": "Instance"
+    }
+  ]
+}

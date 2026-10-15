@@ -1,0 +1,17 @@
+/** @jsxRuntime classic */
+/** @jsx fnxElement */
+import { AiArtifact, Audio, Boolean, Ellipse, Embed, Frame, Image, Instance, Model3D, NodeGraph, Rect, Text, TextPath, Vector, Video } from "../../fnx";
+// @generated fanta source — the design is the source of truth; ids are mirrored in the .ids sidecar
+export default function Photoshop_Screen() {
+  return (
+    <Frame background={{"color": fnxColor("#1D1D1D"), "kind": "solid"}} blend_mode="normal" id="01M4YH6Z96MQSHNPFYYH4NSDPF" name="🖌️  Photoshop Screen" opacity={1.0} scrollable={false} x={0.0} y={0.0}>
+      <Frame background={{"color": fnxColor("#0E0E0E"), "kind": "solid"}} blend_mode="normal" clip_size={[1920, 1080]} id="01M4YJSXGK806TC4KZ6TVZE820" name="Photoshop \u2014 Editing Session" opacity={1.0} scrollable={false} x={0} y={0}>
+        <Frame background={{"color": fnxColor("#1D1D1D"), "kind": "solid"}} blend_mode="normal" clip_size={[1920, 40]} id="01M4YJSXSD4FWNP9XZVFDM6MAN" name="Menu Bar" opacity={1.0} scrollable={false} x={0} y={0} />
+        <Frame background={{"color": fnxColor("#1D1D1D"), "kind": "solid"}} blend_mode="normal" clip_size={[1920, 48]} id="01M4YJ3TNYW15B9HGM09JB3RP4" name="Options Bar" opacity={1.0} scrollable={false} x={0} y={41} />
+        <Frame background={{"color": fnxColor("#1D1D1D"), "kind": "solid"}} blend_mode="normal" clip_size={[48, 990]} id="01M4YJDYBS911DYW8MSDNQMNXJ" name="Toolbar" opacity={1.0} scrollable={false} x={0} y={90} />
+        <Frame background={{"color": fnxColor("#171717"), "kind": "solid"}} blend_mode="normal" clip_size={[1551, 990]} id="01M4YJ81304DH7J2KXNP0P5Y77" name="Document Window" opacity={1.0} scrollable={false} x={49} y={90} />
+        <Frame background={{"color": fnxColor("#0E0E0E"), "kind": "solid"}} blend_mode="normal" clip_size={[318, 990]} id="01M4YJMCT6HFH8VAA6Q0TNQ0NX" name="Panel Dock" opacity={1.0} scrollable={false} x={1602} y={90} />
+      </Frame>
+    </Frame>
+  );
+}
